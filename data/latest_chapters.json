@@ -1,15 +1,423 @@
 [
   {
-    "uid": "3_218",
+    "uid": "5_122",
+    "novelId": 5,
+    "novelTitle": "المهندس الأعظم",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig9E8Vllh3mqFuvl28YHE6EUOlNHjr89Vdm5ZfPnq99-os5-6yBhjTo-eOmB8t4_PKvv0P7dDKmnQrVG-DWWTn967AMeor6yDXfp5NOiIpXuMzuA5WZwJg-fQv4LB3pJoztrembU8Y_ezji3Y-XDx_nij_AFiOAOXOy3tuZJXDNjLgbpAWQFLizkFKi1LP/s1600/26778.jpg",
+    "novelLink": "https://www.novelskyworld.com/p/the-greatest-estate-developer.html",
+    "num": 122,
+    "fullTitle": "الفصل 122: انتزاع أموال الاستثمار (2)",
+    "chapterTitle": "الفصل 122: انتزاع أموال الاستثمار (2)",
+    "link": "https://www.novelskyworld.com/2026/10/122-2.html",
+    "date": "2026-10-15T18:00:00+00:00"
+  },
+  {
+    "uid": "3_232",
     "novelId": 3,
     "novelTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا",
     "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic5Rz2wdPDDyQzAPqo8FNtkXq2z0eri9l4URgfK1nKYKmBGPutdmmMmFqX8MYd9LZYqHb4oKHYA-5oCxGcx0DmM6ch_PQJkt7Pj4h0AMMYYj4BBCVlPr2Ebeuva1i3qJYLVGKhjLfHU-rXJN0IXXh2mVkn3pL6r3tLngXd_0Es-dsdu31cs_vm3BOVED3w/s1280/1000138946.webp",
     "novelLink": "https://www.novelskyworld.com/p/blog-page_14.html",
-    "num": 218,
-    "fullTitle": "الفصل 218: الحرفيون الذين لا يستطيعون العودة لبيوتهم في رأس السنة",
-    "chapterTitle": "الفصل 218: الحرفيون الذين لا يستطيعون العودة لبيوتهم في رأس السنة",
-    "link": "https://www.novelskyworld.com/2026/10/218.html",
-    "date": "2026-10-12T10:00:00+00:00"
+    "num": 232,
+    "fullTitle": "الفصل 232: تشريح شيطان سماوي",
+    "chapterTitle": "الفصل 232: تشريح شيطان سماوي",
+    "link": "https://www.novelskyworld.com/2026/10/232.html",
+    "date": "2026-10-15T18:00:00+00:00"
+  },
+  {
+    "uid": "5_121",
+    "novelId": 5,
+    "novelTitle": "المهندس الأعظم",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig9E8Vllh3mqFuvl28YHE6EUOlNHjr89Vdm5ZfPnq99-os5-6yBhjTo-eOmB8t4_PKvv0P7dDKmnQrVG-DWWTn967AMeor6yDXfp5NOiIpXuMzuA5WZwJg-fQv4LB3pJoztrembU8Y_ezji3Y-XDx_nij_AFiOAOXOy3tuZJXDNjLgbpAWQFLizkFKi1LP/s1600/26778.jpg",
+    "novelLink": "https://www.novelskyworld.com/p/the-greatest-estate-developer.html",
+    "num": 121,
+    "fullTitle": "الفصل 121: انتزاع أموال الاستثمار (1)",
+    "chapterTitle": "الفصل 121: انتزاع أموال الاستثمار (1)",
+    "link": "https://www.novelskyworld.com/2026/10/121-1.html",
+    "date": "2026-10-15T14:00:00+00:00"
+  },
+  {
+    "uid": "3_231",
+    "novelId": 3,
+    "novelTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic5Rz2wdPDDyQzAPqo8FNtkXq2z0eri9l4URgfK1nKYKmBGPutdmmMmFqX8MYd9LZYqHb4oKHYA-5oCxGcx0DmM6ch_PQJkt7Pj4h0AMMYYj4BBCVlPr2Ebeuva1i3qJYLVGKhjLfHU-rXJN0IXXh2mVkn3pL6r3tLngXd_0Es-dsdu31cs_vm3BOVED3w/s1280/1000138946.webp",
+    "novelLink": "https://www.novelskyworld.com/p/blog-page_14.html",
+    "num": 231,
+    "fullTitle": "الفصل 231: ظهور شياطين العالم الخارجي",
+    "chapterTitle": "الفصل 231: ظهور شياطين العالم الخارجي",
+    "link": "https://www.novelskyworld.com/2026/10/231.html",
+    "date": "2026-10-15T14:00:00+00:00"
+  },
+  {
+    "uid": "1_294",
+    "novelId": 1,
+    "novelTitle": "After Severing Ties",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi44S8d8HI6VSRqi3PClNXsCSwy23aHJv4Hmk3Y_HdpekCGzMEhtAnfAOrCSV-aDh3J4vfa2Sgnpe_IRrjlIkfUrIM0-9Vu-t9x1Opsz2ab4P394JnXrYax-y0Af90QY50xvyEb948xN14er5db6c6LEJM-PSi867VfU-T_EYHha-j9oCElXs5Ik0rn0HTf/s0/1000134866.webp",
+    "novelLink": "https://www.novelskyworld.com/p/severing-ties.html",
+    "num": 294,
+    "fullTitle": "الفصل 294: مسرح شياوشيانغ",
+    "chapterTitle": "الفصل 294: مسرح شياوشيانغ",
+    "link": "https://www.novelskyworld.com/2026/10/after-severing-ties-294.html",
+    "date": "2026-10-15T13:00:00+00:00"
+  },
+  {
+    "uid": "5_120",
+    "novelId": 5,
+    "novelTitle": "المهندس الأعظم",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig9E8Vllh3mqFuvl28YHE6EUOlNHjr89Vdm5ZfPnq99-os5-6yBhjTo-eOmB8t4_PKvv0P7dDKmnQrVG-DWWTn967AMeor6yDXfp5NOiIpXuMzuA5WZwJg-fQv4LB3pJoztrembU8Y_ezji3Y-XDx_nij_AFiOAOXOy3tuZJXDNjLgbpAWQFLizkFKi1LP/s1600/26778.jpg",
+    "novelLink": "https://www.novelskyworld.com/p/the-greatest-estate-developer.html",
+    "num": 120,
+    "fullTitle": "الفصل 120: يوم سعيد (2)",
+    "chapterTitle": "الفصل 120: يوم سعيد (2)",
+    "link": "https://www.novelskyworld.com/2026/10/120-2.html",
+    "date": "2026-10-15T10:00:00+00:00"
+  },
+  {
+    "uid": "3_230",
+    "novelId": 3,
+    "novelTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic5Rz2wdPDDyQzAPqo8FNtkXq2z0eri9l4URgfK1nKYKmBGPutdmmMmFqX8MYd9LZYqHb4oKHYA-5oCxGcx0DmM6ch_PQJkt7Pj4h0AMMYYj4BBCVlPr2Ebeuva1i3qJYLVGKhjLfHU-rXJN0IXXh2mVkn3pL6r3tLngXd_0Es-dsdu31cs_vm3BOVED3w/s1280/1000138946.webp",
+    "novelLink": "https://www.novelskyworld.com/p/blog-page_14.html",
+    "num": 230,
+    "fullTitle": "الفصل 230: حياة شانغ غو",
+    "chapterTitle": "الفصل 230: حياة شانغ غو",
+    "link": "https://www.novelskyworld.com/2026/10/230.html",
+    "date": "2026-10-15T10:00:00+00:00"
+  },
+  {
+    "uid": "1_293",
+    "novelId": 1,
+    "novelTitle": "After Severing Ties",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi44S8d8HI6VSRqi3PClNXsCSwy23aHJv4Hmk3Y_HdpekCGzMEhtAnfAOrCSV-aDh3J4vfa2Sgnpe_IRrjlIkfUrIM0-9Vu-t9x1Opsz2ab4P394JnXrYax-y0Af90QY50xvyEb948xN14er5db6c6LEJM-PSi867VfU-T_EYHha-j9oCElXs5Ik0rn0HTf/s0/1000134866.webp",
+    "novelLink": "https://www.novelskyworld.com/p/severing-ties.html",
+    "num": 293,
+    "fullTitle": "الفصل 293: الاستحمام",
+    "chapterTitle": "الفصل 293: الاستحمام",
+    "link": "https://www.novelskyworld.com/2026/10/after-severing-ties-293.html",
+    "date": "2026-10-15T06:00:00+00:00"
+  },
+  {
+    "uid": "3_229",
+    "novelId": 3,
+    "novelTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic5Rz2wdPDDyQzAPqo8FNtkXq2z0eri9l4URgfK1nKYKmBGPutdmmMmFqX8MYd9LZYqHb4oKHYA-5oCxGcx0DmM6ch_PQJkt7Pj4h0AMMYYj4BBCVlPr2Ebeuva1i3qJYLVGKhjLfHU-rXJN0IXXh2mVkn3pL6r3tLngXd_0Es-dsdu31cs_vm3BOVED3w/s1280/1000138946.webp",
+    "novelLink": "https://www.novelskyworld.com/p/blog-page_14.html",
+    "num": 229,
+    "fullTitle": "الفصل 229: إنذار لعالم مينغ تشونغ",
+    "chapterTitle": "الفصل 229: إنذار لعالم مينغ تشونغ",
+    "link": "https://www.novelskyworld.com/2026/10/229.html",
+    "date": "2026-10-15T06:00:00+00:00"
+  },
+  {
+    "uid": "5_119",
+    "novelId": 5,
+    "novelTitle": "المهندس الأعظم",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig9E8Vllh3mqFuvl28YHE6EUOlNHjr89Vdm5ZfPnq99-os5-6yBhjTo-eOmB8t4_PKvv0P7dDKmnQrVG-DWWTn967AMeor6yDXfp5NOiIpXuMzuA5WZwJg-fQv4LB3pJoztrembU8Y_ezji3Y-XDx_nij_AFiOAOXOy3tuZJXDNjLgbpAWQFLizkFKi1LP/s1600/26778.jpg",
+    "novelLink": "https://www.novelskyworld.com/p/the-greatest-estate-developer.html",
+    "num": 119,
+    "fullTitle": "الفصل 119: يوم سعيد (1)",
+    "chapterTitle": "الفصل 119: يوم سعيد (1)",
+    "link": "https://www.novelskyworld.com/2026/10/119-1.html",
+    "date": "2026-10-15T06:00:00+00:00"
+  },
+  {
+    "uid": "3_228",
+    "novelId": 3,
+    "novelTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic5Rz2wdPDDyQzAPqo8FNtkXq2z0eri9l4URgfK1nKYKmBGPutdmmMmFqX8MYd9LZYqHb4oKHYA-5oCxGcx0DmM6ch_PQJkt7Pj4h0AMMYYj4BBCVlPr2Ebeuva1i3qJYLVGKhjLfHU-rXJN0IXXh2mVkn3pL6r3tLngXd_0Es-dsdu31cs_vm3BOVED3w/s1280/1000138946.webp",
+    "novelLink": "https://www.novelskyworld.com/p/blog-page_14.html",
+    "num": 228,
+    "fullTitle": "الفصل 228: حضارة غوليه هنا",
+    "chapterTitle": "الفصل 228: حضارة غوليه هنا",
+    "link": "https://www.novelskyworld.com/2026/10/228.html",
+    "date": "2026-10-14T18:00:00+00:00"
+  },
+  {
+    "uid": "5_118",
+    "novelId": 5,
+    "novelTitle": "المهندس الأعظم",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig9E8Vllh3mqFuvl28YHE6EUOlNHjr89Vdm5ZfPnq99-os5-6yBhjTo-eOmB8t4_PKvv0P7dDKmnQrVG-DWWTn967AMeor6yDXfp5NOiIpXuMzuA5WZwJg-fQv4LB3pJoztrembU8Y_ezji3Y-XDx_nij_AFiOAOXOy3tuZJXDNjLgbpAWQFLizkFKi1LP/s1600/26778.jpg",
+    "novelLink": "https://www.novelskyworld.com/p/the-greatest-estate-developer.html",
+    "num": 118,
+    "fullTitle": "الفصل 118: كيفية قلب الدومينو (2)",
+    "chapterTitle": "الفصل 118: كيفية قلب الدومينو (2)",
+    "link": "https://www.novelskyworld.com/2026/10/118-2.html",
+    "date": "2026-10-14T18:00:00+00:00"
+  },
+  {
+    "uid": "3_227",
+    "novelId": 3,
+    "novelTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic5Rz2wdPDDyQzAPqo8FNtkXq2z0eri9l4URgfK1nKYKmBGPutdmmMmFqX8MYd9LZYqHb4oKHYA-5oCxGcx0DmM6ch_PQJkt7Pj4h0AMMYYj4BBCVlPr2Ebeuva1i3qJYLVGKhjLfHU-rXJN0IXXh2mVkn3pL6r3tLngXd_0Es-dsdu31cs_vm3BOVED3w/s1280/1000138946.webp",
+    "novelLink": "https://www.novelskyworld.com/p/blog-page_14.html",
+    "num": 227,
+    "fullTitle": "الفصل 227: مسألة بلا حل",
+    "chapterTitle": "الفصل 227: مسألة بلا حل",
+    "link": "https://www.novelskyworld.com/2026/10/227.html",
+    "date": "2026-10-14T14:00:00+00:00"
+  },
+  {
+    "uid": "5_117",
+    "novelId": 5,
+    "novelTitle": "المهندس الأعظم",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig9E8Vllh3mqFuvl28YHE6EUOlNHjr89Vdm5ZfPnq99-os5-6yBhjTo-eOmB8t4_PKvv0P7dDKmnQrVG-DWWTn967AMeor6yDXfp5NOiIpXuMzuA5WZwJg-fQv4LB3pJoztrembU8Y_ezji3Y-XDx_nij_AFiOAOXOy3tuZJXDNjLgbpAWQFLizkFKi1LP/s1600/26778.jpg",
+    "novelLink": "https://www.novelskyworld.com/p/the-greatest-estate-developer.html",
+    "num": 117,
+    "fullTitle": "الفصل 117: كيفية قلب الدومينو (1)",
+    "chapterTitle": "الفصل 117: كيفية قلب الدومينو (1)",
+    "link": "https://www.novelskyworld.com/2026/10/117-1.html",
+    "date": "2026-10-14T14:00:00+00:00"
+  },
+  {
+    "uid": "1_292",
+    "novelId": 1,
+    "novelTitle": "After Severing Ties",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi44S8d8HI6VSRqi3PClNXsCSwy23aHJv4Hmk3Y_HdpekCGzMEhtAnfAOrCSV-aDh3J4vfa2Sgnpe_IRrjlIkfUrIM0-9Vu-t9x1Opsz2ab4P394JnXrYax-y0Af90QY50xvyEb948xN14er5db6c6LEJM-PSi867VfU-T_EYHha-j9oCElXs5Ik0rn0HTf/s0/1000134866.webp",
+    "novelLink": "https://www.novelskyworld.com/p/severing-ties.html",
+    "num": 292,
+    "fullTitle": "الفصل 292: تسرع مذموم",
+    "chapterTitle": "الفصل 292: تسرع مذموم",
+    "link": "https://www.novelskyworld.com/2026/10/after-severing-ties-292.html",
+    "date": "2026-10-14T13:00:00+00:00"
+  },
+  {
+    "uid": "5_116",
+    "novelId": 5,
+    "novelTitle": "المهندس الأعظم",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig9E8Vllh3mqFuvl28YHE6EUOlNHjr89Vdm5ZfPnq99-os5-6yBhjTo-eOmB8t4_PKvv0P7dDKmnQrVG-DWWTn967AMeor6yDXfp5NOiIpXuMzuA5WZwJg-fQv4LB3pJoztrembU8Y_ezji3Y-XDx_nij_AFiOAOXOy3tuZJXDNjLgbpAWQFLizkFKi1LP/s1600/26778.jpg",
+    "novelLink": "https://www.novelskyworld.com/p/the-greatest-estate-developer.html",
+    "num": 116,
+    "fullTitle": "الفصل 116: ترويض كائن خرافي (2)",
+    "chapterTitle": "الفصل 116: ترويض كائن خرافي (2)",
+    "link": "https://www.novelskyworld.com/2026/10/116-2.html",
+    "date": "2026-10-14T10:00:00+00:00"
+  },
+  {
+    "uid": "3_226",
+    "novelId": 3,
+    "novelTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic5Rz2wdPDDyQzAPqo8FNtkXq2z0eri9l4URgfK1nKYKmBGPutdmmMmFqX8MYd9LZYqHb4oKHYA-5oCxGcx0DmM6ch_PQJkt7Pj4h0AMMYYj4BBCVlPr2Ebeuva1i3qJYLVGKhjLfHU-rXJN0IXXh2mVkn3pL6r3tLngXd_0Es-dsdu31cs_vm3BOVED3w/s1280/1000138946.webp",
+    "novelLink": "https://www.novelskyworld.com/p/blog-page_14.html",
+    "num": 226,
+    "fullTitle": "الفصل 226: الموت الرحيم",
+    "chapterTitle": "الفصل 226: الموت الرحيم",
+    "link": "https://www.novelskyworld.com/2026/10/226.html",
+    "date": "2026-10-14T10:00:00+00:00"
+  },
+  {
+    "uid": "5_115",
+    "novelId": 5,
+    "novelTitle": "المهندس الأعظم",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig9E8Vllh3mqFuvl28YHE6EUOlNHjr89Vdm5ZfPnq99-os5-6yBhjTo-eOmB8t4_PKvv0P7dDKmnQrVG-DWWTn967AMeor6yDXfp5NOiIpXuMzuA5WZwJg-fQv4LB3pJoztrembU8Y_ezji3Y-XDx_nij_AFiOAOXOy3tuZJXDNjLgbpAWQFLizkFKi1LP/s1600/26778.jpg",
+    "novelLink": "https://www.novelskyworld.com/p/the-greatest-estate-developer.html",
+    "num": 115,
+    "fullTitle": "الفصل 115: ترويض كائن خرافي (1)",
+    "chapterTitle": "الفصل 115: ترويض كائن خرافي (1)",
+    "link": "https://www.novelskyworld.com/2026/10/115-1.html",
+    "date": "2026-10-14T06:00:00+00:00"
+  },
+  {
+    "uid": "1_291",
+    "novelId": 1,
+    "novelTitle": "After Severing Ties",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi44S8d8HI6VSRqi3PClNXsCSwy23aHJv4Hmk3Y_HdpekCGzMEhtAnfAOrCSV-aDh3J4vfa2Sgnpe_IRrjlIkfUrIM0-9Vu-t9x1Opsz2ab4P394JnXrYax-y0Af90QY50xvyEb948xN14er5db6c6LEJM-PSi867VfU-T_EYHha-j9oCElXs5Ik0rn0HTf/s0/1000134866.webp",
+    "novelLink": "https://www.novelskyworld.com/p/severing-ties.html",
+    "num": 291,
+    "fullTitle": "الفصل 291: فريد من نوعه عبر العصور!",
+    "chapterTitle": "الفصل 291: فريد من نوعه عبر العصور!",
+    "link": "https://www.novelskyworld.com/2026/10/after-severing-ties-291.html",
+    "date": "2026-10-14T06:00:00+00:00"
+  },
+  {
+    "uid": "3_225",
+    "novelId": 3,
+    "novelTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic5Rz2wdPDDyQzAPqo8FNtkXq2z0eri9l4URgfK1nKYKmBGPutdmmMmFqX8MYd9LZYqHb4oKHYA-5oCxGcx0DmM6ch_PQJkt7Pj4h0AMMYYj4BBCVlPr2Ebeuva1i3qJYLVGKhjLfHU-rXJN0IXXh2mVkn3pL6r3tLngXd_0Es-dsdu31cs_vm3BOVED3w/s1280/1000138946.webp",
+    "novelLink": "https://www.novelskyworld.com/p/blog-page_14.html",
+    "num": 225,
+    "fullTitle": "الفصل 225: لا يوجد أحياء",
+    "chapterTitle": "الفصل 225: لا يوجد أحياء",
+    "link": "https://www.novelskyworld.com/2026/10/225.html",
+    "date": "2026-10-14T06:00:00+00:00"
+  },
+  {
+    "uid": "5_114",
+    "novelId": 5,
+    "novelTitle": "المهندس الأعظم",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig9E8Vllh3mqFuvl28YHE6EUOlNHjr89Vdm5ZfPnq99-os5-6yBhjTo-eOmB8t4_PKvv0P7dDKmnQrVG-DWWTn967AMeor6yDXfp5NOiIpXuMzuA5WZwJg-fQv4LB3pJoztrembU8Y_ezji3Y-XDx_nij_AFiOAOXOy3tuZJXDNjLgbpAWQFLizkFKi1LP/s1600/26778.jpg",
+    "novelLink": "https://www.novelskyworld.com/p/the-greatest-estate-developer.html",
+    "num": 114,
+    "fullTitle": "الفصل 114: سيّد البحيرة (3)",
+    "chapterTitle": "الفصل 114: سيّد البحيرة (3)",
+    "link": "https://www.novelskyworld.com/2026/10/114-3.html",
+    "date": "2026-10-13T18:00:00+00:00"
+  },
+  {
+    "uid": "3_224",
+    "novelId": 3,
+    "novelTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic5Rz2wdPDDyQzAPqo8FNtkXq2z0eri9l4URgfK1nKYKmBGPutdmmMmFqX8MYd9LZYqHb4oKHYA-5oCxGcx0DmM6ch_PQJkt7Pj4h0AMMYYj4BBCVlPr2Ebeuva1i3qJYLVGKhjLfHU-rXJN0IXXh2mVkn3pL6r3tLngXd_0Es-dsdu31cs_vm3BOVED3w/s1280/1000138946.webp",
+    "novelLink": "https://www.novelskyworld.com/p/blog-page_14.html",
+    "num": 224,
+    "fullTitle": "الفصل 224: محقق أماني الحياة",
+    "chapterTitle": "الفصل 224: محقق أماني الحياة",
+    "link": "https://www.novelskyworld.com/2026/10/224.html",
+    "date": "2026-10-13T18:00:00+00:00"
+  },
+  {
+    "uid": "5_113",
+    "novelId": 5,
+    "novelTitle": "المهندس الأعظم",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig9E8Vllh3mqFuvl28YHE6EUOlNHjr89Vdm5ZfPnq99-os5-6yBhjTo-eOmB8t4_PKvv0P7dDKmnQrVG-DWWTn967AMeor6yDXfp5NOiIpXuMzuA5WZwJg-fQv4LB3pJoztrembU8Y_ezji3Y-XDx_nij_AFiOAOXOy3tuZJXDNjLgbpAWQFLizkFKi1LP/s1600/26778.jpg",
+    "novelLink": "https://www.novelskyworld.com/p/the-greatest-estate-developer.html",
+    "num": 113,
+    "fullTitle": "الفصل 113: سيّد البحيرة (2)",
+    "chapterTitle": "الفصل 113: سيّد البحيرة (2)",
+    "link": "https://www.novelskyworld.com/2026/10/113-2.html",
+    "date": "2026-10-13T14:00:00+00:00"
+  },
+  {
+    "uid": "3_223",
+    "novelId": 3,
+    "novelTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic5Rz2wdPDDyQzAPqo8FNtkXq2z0eri9l4URgfK1nKYKmBGPutdmmMmFqX8MYd9LZYqHb4oKHYA-5oCxGcx0DmM6ch_PQJkt7Pj4h0AMMYYj4BBCVlPr2Ebeuva1i3qJYLVGKhjLfHU-rXJN0IXXh2mVkn3pL6r3tLngXd_0Es-dsdu31cs_vm3BOVED3w/s1280/1000138946.webp",
+    "novelLink": "https://www.novelskyworld.com/p/blog-page_14.html",
+    "num": 223,
+    "fullTitle": "الفصل 223: العالم الحر",
+    "chapterTitle": "الفصل 223: العالم الحر",
+    "link": "https://www.novelskyworld.com/2026/10/223.html",
+    "date": "2026-10-13T14:00:00+00:00"
+  },
+  {
+    "uid": "1_290",
+    "novelId": 1,
+    "novelTitle": "After Severing Ties",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi44S8d8HI6VSRqi3PClNXsCSwy23aHJv4Hmk3Y_HdpekCGzMEhtAnfAOrCSV-aDh3J4vfa2Sgnpe_IRrjlIkfUrIM0-9Vu-t9x1Opsz2ab4P394JnXrYax-y0Af90QY50xvyEb948xN14er5db6c6LEJM-PSi867VfU-T_EYHha-j9oCElXs5Ik0rn0HTf/s0/1000134866.webp",
+    "novelLink": "https://www.novelskyworld.com/p/severing-ties.html",
+    "num": 290,
+    "fullTitle": "الفصل 290: لدي شيء خلقه دقيق",
+    "chapterTitle": "الفصل 290: لدي شيء خلقه دقيق",
+    "link": "https://www.novelskyworld.com/2026/10/after-severing-ties-290.html",
+    "date": "2026-10-13T13:00:00+00:00"
+  },
+  {
+    "uid": "3_222",
+    "novelId": 3,
+    "novelTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic5Rz2wdPDDyQzAPqo8FNtkXq2z0eri9l4URgfK1nKYKmBGPutdmmMmFqX8MYd9LZYqHb4oKHYA-5oCxGcx0DmM6ch_PQJkt7Pj4h0AMMYYj4BBCVlPr2Ebeuva1i3qJYLVGKhjLfHU-rXJN0IXXh2mVkn3pL6r3tLngXd_0Es-dsdu31cs_vm3BOVED3w/s1280/1000138946.webp",
+    "novelLink": "https://www.novelskyworld.com/p/blog-page_14.html",
+    "num": 222,
+    "fullTitle": "الفصل 222: محاكي الصور المجسمة",
+    "chapterTitle": "الفصل 222: محاكي الصور المجسمة",
+    "link": "https://www.novelskyworld.com/2026/10/222.html",
+    "date": "2026-10-13T10:00:00+00:00"
+  },
+  {
+    "uid": "5_112",
+    "novelId": 5,
+    "novelTitle": "المهندس الأعظم",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig9E8Vllh3mqFuvl28YHE6EUOlNHjr89Vdm5ZfPnq99-os5-6yBhjTo-eOmB8t4_PKvv0P7dDKmnQrVG-DWWTn967AMeor6yDXfp5NOiIpXuMzuA5WZwJg-fQv4LB3pJoztrembU8Y_ezji3Y-XDx_nij_AFiOAOXOy3tuZJXDNjLgbpAWQFLizkFKi1LP/s1600/26778.jpg",
+    "novelLink": "https://www.novelskyworld.com/p/the-greatest-estate-developer.html",
+    "num": 112,
+    "fullTitle": "الفصل 112: سيّد البحيرة (1)",
+    "chapterTitle": "الفصل 112: سيّد البحيرة (1)",
+    "link": "https://www.novelskyworld.com/2026/10/112-1.html",
+    "date": "2026-10-13T10:00:00+00:00"
+  },
+  {
+    "uid": "1_289",
+    "novelId": 1,
+    "novelTitle": "After Severing Ties",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi44S8d8HI6VSRqi3PClNXsCSwy23aHJv4Hmk3Y_HdpekCGzMEhtAnfAOrCSV-aDh3J4vfa2Sgnpe_IRrjlIkfUrIM0-9Vu-t9x1Opsz2ab4P394JnXrYax-y0Af90QY50xvyEb948xN14er5db6c6LEJM-PSi867VfU-T_EYHha-j9oCElXs5Ik0rn0HTf/s0/1000134866.webp",
+    "novelLink": "https://www.novelskyworld.com/p/severing-ties.html",
+    "num": 289,
+    "fullTitle": "الفصل 289: شجرة الحديد وزهر الفضة",
+    "chapterTitle": "الفصل 289: شجرة الحديد وزهر الفضة",
+    "link": "https://www.novelskyworld.com/2026/10/after-severing-ties-289.html",
+    "date": "2026-10-13T06:00:00+00:00"
+  },
+  {
+    "uid": "3_221",
+    "novelId": 3,
+    "novelTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic5Rz2wdPDDyQzAPqo8FNtkXq2z0eri9l4URgfK1nKYKmBGPutdmmMmFqX8MYd9LZYqHb4oKHYA-5oCxGcx0DmM6ch_PQJkt7Pj4h0AMMYYj4BBCVlPr2Ebeuva1i3qJYLVGKhjLfHU-rXJN0IXXh2mVkn3pL6r3tLngXd_0Es-dsdu31cs_vm3BOVED3w/s1280/1000138946.webp",
+    "novelLink": "https://www.novelskyworld.com/p/blog-page_14.html",
+    "num": 221,
+    "fullTitle": "الفصل 221: ممثلة طائفة الداو المعاصرة فتاة",
+    "chapterTitle": "الفصل 221: ممثلة طائفة الداو المعاصرة فتاة",
+    "link": "https://www.novelskyworld.com/2026/10/221.html",
+    "date": "2026-10-13T06:00:00+00:00"
+  },
+  {
+    "uid": "5_111",
+    "novelId": 5,
+    "novelTitle": "المهندس الأعظم",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig9E8Vllh3mqFuvl28YHE6EUOlNHjr89Vdm5ZfPnq99-os5-6yBhjTo-eOmB8t4_PKvv0P7dDKmnQrVG-DWWTn967AMeor6yDXfp5NOiIpXuMzuA5WZwJg-fQv4LB3pJoztrembU8Y_ezji3Y-XDx_nij_AFiOAOXOy3tuZJXDNjLgbpAWQFLizkFKi1LP/s1600/26778.jpg",
+    "novelLink": "https://www.novelskyworld.com/p/the-greatest-estate-developer.html",
+    "num": 111,
+    "fullTitle": "الفصل 111: معنى الحفر (2)",
+    "chapterTitle": "الفصل 111: معنى الحفر (2)",
+    "link": "https://www.novelskyworld.com/2026/10/111-2.html",
+    "date": "2026-10-13T06:00:00+00:00"
+  },
+  {
+    "uid": "3_220",
+    "novelId": 3,
+    "novelTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic5Rz2wdPDDyQzAPqo8FNtkXq2z0eri9l4URgfK1nKYKmBGPutdmmMmFqX8MYd9LZYqHb4oKHYA-5oCxGcx0DmM6ch_PQJkt7Pj4h0AMMYYj4BBCVlPr2Ebeuva1i3qJYLVGKhjLfHU-rXJN0IXXh2mVkn3pL6r3tLngXd_0Es-dsdu31cs_vm3BOVED3w/s1280/1000138946.webp",
+    "novelLink": "https://www.novelskyworld.com/p/blog-page_14.html",
+    "num": 220,
+    "fullTitle": "الفصل 220: قاعة عاهل البشر ليست في خدمة عاهل البشر",
+    "chapterTitle": "الفصل 220: قاعة عاهل البشر ليست في خدمة عاهل البشر",
+    "link": "https://www.novelskyworld.com/2026/10/220.html",
+    "date": "2026-10-12T18:00:00+00:00"
+  },
+  {
+    "uid": "5_110",
+    "novelId": 5,
+    "novelTitle": "المهندس الأعظم",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig9E8Vllh3mqFuvl28YHE6EUOlNHjr89Vdm5ZfPnq99-os5-6yBhjTo-eOmB8t4_PKvv0P7dDKmnQrVG-DWWTn967AMeor6yDXfp5NOiIpXuMzuA5WZwJg-fQv4LB3pJoztrembU8Y_ezji3Y-XDx_nij_AFiOAOXOy3tuZJXDNjLgbpAWQFLizkFKi1LP/s1600/26778.jpg",
+    "novelLink": "https://www.novelskyworld.com/p/the-greatest-estate-developer.html",
+    "num": 110,
+    "fullTitle": "الفصل 110: معنى الحفر (1)",
+    "chapterTitle": "الفصل 110: معنى الحفر (1)",
+    "link": "https://www.novelskyworld.com/2026/10/110-1.html",
+    "date": "2026-10-12T18:00:00+00:00"
+  },
+  {
+    "uid": "3_219",
+    "novelId": 3,
+    "novelTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic5Rz2wdPDDyQzAPqo8FNtkXq2z0eri9l4URgfK1nKYKmBGPutdmmMmFqX8MYd9LZYqHb4oKHYA-5oCxGcx0DmM6ch_PQJkt7Pj4h0AMMYYj4BBCVlPr2Ebeuva1i3qJYLVGKhjLfHU-rXJN0IXXh2mVkn3pL6r3tLngXd_0Es-dsdu31cs_vm3BOVED3w/s1280/1000138946.webp",
+    "novelLink": "https://www.novelskyworld.com/p/blog-page_14.html",
+    "num": 219,
+    "fullTitle": "الفصل 219: عروض مملة",
+    "chapterTitle": "الفصل 219: عروض مملة",
+    "link": "https://www.novelskyworld.com/2026/10/219.html",
+    "date": "2026-10-12T14:00:00+00:00"
+  },
+  {
+    "uid": "5_109",
+    "novelId": 5,
+    "novelTitle": "المهندس الأعظم",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig9E8Vllh3mqFuvl28YHE6EUOlNHjr89Vdm5ZfPnq99-os5-6yBhjTo-eOmB8t4_PKvv0P7dDKmnQrVG-DWWTn967AMeor6yDXfp5NOiIpXuMzuA5WZwJg-fQv4LB3pJoztrembU8Y_ezji3Y-XDx_nij_AFiOAOXOy3tuZJXDNjLgbpAWQFLizkFKi1LP/s1600/26778.jpg",
+    "novelLink": "https://www.novelskyworld.com/p/the-greatest-estate-developer.html",
+    "num": 109,
+    "fullTitle": "الفصل 109: منقذ صوت الجلجل (2)",
+    "chapterTitle": "الفصل 109: منقذ صوت الجلجل (2)",
+    "link": "https://www.novelskyworld.com/2026/10/109-2.html",
+    "date": "2026-10-12T14:00:00+00:00"
+  },
+  {
+    "uid": "1_288",
+    "novelId": 1,
+    "novelTitle": "After Severing Ties",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi44S8d8HI6VSRqi3PClNXsCSwy23aHJv4Hmk3Y_HdpekCGzMEhtAnfAOrCSV-aDh3J4vfa2Sgnpe_IRrjlIkfUrIM0-9Vu-t9x1Opsz2ab4P394JnXrYax-y0Af90QY50xvyEb948xN14er5db6c6LEJM-PSi867VfU-T_EYHha-j9oCElXs5Ik0rn0HTf/s0/1000134866.webp",
+    "novelLink": "https://www.novelskyworld.com/p/severing-ties.html",
+    "num": 288,
+    "fullTitle": "الفصل 288: موعد غرامي",
+    "chapterTitle": "الفصل 288: موعد غرامي",
+    "link": "https://www.novelskyworld.com/2026/10/after-severing-ties-288.html",
+    "date": "2026-10-12T13:00:00+00:00"
   },
   {
     "uid": "5_108",
@@ -24,16 +432,16 @@
     "date": "2026-10-12T10:00:00+00:00"
   },
   {
-    "uid": "1_287",
-    "novelId": 1,
-    "novelTitle": "After Severing Ties",
-    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi44S8d8HI6VSRqi3PClNXsCSwy23aHJv4Hmk3Y_HdpekCGzMEhtAnfAOrCSV-aDh3J4vfa2Sgnpe_IRrjlIkfUrIM0-9Vu-t9x1Opsz2ab4P394JnXrYax-y0Af90QY50xvyEb948xN14er5db6c6LEJM-PSi867VfU-T_EYHha-j9oCElXs5Ik0rn0HTf/s0/1000134866.webp",
-    "novelLink": "https://www.novelskyworld.com/p/severing-ties.html",
-    "num": 287,
-    "fullTitle": "الفصل 287: قصيدة حب!",
-    "chapterTitle": "الفصل 287: قصيدة حب!",
-    "link": "https://www.novelskyworld.com/2026/10/after-severing-ties-287.html",
-    "date": "2026-10-12T06:00:00+00:00"
+    "uid": "3_218",
+    "novelId": 3,
+    "novelTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic5Rz2wdPDDyQzAPqo8FNtkXq2z0eri9l4URgfK1nKYKmBGPutdmmMmFqX8MYd9LZYqHb4oKHYA-5oCxGcx0DmM6ch_PQJkt7Pj4h0AMMYYj4BBCVlPr2Ebeuva1i3qJYLVGKhjLfHU-rXJN0IXXh2mVkn3pL6r3tLngXd_0Es-dsdu31cs_vm3BOVED3w/s1280/1000138946.webp",
+    "novelLink": "https://www.novelskyworld.com/p/blog-page_14.html",
+    "num": 218,
+    "fullTitle": "الفصل 218: الحرفيون الذين لا يستطيعون العودة لبيوتهم في رأس السنة",
+    "chapterTitle": "الفصل 218: الحرفيون الذين لا يستطيعون العودة لبيوتهم في رأس السنة",
+    "link": "https://www.novelskyworld.com/2026/10/218.html",
+    "date": "2026-10-12T10:00:00+00:00"
   },
   {
     "uid": "3_217",
@@ -45,6 +453,18 @@
     "fullTitle": "الفصل 217: التجربة برهان الحقائق",
     "chapterTitle": "الفصل 217: التجربة برهان الحقائق",
     "link": "https://www.novelskyworld.com/2026/10/217.html",
+    "date": "2026-10-12T06:00:00+00:00"
+  },
+  {
+    "uid": "1_287",
+    "novelId": 1,
+    "novelTitle": "After Severing Ties",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi44S8d8HI6VSRqi3PClNXsCSwy23aHJv4Hmk3Y_HdpekCGzMEhtAnfAOrCSV-aDh3J4vfa2Sgnpe_IRrjlIkfUrIM0-9Vu-t9x1Opsz2ab4P394JnXrYax-y0Af90QY50xvyEb948xN14er5db6c6LEJM-PSi867VfU-T_EYHha-j9oCElXs5Ik0rn0HTf/s0/1000134866.webp",
+    "novelLink": "https://www.novelskyworld.com/p/severing-ties.html",
+    "num": 287,
+    "fullTitle": "الفصل 287: قصيدة حب!",
+    "chapterTitle": "الفصل 287: قصيدة حب!",
+    "link": "https://www.novelskyworld.com/2026/10/after-severing-ties-287.html",
     "date": "2026-10-12T06:00:00+00:00"
   },
   {
@@ -120,18 +540,6 @@
     "date": "2026-10-11T13:00:00+00:00"
   },
   {
-    "uid": "3_214",
-    "novelId": 3,
-    "novelTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا",
-    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic5Rz2wdPDDyQzAPqo8FNtkXq2z0eri9l4URgfK1nKYKmBGPutdmmMmFqX8MYd9LZYqHb4oKHYA-5oCxGcx0DmM6ch_PQJkt7Pj4h0AMMYYj4BBCVlPr2Ebeuva1i3qJYLVGKhjLfHU-rXJN0IXXh2mVkn3pL6r3tLngXd_0Es-dsdu31cs_vm3BOVED3w/s1280/1000138946.webp",
-    "novelLink": "https://www.novelskyworld.com/p/blog-page_14.html",
-    "num": 214,
-    "fullTitle": "الفصل 214: التضحية بالابن لمنفعة الآخرين",
-    "chapterTitle": "الفصل 214: التضحية بالابن لمنفعة الآخرين",
-    "link": "https://www.novelskyworld.com/2026/10/214.html",
-    "date": "2026-10-11T10:00:00+00:00"
-  },
-  {
     "uid": "5_104",
     "novelId": 5,
     "novelTitle": "المهندس الأعظم",
@@ -144,15 +552,27 @@
     "date": "2026-10-11T10:00:00+00:00"
   },
   {
-    "uid": "1_285",
-    "novelId": 1,
-    "novelTitle": "After Severing Ties",
-    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi44S8d8HI6VSRqi3PClNXsCSwy23aHJv4Hmk3Y_HdpekCGzMEhtAnfAOrCSV-aDh3J4vfa2Sgnpe_IRrjlIkfUrIM0-9Vu-t9x1Opsz2ab4P394JnXrYax-y0Af90QY50xvyEb948xN14er5db6c6LEJM-PSi867VfU-T_EYHha-j9oCElXs5Ik0rn0HTf/s0/1000134866.webp",
-    "novelLink": "https://www.novelskyworld.com/p/severing-ties.html",
-    "num": 285,
-    "fullTitle": "الفصل 285: استعد للهجوم!",
-    "chapterTitle": "الفصل 285: استعد للهجوم!",
-    "link": "https://www.novelskyworld.com/2026/10/after-severing-ties-285.html",
+    "uid": "3_214",
+    "novelId": 3,
+    "novelTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic5Rz2wdPDDyQzAPqo8FNtkXq2z0eri9l4URgfK1nKYKmBGPutdmmMmFqX8MYd9LZYqHb4oKHYA-5oCxGcx0DmM6ch_PQJkt7Pj4h0AMMYYj4BBCVlPr2Ebeuva1i3qJYLVGKhjLfHU-rXJN0IXXh2mVkn3pL6r3tLngXd_0Es-dsdu31cs_vm3BOVED3w/s1280/1000138946.webp",
+    "novelLink": "https://www.novelskyworld.com/p/blog-page_14.html",
+    "num": 214,
+    "fullTitle": "الفصل 214: التضحية بالابن لمنفعة الآخرين",
+    "chapterTitle": "الفصل 214: التضحية بالابن لمنفعة الآخرين",
+    "link": "https://www.novelskyworld.com/2026/10/214.html",
+    "date": "2026-10-11T10:00:00+00:00"
+  },
+  {
+    "uid": "5_103",
+    "novelId": 5,
+    "novelTitle": "المهندس الأعظم",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig9E8Vllh3mqFuvl28YHE6EUOlNHjr89Vdm5ZfPnq99-os5-6yBhjTo-eOmB8t4_PKvv0P7dDKmnQrVG-DWWTn967AMeor6yDXfp5NOiIpXuMzuA5WZwJg-fQv4LB3pJoztrembU8Y_ezji3Y-XDx_nij_AFiOAOXOy3tuZJXDNjLgbpAWQFLizkFKi1LP/s1600/26778.jpg",
+    "novelLink": "https://www.novelskyworld.com/p/the-greatest-estate-developer.html",
+    "num": 103,
+    "fullTitle": "الفصل 103: حامل إقطاعية ماجنتا على كاهله (1)",
+    "chapterTitle": "الفصل 103: حامل إقطاعية ماجنتا على كاهله (1)",
+    "link": "https://www.novelskyworld.com/2026/10/103-1.html",
     "date": "2026-10-11T06:00:00+00:00"
   },
   {
@@ -168,28 +588,16 @@
     "date": "2026-10-11T06:00:00+00:00"
   },
   {
-    "uid": "5_103",
-    "novelId": 5,
-    "novelTitle": "المهندس الأعظم",
-    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig9E8Vllh3mqFuvl28YHE6EUOlNHjr89Vdm5ZfPnq99-os5-6yBhjTo-eOmB8t4_PKvv0P7dDKmnQrVG-DWWTn967AMeor6yDXfp5NOiIpXuMzuA5WZwJg-fQv4LB3pJoztrembU8Y_ezji3Y-XDx_nij_AFiOAOXOy3tuZJXDNjLgbpAWQFLizkFKi1LP/s1600/26778.jpg",
-    "novelLink": "https://www.novelskyworld.com/p/the-greatest-estate-developer.html",
-    "num": 103,
-    "fullTitle": "الفصل 103: حامل إقطاعية ماجنتا على كاهله (1)",
-    "chapterTitle": "الفصل 103: حامل إقطاعية ماجنتا على كاهله (1)",
-    "link": "https://www.novelskyworld.com/2026/10/103-1.html",
+    "uid": "1_285",
+    "novelId": 1,
+    "novelTitle": "After Severing Ties",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi44S8d8HI6VSRqi3PClNXsCSwy23aHJv4Hmk3Y_HdpekCGzMEhtAnfAOrCSV-aDh3J4vfa2Sgnpe_IRrjlIkfUrIM0-9Vu-t9x1Opsz2ab4P394JnXrYax-y0Af90QY50xvyEb948xN14er5db6c6LEJM-PSi867VfU-T_EYHha-j9oCElXs5Ik0rn0HTf/s0/1000134866.webp",
+    "novelLink": "https://www.novelskyworld.com/p/severing-ties.html",
+    "num": 285,
+    "fullTitle": "الفصل 285: استعد للهجوم!",
+    "chapterTitle": "الفصل 285: استعد للهجوم!",
+    "link": "https://www.novelskyworld.com/2026/10/after-severing-ties-285.html",
     "date": "2026-10-11T06:00:00+00:00"
-  },
-  {
-    "uid": "3_212",
-    "novelId": 3,
-    "novelTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا",
-    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic5Rz2wdPDDyQzAPqo8FNtkXq2z0eri9l4URgfK1nKYKmBGPutdmmMmFqX8MYd9LZYqHb4oKHYA-5oCxGcx0DmM6ch_PQJkt7Pj4h0AMMYYj4BBCVlPr2Ebeuva1i3qJYLVGKhjLfHU-rXJN0IXXh2mVkn3pL6r3tLngXd_0Es-dsdu31cs_vm3BOVED3w/s1280/1000138946.webp",
-    "novelLink": "https://www.novelskyworld.com/p/blog-page_14.html",
-    "num": 212,
-    "fullTitle": "الفصل 212: إن عجزتُ عن هزيمتك، أفلا يسعني تحطيم خاتم الحفظ الروحي الخاص بك؟",
-    "chapterTitle": "الفصل 212: إن عجزتُ عن هزيمتك، أفلا يسعني تحطيم خاتم الحفظ الروحي الخاص بك؟",
-    "link": "https://www.novelskyworld.com/2026/10/212.html",
-    "date": "2026-10-10T18:00:00+00:00"
   },
   {
     "uid": "5_102",
@@ -204,16 +612,16 @@
     "date": "2026-10-10T18:00:00+00:00"
   },
   {
-    "uid": "3_211",
+    "uid": "3_212",
     "novelId": 3,
     "novelTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا",
     "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic5Rz2wdPDDyQzAPqo8FNtkXq2z0eri9l4URgfK1nKYKmBGPutdmmMmFqX8MYd9LZYqHb4oKHYA-5oCxGcx0DmM6ch_PQJkt7Pj4h0AMMYYj4BBCVlPr2Ebeuva1i3qJYLVGKhjLfHU-rXJN0IXXh2mVkn3pL6r3tLngXd_0Es-dsdu31cs_vm3BOVED3w/s1280/1000138946.webp",
     "novelLink": "https://www.novelskyworld.com/p/blog-page_14.html",
-    "num": 211,
-    "fullTitle": "الفصل 211: معركة اختراق جيانغ لي لمرحلة عبور المحنة",
-    "chapterTitle": "الفصل 211: معركة اختراق جيانغ لي لمرحلة عبور المحنة",
-    "link": "https://www.novelskyworld.com/2026/10/211.html",
-    "date": "2026-10-10T14:00:00+00:00"
+    "num": 212,
+    "fullTitle": "الفصل 212: إن عجزتُ عن هزيمتك، أفلا يسعني تحطيم خاتم الحفظ الروحي الخاص بك؟",
+    "chapterTitle": "الفصل 212: إن عجزتُ عن هزيمتك، أفلا يسعني تحطيم خاتم الحفظ الروحي الخاص بك؟",
+    "link": "https://www.novelskyworld.com/2026/10/212.html",
+    "date": "2026-10-10T18:00:00+00:00"
   },
   {
     "uid": "5_101",
@@ -225,6 +633,18 @@
     "fullTitle": "الفصل 101: . مُفسد النهاية غير المتوقع (1)",
     "chapterTitle": "الفصل 101: . مُفسد النهاية غير المتوقع (1)",
     "link": "https://www.novelskyworld.com/2026/10/101-1.html",
+    "date": "2026-10-10T14:00:00+00:00"
+  },
+  {
+    "uid": "3_211",
+    "novelId": 3,
+    "novelTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic5Rz2wdPDDyQzAPqo8FNtkXq2z0eri9l4URgfK1nKYKmBGPutdmmMmFqX8MYd9LZYqHb4oKHYA-5oCxGcx0DmM6ch_PQJkt7Pj4h0AMMYYj4BBCVlPr2Ebeuva1i3qJYLVGKhjLfHU-rXJN0IXXh2mVkn3pL6r3tLngXd_0Es-dsdu31cs_vm3BOVED3w/s1280/1000138946.webp",
+    "novelLink": "https://www.novelskyworld.com/p/blog-page_14.html",
+    "num": 211,
+    "fullTitle": "الفصل 211: معركة اختراق جيانغ لي لمرحلة عبور المحنة",
+    "chapterTitle": "الفصل 211: معركة اختراق جيانغ لي لمرحلة عبور المحنة",
+    "link": "https://www.novelskyworld.com/2026/10/211.html",
     "date": "2026-10-10T14:00:00+00:00"
   },
   {
@@ -240,18 +660,6 @@
     "date": "2026-10-10T13:00:00+00:00"
   },
   {
-    "uid": "3_210",
-    "novelId": 3,
-    "novelTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا",
-    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic5Rz2wdPDDyQzAPqo8FNtkXq2z0eri9l4URgfK1nKYKmBGPutdmmMmFqX8MYd9LZYqHb4oKHYA-5oCxGcx0DmM6ch_PQJkt7Pj4h0AMMYYj4BBCVlPr2Ebeuva1i3qJYLVGKhjLfHU-rXJN0IXXh2mVkn3pL6r3tLngXd_0Es-dsdu31cs_vm3BOVED3w/s1280/1000138946.webp",
-    "novelLink": "https://www.novelskyworld.com/p/blog-page_14.html",
-    "num": 210,
-    "fullTitle": "الفصل 210: مواجهة الخالدة هونغ تشن",
-    "chapterTitle": "الفصل 210: مواجهة الخالدة هونغ تشن",
-    "link": "https://www.novelskyworld.com/2026/10/210.html",
-    "date": "2026-10-10T10:00:00+00:00"
-  },
-  {
     "uid": "5_100",
     "novelId": 5,
     "novelTitle": "المهندس الأعظم",
@@ -264,16 +672,16 @@
     "date": "2026-10-10T10:00:00+00:00"
   },
   {
-    "uid": "1_283",
-    "novelId": 1,
-    "novelTitle": "After Severing Ties",
-    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi44S8d8HI6VSRqi3PClNXsCSwy23aHJv4Hmk3Y_HdpekCGzMEhtAnfAOrCSV-aDh3J4vfa2Sgnpe_IRrjlIkfUrIM0-9Vu-t9x1Opsz2ab4P394JnXrYax-y0Af90QY50xvyEb948xN14er5db6c6LEJM-PSi867VfU-T_EYHha-j9oCElXs5Ik0rn0HTf/s0/1000134866.webp",
-    "novelLink": "https://www.novelskyworld.com/p/severing-ties.html",
-    "num": 283,
-    "fullTitle": "الفصل 283: اعتذري لي!",
-    "chapterTitle": "الفصل 283: اعتذري لي!",
-    "link": "https://www.novelskyworld.com/2026/10/after-severing-ties-283.html",
-    "date": "2026-10-10T06:00:00+00:00"
+    "uid": "3_210",
+    "novelId": 3,
+    "novelTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic5Rz2wdPDDyQzAPqo8FNtkXq2z0eri9l4URgfK1nKYKmBGPutdmmMmFqX8MYd9LZYqHb4oKHYA-5oCxGcx0DmM6ch_PQJkt7Pj4h0AMMYYj4BBCVlPr2Ebeuva1i3qJYLVGKhjLfHU-rXJN0IXXh2mVkn3pL6r3tLngXd_0Es-dsdu31cs_vm3BOVED3w/s1280/1000138946.webp",
+    "novelLink": "https://www.novelskyworld.com/p/blog-page_14.html",
+    "num": 210,
+    "fullTitle": "الفصل 210: مواجهة الخالدة هونغ تشن",
+    "chapterTitle": "الفصل 210: مواجهة الخالدة هونغ تشن",
+    "link": "https://www.novelskyworld.com/2026/10/210.html",
+    "date": "2026-10-10T10:00:00+00:00"
   },
   {
     "uid": "3_209",
@@ -300,16 +708,16 @@
     "date": "2026-10-10T06:00:00+00:00"
   },
   {
-    "uid": "3_208",
-    "novelId": 3,
-    "novelTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا",
-    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic5Rz2wdPDDyQzAPqo8FNtkXq2z0eri9l4URgfK1nKYKmBGPutdmmMmFqX8MYd9LZYqHb4oKHYA-5oCxGcx0DmM6ch_PQJkt7Pj4h0AMMYYj4BBCVlPr2Ebeuva1i3qJYLVGKhjLfHU-rXJN0IXXh2mVkn3pL6r3tLngXd_0Es-dsdu31cs_vm3BOVED3w/s1280/1000138946.webp",
-    "novelLink": "https://www.novelskyworld.com/p/blog-page_14.html",
-    "num": 208,
-    "fullTitle": "الفصل 208: يمر المرء بأربع وفيات في حياته",
-    "chapterTitle": "الفصل 208: يمر المرء بأربع وفيات في حياته",
-    "link": "https://www.novelskyworld.com/2026/10/208.html",
-    "date": "2026-10-09T18:00:00+00:00"
+    "uid": "1_283",
+    "novelId": 1,
+    "novelTitle": "After Severing Ties",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi44S8d8HI6VSRqi3PClNXsCSwy23aHJv4Hmk3Y_HdpekCGzMEhtAnfAOrCSV-aDh3J4vfa2Sgnpe_IRrjlIkfUrIM0-9Vu-t9x1Opsz2ab4P394JnXrYax-y0Af90QY50xvyEb948xN14er5db6c6LEJM-PSi867VfU-T_EYHha-j9oCElXs5Ik0rn0HTf/s0/1000134866.webp",
+    "novelLink": "https://www.novelskyworld.com/p/severing-ties.html",
+    "num": 283,
+    "fullTitle": "الفصل 283: اعتذري لي!",
+    "chapterTitle": "الفصل 283: اعتذري لي!",
+    "link": "https://www.novelskyworld.com/2026/10/after-severing-ties-283.html",
+    "date": "2026-10-10T06:00:00+00:00"
   },
   {
     "uid": "5_98",
@@ -321,6 +729,18 @@
     "fullTitle": "الفصل 98: عزمٌ يتألق - انبعاث الفارس وترياق المهندس",
     "chapterTitle": "الفصل 98: عزمٌ يتألق - انبعاث الفارس وترياق المهندس",
     "link": "https://www.novelskyworld.com/2026/10/98-2.html",
+    "date": "2026-10-09T18:00:00+00:00"
+  },
+  {
+    "uid": "3_208",
+    "novelId": 3,
+    "novelTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic5Rz2wdPDDyQzAPqo8FNtkXq2z0eri9l4URgfK1nKYKmBGPutdmmMmFqX8MYd9LZYqHb4oKHYA-5oCxGcx0DmM6ch_PQJkt7Pj4h0AMMYYj4BBCVlPr2Ebeuva1i3qJYLVGKhjLfHU-rXJN0IXXh2mVkn3pL6r3tLngXd_0Es-dsdu31cs_vm3BOVED3w/s1280/1000138946.webp",
+    "novelLink": "https://www.novelskyworld.com/p/blog-page_14.html",
+    "num": 208,
+    "fullTitle": "الفصل 208: يمر المرء بأربع وفيات في حياته",
+    "chapterTitle": "الفصل 208: يمر المرء بأربع وفيات في حياته",
+    "link": "https://www.novelskyworld.com/2026/10/208.html",
     "date": "2026-10-09T18:00:00+00:00"
   },
   {
@@ -367,7 +787,7 @@
     "novelLink": "https://www.novelskyworld.com/p/severing-ties.html",
     "num": 281,
     "fullTitle": "After Severing Ties - الفصل 281: الإقامة الجبرية!",
-    "chapterTitle": "الفصل 281: الإقامة الجبرية!",
+    "chapterTitle": "After Severing Ties - الفصل 281: الإقامة الجبرية!",
     "link": "https://www.novelskyworld.com/2026/10/after-severing-ties-281.html",
     "date": "2026-10-09T06:00:00+00:00"
   },
@@ -415,7 +835,7 @@
     "novelLink": "https://www.novelskyworld.com/p/severing-ties.html",
     "num": 280,
     "fullTitle": "After Severing Ties - الفصل 280: تصرفات الأخ التاسع غير طبيعية",
-    "chapterTitle": "الفصل 280: تصرفات الأخ التاسع غير طبيعية",
+    "chapterTitle": "After Severing Ties - الفصل 280: تصرفات الأخ التاسع غير طبيعية",
     "link": "https://www.novelskyworld.com/2026/10/after-severing-ties-280.html",
     "date": "2026-10-08T13:00:00+00:00"
   },
@@ -439,7 +859,7 @@
     "novelLink": "https://www.novelskyworld.com/p/severing-ties.html",
     "num": 279,
     "fullTitle": "After Severing Ties - الفصل 279: الأم والنسب من جهة الخال",
-    "chapterTitle": "الفصل 279: الأم والنسب من جهة الخال",
+    "chapterTitle": "After Severing Ties - الفصل 279: الأم والنسب من جهة الخال",
     "link": "https://www.novelskyworld.com/2026/10/after-severing-ties-279.html",
     "date": "2026-10-08T06:00:00+00:00"
   },
@@ -681,7 +1101,7 @@
     "fullTitle": "الفصل 188: تناول الدواء أم واصل الثرثرة، اختر أحدهما",
     "chapterTitle": "الفصل 188: تناول الدواء أم واصل الثرثرة، اختر أحدهما",
     "link": "https://www.novelskyworld.com/2026/10/188.html",
-    "date": "2026-10-04T18:02:06.86+00:00"
+    "date": "2026-10-04T18:00:00+00:00"
   },
   {
     "uid": "3_187",
@@ -693,7 +1113,7 @@
     "fullTitle": "الفصل 187: حبوب الخلود ذات التسعة دورات",
     "chapterTitle": "الفصل 187: حبوب الخلود ذات التسعة دورات",
     "link": "https://www.novelskyworld.com/2026/10/187.html",
-    "date": "2026-10-04T14:04:59.978+00:00"
+    "date": "2026-10-04T14:00:00+00:00"
   },
   {
     "uid": "1_272",
@@ -705,7 +1125,7 @@
     "fullTitle": "الفصل 272: نخب تعاوننا المثمر",
     "chapterTitle": "الفصل 272: نخب تعاوننا المثمر",
     "link": "https://www.novelskyworld.com/2026/10/after-severing-ties-272.html",
-    "date": "2026-10-04T13:01:24.559+00:00"
+    "date": "2026-10-04T13:00:00+00:00"
   },
   {
     "uid": "3_186",
@@ -717,19 +1137,7 @@
     "fullTitle": "الفصل 186: استدراج الأفعى من جحرها",
     "chapterTitle": "الفصل 186: استدراج الأفعى من جحرها",
     "link": "https://www.novelskyworld.com/2026/10/186.html",
-    "date": "2026-10-04T10:06:03.787+00:00"
-  },
-  {
-    "uid": "3_185",
-    "novelId": 3,
-    "novelTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا",
-    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic5Rz2wdPDDyQzAPqo8FNtkXq2z0eri9l4URgfK1nKYKmBGPutdmmMmFqX8MYd9LZYqHb4oKHYA-5oCxGcx0DmM6ch_PQJkt7Pj4h0AMMYYj4BBCVlPr2Ebeuva1i3qJYLVGKhjLfHU-rXJN0IXXh2mVkn3pL6r3tLngXd_0Es-dsdu31cs_vm3BOVED3w/s1280/1000138946.webp",
-    "novelLink": "https://www.novelskyworld.com/p/blog-page_14.html",
-    "num": 185,
-    "fullTitle": "الفصل 185: خطة الملوك السماويين التالية",
-    "chapterTitle": "الفصل 185: خطة الملوك السماويين التالية",
-    "link": "https://www.novelskyworld.com/2026/10/185.html",
-    "date": "2026-10-04T06:01:58.81+00:00"
+    "date": "2026-10-04T10:00:00+00:00"
   },
   {
     "uid": "1_271",
@@ -741,7 +1149,19 @@
     "fullTitle": "الفصل 271: ألا ينبغي للمرء أن يراعي مصلحة والد زوجته؟",
     "chapterTitle": "الفصل 271: ألا ينبغي للمرء أن يراعي مصلحة والد زوجته؟",
     "link": "https://www.novelskyworld.com/2026/10/after-severing-ties-271.html",
-    "date": "2026-10-04T06:01:58.81+00:00"
+    "date": "2026-10-04T06:00:00+00:00"
+  },
+  {
+    "uid": "3_185",
+    "novelId": 3,
+    "novelTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic5Rz2wdPDDyQzAPqo8FNtkXq2z0eri9l4URgfK1nKYKmBGPutdmmMmFqX8MYd9LZYqHb4oKHYA-5oCxGcx0DmM6ch_PQJkt7Pj4h0AMMYYj4BBCVlPr2Ebeuva1i3qJYLVGKhjLfHU-rXJN0IXXh2mVkn3pL6r3tLngXd_0Es-dsdu31cs_vm3BOVED3w/s1280/1000138946.webp",
+    "novelLink": "https://www.novelskyworld.com/p/blog-page_14.html",
+    "num": 185,
+    "fullTitle": "الفصل 185: خطة الملوك السماويين التالية",
+    "chapterTitle": "الفصل 185: خطة الملوك السماويين التالية",
+    "link": "https://www.novelskyworld.com/2026/10/185.html",
+    "date": "2026-10-04T06:00:00+00:00"
   },
   {
     "uid": "3_184",
@@ -753,7 +1173,7 @@
     "fullTitle": "الفصل 184: المشهد الخارجي",
     "chapterTitle": "الفصل 184: المشهد الخارجي",
     "link": "https://www.novelskyworld.com/2026/10/184.html",
-    "date": "2026-10-03T18:24:24.7+00:00"
+    "date": "2026-10-03T18:00:00+00:00"
   },
   {
     "uid": "5_97",
@@ -765,7 +1185,7 @@
     "fullTitle": "الفصل 97: عزمٌ متألق (1)",
     "chapterTitle": "الفصل 97: عزمٌ متألق (1)",
     "link": "https://www.novelskyworld.com/2026/10/97-1.html",
-    "date": "2026-10-03T15:25:19.628+00:00"
+    "date": "2026-10-03T14:38:00+00:00"
   },
   {
     "uid": "3_183",
@@ -777,7 +1197,7 @@
     "fullTitle": "الفصل 183: غناء وردّ",
     "chapterTitle": "الفصل 183: غناء وردّ",
     "link": "https://www.novelskyworld.com/2026/10/183.html",
-    "date": "2026-10-03T14:24:25.239+00:00"
+    "date": "2026-10-03T14:00:00+00:00"
   },
   {
     "uid": "1_270",
@@ -789,7 +1209,7 @@
     "fullTitle": "الفصل 270: الابن يضرب أمه!",
     "chapterTitle": "الفصل 270: الابن يضرب أمه!",
     "link": "https://www.novelskyworld.com/2026/10/after-severing-ties-270.html",
-    "date": "2026-10-03T13:24:25.751+00:00"
+    "date": "2026-10-03T13:00:00+00:00"
   },
   {
     "uid": "5_96",
@@ -801,7 +1221,7 @@
     "fullTitle": "الفصل 96: التاج الملطخ (2)",
     "chapterTitle": "الفصل 96: التاج الملطخ (2)",
     "link": "https://www.novelskyworld.com/2026/10/96-2.html",
-    "date": "2026-10-03T10:24:24.985+00:00"
+    "date": "2026-10-03T10:19:00+00:00"
   },
   {
     "uid": "3_182",
@@ -813,19 +1233,7 @@
     "fullTitle": "الفصل 182: فصيلة صغيرة من أقاصي البلاد",
     "chapterTitle": "الفصل 182: فصيلة صغيرة من أقاصي البلاد",
     "link": "https://www.novelskyworld.com/2026/10/182.html",
-    "date": "2026-10-03T10:24:24.985+00:00"
-  },
-  {
-    "uid": "1_269",
-    "novelId": 1,
-    "novelTitle": "After Severing Ties",
-    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi44S8d8HI6VSRqi3PClNXsCSwy23aHJv4Hmk3Y_HdpekCGzMEhtAnfAOrCSV-aDh3J4vfa2Sgnpe_IRrjlIkfUrIM0-9Vu-t9x1Opsz2ab4P394JnXrYax-y0Af90QY50xvyEb948xN14er5db6c6LEJM-PSi867VfU-T_EYHha-j9oCElXs5Ik0rn0HTf/s0/1000134866.webp",
-    "novelLink": "https://www.novelskyworld.com/p/severing-ties.html",
-    "num": 269,
-    "fullTitle": "الفصل 269: ظهور تشن تشانغ آن!",
-    "chapterTitle": "الفصل 269: ظهور تشن تشانغ آن!",
-    "link": "https://www.novelskyworld.com/2026/10/after-severing-ties-269.html",
-    "date": "2026-10-03T08:28:43.7+00:00"
+    "date": "2026-10-03T10:00:00+00:00"
   },
   {
     "uid": "3_181",
@@ -837,7 +1245,19 @@
     "fullTitle": "الفصل 181: ظهور بو جينغ",
     "chapterTitle": "الفصل 181: ظهور بو جينغ",
     "link": "https://www.novelskyworld.com/2026/10/181.html",
-    "date": "2026-10-03T08:28:43.7+00:00"
+    "date": "2026-10-03T06:00:00+00:00"
+  },
+  {
+    "uid": "1_269",
+    "novelId": 1,
+    "novelTitle": "After Severing Ties",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi44S8d8HI6VSRqi3PClNXsCSwy23aHJv4Hmk3Y_HdpekCGzMEhtAnfAOrCSV-aDh3J4vfa2Sgnpe_IRrjlIkfUrIM0-9Vu-t9x1Opsz2ab4P394JnXrYax-y0Af90QY50xvyEb948xN14er5db6c6LEJM-PSi867VfU-T_EYHha-j9oCElXs5Ik0rn0HTf/s0/1000134866.webp",
+    "novelLink": "https://www.novelskyworld.com/p/severing-ties.html",
+    "num": 269,
+    "fullTitle": "الفصل 269: ظهور تشن تشانغ آن!",
+    "chapterTitle": "الفصل 269: ظهور تشن تشانغ آن!",
+    "link": "https://www.novelskyworld.com/2026/10/after-severing-ties-269.html",
+    "date": "2026-10-03T06:00:00+00:00"
   },
   {
     "uid": "5_95",
@@ -849,7 +1269,7 @@
     "fullTitle": "الفصل 95: التاج الملطخ (1)",
     "chapterTitle": "الفصل 95: التاج الملطخ (1)",
     "link": "https://www.novelskyworld.com/2026/10/95-1.html",
-    "date": "2026-10-03T08:28:43.7+00:00"
+    "date": "2026-10-03T05:55:00+00:00"
   },
   {
     "uid": "5_94",
@@ -861,7 +1281,7 @@
     "fullTitle": "الفصل 94: الوشاية والخداع (2)",
     "chapterTitle": "الفصل 94: الوشاية والخداع (2)",
     "link": "https://www.novelskyworld.com/2026/10/94-2.html",
-    "date": "2026-10-02T19:24:31.144+00:00"
+    "date": "2026-10-02T18:58:00+00:00"
   },
   {
     "uid": "3_180",
@@ -873,7 +1293,7 @@
     "fullTitle": "الفصل 180: الخلود هو العالم",
     "chapterTitle": "الفصل 180: الخلود هو العالم",
     "link": "https://www.novelskyworld.com/2026/10/180.html",
-    "date": "2026-10-02T19:24:31.144+00:00"
+    "date": "2026-10-02T18:00:00+00:00"
   },
   {
     "uid": "5_93",
@@ -885,7 +1305,7 @@
     "fullTitle": "الفصل 93: الوشاية والخداع (1)",
     "chapterTitle": "الفصل 93: الوشاية والخداع (1)",
     "link": "https://www.novelskyworld.com/2026/10/93-1.html",
-    "date": "2026-10-02T15:24:30.148+00:00"
+    "date": "2026-10-02T14:38:00+00:00"
   },
   {
     "uid": "3_179",
@@ -897,7 +1317,7 @@
     "fullTitle": "الفصل 179: الفنون القتالية، إشراق الداو، والوصول للإدراك",
     "chapterTitle": "الفصل 179: الفنون القتالية، إشراق الداو، والوصول للإدراك",
     "link": "https://www.novelskyworld.com/2026/10/179.html",
-    "date": "2026-10-02T15:24:30.148+00:00"
+    "date": "2026-10-02T14:00:00+00:00"
   },
   {
     "uid": "1_268",
@@ -909,7 +1329,7 @@
     "fullTitle": "الفصل 268: فحص ميداني!",
     "chapterTitle": "الفصل 268: فحص ميداني!",
     "link": "https://www.novelskyworld.com/2026/10/after-severing-ties-268.html",
-    "date": "2026-10-02T13:24:33.615+00:00"
+    "date": "2026-10-02T13:00:00+00:00"
   },
   {
     "uid": "5_92",
@@ -921,7 +1341,7 @@
     "fullTitle": "الفصل 92: الجسر الذي يمشي على السحاب (2)",
     "chapterTitle": "الفصل 92: الجسر الذي يمشي على السحاب (2)",
     "link": "https://www.novelskyworld.com/2026/10/92-2.html",
-    "date": "2026-10-02T10:24:48.016+00:00"
+    "date": "2026-10-02T10:19:00+00:00"
   },
   {
     "uid": "3_178",
@@ -933,7 +1353,7 @@
     "fullTitle": "الفصل 178: دواء السوق السوداء",
     "chapterTitle": "الفصل 178: دواء السوق السوداء",
     "link": "https://www.novelskyworld.com/2026/10/178.html",
-    "date": "2026-10-02T10:24:48.016+00:00"
+    "date": "2026-10-02T10:00:00+00:00"
   },
   {
     "uid": "3_177",
@@ -945,7 +1365,7 @@
     "fullTitle": "الفصل 177: مرحلة الماهايانا أم مرحلة جيانغ لي",
     "chapterTitle": "الفصل 177: مرحلة الماهايانا أم مرحلة جيانغ لي",
     "link": "https://www.novelskyworld.com/2026/10/177.html",
-    "date": "2026-10-02T08:24:37.11+00:00"
+    "date": "2026-10-02T06:00:00+00:00"
   },
   {
     "uid": "1_267",
@@ -957,7 +1377,7 @@
     "fullTitle": "الفصل 267: التظاهر بالثراء بلا مال",
     "chapterTitle": "الفصل 267: التظاهر بالثراء بلا مال",
     "link": "https://www.novelskyworld.com/2026/10/after-severing-ties-267.html",
-    "date": "2026-10-02T08:24:37.11+00:00"
+    "date": "2026-10-02T06:00:00+00:00"
   },
   {
     "uid": "5_91",
@@ -969,7 +1389,7 @@
     "fullTitle": "الفصل 91: الجسر الذي يمشي على السحاب (1)",
     "chapterTitle": "الفصل 91: الجسر الذي يمشي على السحاب (1)",
     "link": "https://www.novelskyworld.com/2026/10/91-1.html",
-    "date": "2026-10-02T08:24:37.11+00:00"
+    "date": "2026-10-02T05:55:00+00:00"
   },
   {
     "uid": "5_90",
@@ -981,7 +1401,7 @@
     "fullTitle": "الفصل 90: بين الزمكان والثقة (2)",
     "chapterTitle": "الفصل 90: بين الزمكان والثقة (2)",
     "link": "https://www.novelskyworld.com/2026/10/90-2.html",
-    "date": "2026-10-02T08:24:37.11+00:00"
+    "date": "2026-10-01T18:58:00+00:00"
   },
   {
     "uid": "3_176",
@@ -993,7 +1413,7 @@
     "fullTitle": "الفصل 176: عالم هوانغيو عالي الإمكانات",
     "chapterTitle": "الفصل 176: عالم هوانغيو عالي الإمكانات",
     "link": "https://www.novelskyworld.com/2026/10/176.html",
-    "date": "2026-10-01T18:24:31.421+00:00"
+    "date": "2026-10-01T18:00:00+00:00"
   },
   {
     "uid": "5_89",
@@ -1005,7 +1425,7 @@
     "fullTitle": "الفصل 89: بين الزمكان والثقة (1)",
     "chapterTitle": "الفصل 89: بين الزمكان والثقة (1)",
     "link": "https://www.novelskyworld.com/2026/10/89-1.html",
-    "date": "2026-10-01T15:24:41.174+00:00"
+    "date": "2026-10-01T14:38:00+00:00"
   },
   {
     "uid": "3_175",
@@ -1017,7 +1437,7 @@
     "fullTitle": "الفصل 175: التقى بشبح",
     "chapterTitle": "الفصل 175: التقى بشبح",
     "link": "https://www.novelskyworld.com/2026/10/175.html",
-    "date": "2026-10-01T14:24:32.596+00:00"
+    "date": "2026-10-01T14:00:00+00:00"
   },
   {
     "uid": "1_266",
@@ -1029,7 +1449,7 @@
     "fullTitle": "الفصل 266: الجارية ستنزع عنك ثيابك",
     "chapterTitle": "الفصل 266: الجارية ستنزع عنك ثيابك",
     "link": "https://www.novelskyworld.com/2026/10/after-severing-ties-266.html",
-    "date": "2026-10-01T13:24:29.295+00:00"
+    "date": "2026-10-01T13:00:00+00:00"
   },
   {
     "uid": "5_88",
@@ -1041,7 +1461,7 @@
     "fullTitle": "الفصل 88: كيفية القضاء على العنف (3)",
     "chapterTitle": "الفصل 88: كيفية القضاء على العنف (3)",
     "link": "https://www.novelskyworld.com/2026/10/88-3.html",
-    "date": "2026-10-01T10:24:45.797+00:00"
+    "date": "2026-10-01T10:19:00+00:00"
   },
   {
     "uid": "3_174",
@@ -1053,7 +1473,7 @@
     "fullTitle": "الفصل 174: التاريخ المزيف",
     "chapterTitle": "الفصل 174: التاريخ المزيف",
     "link": "https://www.novelskyworld.com/2026/10/174.html",
-    "date": "2026-10-01T10:24:45.797+00:00"
+    "date": "2026-10-01T10:00:00+00:00"
   },
   {
     "uid": "3_173",
@@ -1065,7 +1485,7 @@
     "fullTitle": "الفصل 173: ممارسة فنون القتال تطيل العمر حقاً",
     "chapterTitle": "الفصل 173: ممارسة فنون القتال تطيل العمر حقاً",
     "link": "https://www.novelskyworld.com/2026/10/173.html",
-    "date": "2026-10-01T08:24:33.302+00:00"
+    "date": "2026-10-01T06:00:00+00:00"
   },
   {
     "uid": "1_265",
@@ -1075,9 +1495,9 @@
     "novelLink": "https://www.novelskyworld.com/p/severing-ties.html",
     "num": 265,
     "fullTitle": "After Severing Ties - الفصل 265: العودة!",
-    "chapterTitle": "الفصل 265: العودة!",
+    "chapterTitle": "After Severing Ties - الفصل 265: العودة!",
     "link": "https://www.novelskyworld.com/2026/09/after-severing-ties-265.html",
-    "date": "2026-10-01T08:24:33.302+00:00"
+    "date": "2026-10-01T06:00:00+00:00"
   },
   {
     "uid": "5_87",
@@ -1089,7 +1509,7 @@
     "fullTitle": "الفصل 87: كيفية القضاء على العنف (2)",
     "chapterTitle": "الفصل 87: كيفية القضاء على العنف (2)",
     "link": "https://www.novelskyworld.com/2026/10/87-2.html",
-    "date": "2026-10-01T08:24:33.302+00:00"
+    "date": "2026-10-01T05:55:00+00:00"
   },
   {
     "uid": "5_86",
@@ -1101,7 +1521,7 @@
     "fullTitle": "الفصل 86: كيفية القضاء على العنف (1)",
     "chapterTitle": "الفصل 86: كيفية القضاء على العنف (1)",
     "link": "https://www.novelskyworld.com/2026/10/86-1.html",
-    "date": "2026-09-30T19:24:29.311+00:00"
+    "date": "2026-09-30T18:58:00+00:00"
   },
   {
     "uid": "3_172",
@@ -1113,7 +1533,7 @@
     "fullTitle": "الفصل 172: الزمن المجمد",
     "chapterTitle": "الفصل 172: الزمن المجمد",
     "link": "https://www.novelskyworld.com/2026/09/172.html",
-    "date": "2026-09-30T18:24:30.463+00:00"
+    "date": "2026-09-30T18:00:00+00:00"
   },
   {
     "uid": "5_85",
@@ -1125,7 +1545,7 @@
     "fullTitle": "الفصل 85: جوليان فرونتيرا (2)",
     "chapterTitle": "الفصل 85: جوليان فرونتيرا (2)",
     "link": "https://www.novelskyworld.com/2026/10/85-2.html",
-    "date": "2026-09-30T15:24:28.968+00:00"
+    "date": "2026-09-30T14:38:00+00:00"
   },
   {
     "uid": "3_171",
@@ -1137,7 +1557,7 @@
     "fullTitle": "الفصل 171: العمر المديد.. حتى الخامسة والأربعين",
     "chapterTitle": "الفصل 171: العمر المديد.. حتى الخامسة والأربعين",
     "link": "https://www.novelskyworld.com/2026/09/171.html",
-    "date": "2026-09-30T14:24:32.8+00:00"
+    "date": "2026-09-30T14:00:00+00:00"
   },
   {
     "uid": "1_264",
@@ -1149,7 +1569,7 @@
     "fullTitle": "الفصل 264: لحظات الربيع، لِنُتِمَّ ما بدأناه أولاً",
     "chapterTitle": "الفصل 264: لحظات الربيع، لِنُتِمَّ ما بدأناه أولاً",
     "link": "https://www.novelskyworld.com/2026/09/after-severing-ties-264.html",
-    "date": "2026-09-30T13:24:32.142+00:00"
+    "date": "2026-09-30T13:00:00+00:00"
   },
   {
     "uid": "5_84",
@@ -1161,7 +1581,7 @@
     "fullTitle": "الفصل 84: جوليان فرونتيرا (1)",
     "chapterTitle": "الفصل 84: جوليان فرونتيرا (1)",
     "link": "https://www.novelskyworld.com/2026/10/84-1.html",
-    "date": "2026-09-30T10:24:30.662+00:00"
+    "date": "2026-09-30T10:19:00+00:00"
   },
   {
     "uid": "3_170",
@@ -1173,19 +1593,7 @@
     "fullTitle": "الفصل 170: الرقص على حافة الدمار مراراً وتكراراً",
     "chapterTitle": "الفصل 170: الرقص على حافة الدمار مراراً وتكراراً",
     "link": "https://www.novelskyworld.com/2026/09/170.html",
-    "date": "2026-09-30T10:24:30.662+00:00"
-  },
-  {
-    "uid": "1_263",
-    "novelId": 1,
-    "novelTitle": "After Severing Ties",
-    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi44S8d8HI6VSRqi3PClNXsCSwy23aHJv4Hmk3Y_HdpekCGzMEhtAnfAOrCSV-aDh3J4vfa2Sgnpe_IRrjlIkfUrIM0-9Vu-t9x1Opsz2ab4P394JnXrYax-y0Af90QY50xvyEb948xN14er5db6c6LEJM-PSi867VfU-T_EYHha-j9oCElXs5Ik0rn0HTf/s0/1000134866.webp",
-    "novelLink": "https://www.novelskyworld.com/p/severing-ties.html",
-    "num": 263,
-    "fullTitle": "الفصل 263: ماذا حدث بحق الجحيم؟",
-    "chapterTitle": "الفصل 263: ماذا حدث بحق الجحيم؟",
-    "link": "https://www.novelskyworld.com/2026/09/after-severing-ties-263.html",
-    "date": "2026-09-30T06:24:32.138+00:00"
+    "date": "2026-09-30T10:00:00+00:00"
   },
   {
     "uid": "3_169",
@@ -1197,7 +1605,19 @@
     "fullTitle": "الفصل 169: أقاليم القارة التسعة المرعبة",
     "chapterTitle": "الفصل 169: أقاليم القارة التسعة المرعبة",
     "link": "https://www.novelskyworld.com/2026/09/169.html",
-    "date": "2026-09-30T06:24:32.138+00:00"
+    "date": "2026-09-30T06:00:00+00:00"
+  },
+  {
+    "uid": "1_263",
+    "novelId": 1,
+    "novelTitle": "After Severing Ties",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi44S8d8HI6VSRqi3PClNXsCSwy23aHJv4Hmk3Y_HdpekCGzMEhtAnfAOrCSV-aDh3J4vfa2Sgnpe_IRrjlIkfUrIM0-9Vu-t9x1Opsz2ab4P394JnXrYax-y0Af90QY50xvyEb948xN14er5db6c6LEJM-PSi867VfU-T_EYHha-j9oCElXs5Ik0rn0HTf/s0/1000134866.webp",
+    "novelLink": "https://www.novelskyworld.com/p/severing-ties.html",
+    "num": 263,
+    "fullTitle": "الفصل 263: ماذا حدث بحق الجحيم؟",
+    "chapterTitle": "الفصل 263: ماذا حدث بحق الجحيم؟",
+    "link": "https://www.novelskyworld.com/2026/09/after-severing-ties-263.html",
+    "date": "2026-09-30T06:00:00+00:00"
   },
   {
     "uid": "5_83",
@@ -1209,7 +1629,7 @@
     "fullTitle": "الفصل 83: إجابة خاطئة تتفوق على الصحيحة (2)",
     "chapterTitle": "الفصل 83: إجابة خاطئة تتفوق على الصحيحة (2)",
     "link": "https://www.novelskyworld.com/2026/10/83-2.html",
-    "date": "2026-09-30T06:24:32.138+00:00"
+    "date": "2026-09-30T05:55:00+00:00"
   },
   {
     "uid": "5_82",
@@ -1221,7 +1641,7 @@
     "fullTitle": "الفصل 82: إجابة خاطئة تتفوق على الصحيحة (1)",
     "chapterTitle": "الفصل 82: إجابة خاطئة تتفوق على الصحيحة (1)",
     "link": "https://www.novelskyworld.com/2026/10/82-1.html",
-    "date": "2026-09-29T19:24:33.249+00:00"
+    "date": "2026-09-29T18:58:00+00:00"
   },
   {
     "uid": "3_168",
@@ -1233,7 +1653,7 @@
     "fullTitle": "الفصل 168: فتى مجهول الهوية",
     "chapterTitle": "الفصل 168: فتى مجهول الهوية",
     "link": "https://www.novelskyworld.com/2026/09/168.html",
-    "date": "2026-09-29T18:24:27.194+00:00"
+    "date": "2026-09-29T18:00:00+00:00"
   },
   {
     "uid": "5_81",
@@ -1245,7 +1665,7 @@
     "fullTitle": "الفصل 81: إحداث ضجة واسعة (3)",
     "chapterTitle": "الفصل 81: إحداث ضجة واسعة (3)",
     "link": "https://www.novelskyworld.com/2026/10/81-3.html",
-    "date": "2026-09-29T15:24:34.127+00:00"
+    "date": "2026-09-29T14:38:00+00:00"
   },
   {
     "uid": "3_167",
@@ -1257,7 +1677,7 @@
     "fullTitle": "الفصل 167: لديّ نية تمرد حقاً",
     "chapterTitle": "الفصل 167: لديّ نية تمرد حقاً",
     "link": "https://www.novelskyworld.com/2026/09/167.html",
-    "date": "2026-09-29T14:24:30.437+00:00"
+    "date": "2026-09-29T14:00:00+00:00"
   },
   {
     "uid": "1_262",
@@ -1269,7 +1689,7 @@
     "fullTitle": "الفصل 262: رد الاعتبار للزوج الإمبراطوري",
     "chapterTitle": "الفصل 262: رد الاعتبار للزوج الإمبراطوري",
     "link": "https://www.novelskyworld.com/2026/09/after-severing-ties-262.html",
-    "date": "2026-09-29T13:24:31.388+00:00"
+    "date": "2026-09-29T13:00:00+00:00"
   },
   {
     "uid": "5_80",
@@ -1281,7 +1701,7 @@
     "fullTitle": "الفصل 80: إحداث ضجة واسعة (2)",
     "chapterTitle": "الفصل 80: إحداث ضجة واسعة (2)",
     "link": "https://www.novelskyworld.com/2026/10/80-2.html",
-    "date": "2026-09-29T10:24:28.061+00:00"
+    "date": "2026-09-29T10:19:00+00:00"
   },
   {
     "uid": "3_166",
@@ -1293,19 +1713,7 @@
     "fullTitle": "الفصل 166: فرع قاعة عاهل البشر",
     "chapterTitle": "الفصل 166: فرع قاعة عاهل البشر",
     "link": "https://www.novelskyworld.com/2026/09/166.html",
-    "date": "2026-09-29T10:24:28.061+00:00"
-  },
-  {
-    "uid": "3_165",
-    "novelId": 3,
-    "novelTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا",
-    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic5Rz2wdPDDyQzAPqo8FNtkXq2z0eri9l4URgfK1nKYKmBGPutdmmMmFqX8MYd9LZYqHb4oKHYA-5oCxGcx0DmM6ch_PQJkt7Pj4h0AMMYYj4BBCVlPr2Ebeuva1i3qJYLVGKhjLfHU-rXJN0IXXh2mVkn3pL6r3tLngXd_0Es-dsdu31cs_vm3BOVED3w/s1280/1000138946.webp",
-    "novelLink": "https://www.novelskyworld.com/p/blog-page_14.html",
-    "num": 165,
-    "fullTitle": "الفصل 165: حظر نطق كلمة \"مينغ\"",
-    "chapterTitle": "الفصل 165: حظر نطق كلمة \"مينغ\"",
-    "link": "https://www.novelskyworld.com/2026/09/165.html",
-    "date": "2026-09-29T06:24:32.251+00:00"
+    "date": "2026-09-29T10:00:00+00:00"
   },
   {
     "uid": "1_261",
@@ -1317,7 +1725,19 @@
     "fullTitle": "الفصل 261: أهذه هي النهاية؟",
     "chapterTitle": "الفصل 261: أهذه هي النهاية؟",
     "link": "https://www.novelskyworld.com/2026/09/after-severing-ties-261.html",
-    "date": "2026-09-29T06:24:32.251+00:00"
+    "date": "2026-09-29T06:00:00+00:00"
+  },
+  {
+    "uid": "3_165",
+    "novelId": 3,
+    "novelTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic5Rz2wdPDDyQzAPqo8FNtkXq2z0eri9l4URgfK1nKYKmBGPutdmmMmFqX8MYd9LZYqHb4oKHYA-5oCxGcx0DmM6ch_PQJkt7Pj4h0AMMYYj4BBCVlPr2Ebeuva1i3qJYLVGKhjLfHU-rXJN0IXXh2mVkn3pL6r3tLngXd_0Es-dsdu31cs_vm3BOVED3w/s1280/1000138946.webp",
+    "novelLink": "https://www.novelskyworld.com/p/blog-page_14.html",
+    "num": 165,
+    "fullTitle": "الفصل 165: حظر نطق كلمة \"مينغ\"",
+    "chapterTitle": "الفصل 165: حظر نطق كلمة \"مينغ\"",
+    "link": "https://www.novelskyworld.com/2026/09/165.html",
+    "date": "2026-09-29T06:00:00+00:00"
   },
   {
     "uid": "5_79",
@@ -1329,7 +1749,7 @@
     "fullTitle": "الفصل 79: إحداث ضجة واسعة (1)",
     "chapterTitle": "الفصل 79: إحداث ضجة واسعة (1)",
     "link": "https://www.novelskyworld.com/2026/10/79-1.html",
-    "date": "2026-09-29T06:24:32.251+00:00"
+    "date": "2026-09-29T05:55:00+00:00"
   },
   {
     "uid": "5_78",
@@ -1341,7 +1761,7 @@
     "fullTitle": "الفصل 78: معجزة، أو فرصة مقدرة (3)",
     "chapterTitle": "الفصل 78: معجزة، أو فرصة مقدرة (3)",
     "link": "https://www.novelskyworld.com/2026/10/78-3.html",
-    "date": "2026-09-28T19:24:31.642+00:00"
+    "date": "2026-09-28T18:58:00+00:00"
   },
   {
     "uid": "3_164",
@@ -1353,7 +1773,7 @@
     "fullTitle": "الفصل 164: التصور الأولي لتجسد الكنوز الروحية",
     "chapterTitle": "الفصل 164: التصور الأولي لتجسد الكنوز الروحية",
     "link": "https://www.novelskyworld.com/2026/09/164.html",
-    "date": "2026-09-28T18:24:33.904+00:00"
+    "date": "2026-09-28T18:00:00+00:00"
   },
   {
     "uid": "5_77",
@@ -1365,7 +1785,7 @@
     "fullTitle": "الفصل 77: معجزة، أو فرصة مقدرة (2)",
     "chapterTitle": "الفصل 77: معجزة، أو فرصة مقدرة (2)",
     "link": "https://www.novelskyworld.com/2026/10/77-2.html",
-    "date": "2026-09-28T15:24:35.801+00:00"
+    "date": "2026-09-28T14:38:00+00:00"
   },
   {
     "uid": "3_163",
@@ -1377,7 +1797,7 @@
     "fullTitle": "الفصل 163: زيارة قديم وتجاذب أطراف الحديث",
     "chapterTitle": "الفصل 163: زيارة قديم وتجاذب أطراف الحديث",
     "link": "https://www.novelskyworld.com/2026/09/163.html",
-    "date": "2026-09-28T14:24:29.172+00:00"
+    "date": "2026-09-28T14:00:00+00:00"
   },
   {
     "uid": "1_260",
@@ -1389,7 +1809,7 @@
     "fullTitle": "الفصل 260: نهب المال والحبوب والنساء",
     "chapterTitle": "الفصل 260: نهب المال والحبوب والنساء",
     "link": "https://www.novelskyworld.com/2026/09/after-severing-ties-260.html",
-    "date": "2026-09-28T13:24:30.68+00:00"
+    "date": "2026-09-28T13:00:00+00:00"
   },
   {
     "uid": "5_76",
@@ -1401,7 +1821,7 @@
     "fullTitle": "الفصل 76: معجزة، أو فرصة مقدرة (1)",
     "chapterTitle": "الفصل 76: معجزة، أو فرصة مقدرة (1)",
     "link": "https://www.novelskyworld.com/2026/10/76-1.html",
-    "date": "2026-09-28T10:24:34.779+00:00"
+    "date": "2026-09-28T10:19:00+00:00"
   },
   {
     "uid": "3_162",
@@ -1413,19 +1833,7 @@
     "fullTitle": "الفصل 162: سقطت الأقنعة، الجميع في مرحلة عبور المحنة",
     "chapterTitle": "الفصل 162: سقطت الأقنعة، الجميع في مرحلة عبور المحنة",
     "link": "https://www.novelskyworld.com/2026/09/162.html",
-    "date": "2026-09-28T10:24:34.779+00:00"
-  },
-  {
-    "uid": "1_259",
-    "novelId": 1,
-    "novelTitle": "After Severing Ties",
-    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi44S8d8HI6VSRqi3PClNXsCSwy23aHJv4Hmk3Y_HdpekCGzMEhtAnfAOrCSV-aDh3J4vfa2Sgnpe_IRrjlIkfUrIM0-9Vu-t9x1Opsz2ab4P394JnXrYax-y0Af90QY50xvyEb948xN14er5db6c6LEJM-PSi867VfU-T_EYHha-j9oCElXs5Ik0rn0HTf/s0/1000134866.webp",
-    "novelLink": "https://www.novelskyworld.com/p/severing-ties.html",
-    "num": 259,
-    "fullTitle": "الفصل 259: المعركة الأولى ستكون بك، وبك حتماً سننتصر",
-    "chapterTitle": "الفصل 259: المعركة الأولى ستكون بك، وبك حتماً سننتصر",
-    "link": "https://www.novelskyworld.com/2026/09/after-severing-ties-259.html",
-    "date": "2026-09-28T06:24:32.503+00:00"
+    "date": "2026-09-28T10:00:00+00:00"
   },
   {
     "uid": "3_161",
@@ -1437,7 +1845,19 @@
     "fullTitle": "الفصل 161: كفى تمثيلاً.. أنا في مرحلة عبور المحنة!",
     "chapterTitle": "الفصل 161: كفى تمثيلاً.. أنا في مرحلة عبور المحنة!",
     "link": "https://www.novelskyworld.com/2026/09/161.html",
-    "date": "2026-09-28T06:24:32.503+00:00"
+    "date": "2026-09-28T06:00:00+00:00"
+  },
+  {
+    "uid": "1_259",
+    "novelId": 1,
+    "novelTitle": "After Severing Ties",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi44S8d8HI6VSRqi3PClNXsCSwy23aHJv4Hmk3Y_HdpekCGzMEhtAnfAOrCSV-aDh3J4vfa2Sgnpe_IRrjlIkfUrIM0-9Vu-t9x1Opsz2ab4P394JnXrYax-y0Af90QY50xvyEb948xN14er5db6c6LEJM-PSi867VfU-T_EYHha-j9oCElXs5Ik0rn0HTf/s0/1000134866.webp",
+    "novelLink": "https://www.novelskyworld.com/p/severing-ties.html",
+    "num": 259,
+    "fullTitle": "الفصل 259: المعركة الأولى ستكون بك، وبك حتماً سننتصر",
+    "chapterTitle": "الفصل 259: المعركة الأولى ستكون بك، وبك حتماً سننتصر",
+    "link": "https://www.novelskyworld.com/2026/09/after-severing-ties-259.html",
+    "date": "2026-09-28T06:00:00+00:00"
   },
   {
     "uid": "5_75",
@@ -1449,7 +1869,7 @@
     "fullTitle": "الفصل 75: الدوائر الثلاث (2)",
     "chapterTitle": "الفصل 75: الدوائر الثلاث (2)",
     "link": "https://www.novelskyworld.com/2026/10/75-2.html",
-    "date": "2026-09-28T06:24:32.503+00:00"
+    "date": "2026-09-28T05:55:00+00:00"
   },
   {
     "uid": "5_74",
@@ -1461,7 +1881,7 @@
     "fullTitle": "الفصل 74: الدوائر الثلاث (1)",
     "chapterTitle": "الفصل 74: الدوائر الثلاث (1)",
     "link": "https://www.novelskyworld.com/2026/10/74-1.html",
-    "date": "2026-09-27T19:24:24.973+00:00"
+    "date": "2026-09-27T18:58:00+00:00"
   },
   {
     "uid": "3_160",
@@ -1473,7 +1893,7 @@
     "fullTitle": "الفصل 160: الدفاع المشروع",
     "chapterTitle": "الفصل 160: الدفاع المشروع",
     "link": "https://www.novelskyworld.com/2026/09/160.html",
-    "date": "2026-09-27T18:24:25.573+00:00"
+    "date": "2026-09-27T18:00:00+00:00"
   },
   {
     "uid": "5_73",
@@ -1485,7 +1905,7 @@
     "fullTitle": "الفصل 73: استهداف نقطة الضعف (3)",
     "chapterTitle": "الفصل 73: استهداف نقطة الضعف (3)",
     "link": "https://www.novelskyworld.com/2026/10/73-3.html",
-    "date": "2026-09-27T15:24:24.976+00:00"
+    "date": "2026-09-27T14:38:00+00:00"
   },
   {
     "uid": "3_159",
@@ -1497,7 +1917,7 @@
     "fullTitle": "الفصل 159: استمتعوا بما لذ وطاب",
     "chapterTitle": "الفصل 159: استمتعوا بما لذ وطاب",
     "link": "https://www.novelskyworld.com/2026/09/159.html",
-    "date": "2026-09-27T14:24:26.05+00:00"
+    "date": "2026-09-27T14:00:00+00:00"
   },
   {
     "uid": "1_258",
@@ -1509,7 +1929,7 @@
     "fullTitle": "الفصل 258: لا يجوز لأحد أن يزعجني في نومي",
     "chapterTitle": "الفصل 258: لا يجوز لأحد أن يزعجني في نومي",
     "link": "https://www.novelskyworld.com/2026/09/after-severing-ties-258.html",
-    "date": "2026-09-27T13:24:25.089+00:00"
+    "date": "2026-09-27T13:00:00+00:00"
   },
   {
     "uid": "5_72",
@@ -1521,7 +1941,7 @@
     "fullTitle": "الفصل 72: استهداف نقطة الضعف (2)",
     "chapterTitle": "الفصل 72: استهداف نقطة الضعف (2)",
     "link": "https://www.novelskyworld.com/2026/10/72-2.html",
-    "date": "2026-09-27T10:25:30.553+00:00"
+    "date": "2026-09-27T10:19:00+00:00"
   },
   {
     "uid": "3_158",
@@ -1533,7 +1953,7 @@
     "fullTitle": "الفصل 158: تحذير مبكر",
     "chapterTitle": "الفصل 158: تحذير مبكر",
     "link": "https://www.novelskyworld.com/2026/09/158.html",
-    "date": "2026-09-27T10:25:30.553+00:00"
+    "date": "2026-09-27T10:00:00+00:00"
   },
   {
     "uid": "3_157",
@@ -1545,7 +1965,7 @@
     "fullTitle": "الفصل 157: العرائس التي اكتسبت وعياً روحياً",
     "chapterTitle": "الفصل 157: العرائس التي اكتسبت وعياً روحياً",
     "link": "https://www.novelskyworld.com/2026/09/157.html",
-    "date": "2026-09-27T06:24:28.57+00:00"
+    "date": "2026-09-27T06:00:00+00:00"
   },
   {
     "uid": "1_257",
@@ -1557,7 +1977,7 @@
     "fullTitle": "الفصل 257: لا أستطيع إنقاذك",
     "chapterTitle": "الفصل 257: لا أستطيع إنقاذك",
     "link": "https://www.novelskyworld.com/2026/09/after-severing-ties-257.html",
-    "date": "2026-09-27T06:24:28.57+00:00"
+    "date": "2026-09-27T06:00:00+00:00"
   },
   {
     "uid": "5_71",
@@ -1569,7 +1989,7 @@
     "fullTitle": "الفصل 71: استهداف نقطة الضعف (1)",
     "chapterTitle": "الفصل 71: استهداف نقطة الضعف (1)",
     "link": "https://www.novelskyworld.com/2026/10/71-1.html",
-    "date": "2026-09-27T06:24:28.57+00:00"
+    "date": "2026-09-27T05:55:00+00:00"
   },
   {
     "uid": "5_70",
@@ -1579,9 +1999,9 @@
     "novelLink": "https://www.novelskyworld.com/p/the-greatest-estate-developer.html",
     "num": 70,
     "fullTitle": "المهندس الأعظم - الفصل 70: الهارب والمواجه (2)",
-    "chapterTitle": "الفصل 70: الهارب والمواجه (2)",
+    "chapterTitle": "المهندس الأعظم - الفصل 70: الهارب والمواجه (2)",
     "link": "https://www.novelskyworld.com/2026/09/70-2.html",
-    "date": "2026-09-26T19:24:26.328+00:00"
+    "date": "2026-09-26T18:58:00+00:00"
   },
   {
     "uid": "3_156",
@@ -1593,7 +2013,7 @@
     "fullTitle": "الفصل 156: البشر وعشائر الكيميرا",
     "chapterTitle": "الفصل 156: البشر وعشائر الكيميرا",
     "link": "https://www.novelskyworld.com/2026/09/156.html",
-    "date": "2026-09-26T18:24:25.93+00:00"
+    "date": "2026-09-26T18:00:00+00:00"
   },
   {
     "uid": "5_69",
@@ -1605,7 +2025,7 @@
     "fullTitle": "الفصل 69: الهارب والمواجه (1)",
     "chapterTitle": "الفصل 69: الهارب والمواجه (1)",
     "link": "https://www.novelskyworld.com/2026/09/69-1.html",
-    "date": "2026-09-26T15:24:25.891+00:00"
+    "date": "2026-09-26T14:38:00+00:00"
   },
   {
     "uid": "3_155",
@@ -1617,7 +2037,7 @@
     "fullTitle": "الفصل 155: افتتاح المؤتمر",
     "chapterTitle": "الفصل 155: افتتاح المؤتمر",
     "link": "https://www.novelskyworld.com/2026/09/155.html",
-    "date": "2026-09-26T14:24:26.578+00:00"
+    "date": "2026-09-26T14:00:00+00:00"
   },
   {
     "uid": "1_256",
@@ -1629,7 +2049,7 @@
     "fullTitle": "الفصل 256: أبقِها في المنزل، لتتأملها!",
     "chapterTitle": "الفصل 256: أبقِها في المنزل، لتتأملها!",
     "link": "https://www.novelskyworld.com/2026/09/after-severing-ties-256.html",
-    "date": "2026-09-26T13:24:26.533+00:00"
+    "date": "2026-09-26T13:00:00+00:00"
   },
   {
     "uid": "5_68",
@@ -1639,9 +2059,9 @@
     "novelLink": "https://www.novelskyworld.com/p/the-greatest-estate-developer.html",
     "num": 68,
     "fullTitle": "المهندس الأعظم - الفصل 68: حفل الإنجاز الباهر (2)",
-    "chapterTitle": "الفصل 68: حفل الإنجاز الباهر (2)",
+    "chapterTitle": "المهندس الأعظم - الفصل 68: حفل الإنجاز الباهر (2)",
     "link": "https://www.novelskyworld.com/2026/09/68-2.html",
-    "date": "2026-09-26T10:24:31.591+00:00"
+    "date": "2026-09-26T10:19:00+00:00"
   },
   {
     "uid": "3_154",
@@ -1653,7 +2073,7 @@
     "fullTitle": "الفصل 154: إغراء الجمال",
     "chapterTitle": "الفصل 154: إغراء الجمال",
     "link": "https://www.novelskyworld.com/2026/09/154.html",
-    "date": "2026-09-26T10:01:34.693+00:00"
+    "date": "2026-09-26T10:00:00+00:00"
   },
   {
     "uid": "3_153",
@@ -1665,7 +2085,7 @@
     "fullTitle": "الفصل 153: الجميع في مرحلة الروح الوليدة",
     "chapterTitle": "الفصل 153: الجميع في مرحلة الروح الوليدة",
     "link": "https://www.novelskyworld.com/2026/10/153.html",
-    "date": "2026-09-26T06:01:21.099+00:00"
+    "date": "2026-09-26T06:00:00+00:00"
   },
   {
     "uid": "1_255",
@@ -1677,7 +2097,7 @@
     "fullTitle": "الفصل 255: تسعة من عشرة لن يفعلوا ذلك",
     "chapterTitle": "الفصل 255: تسعة من عشرة لن يفعلوا ذلك",
     "link": "https://www.novelskyworld.com/2026/09/after-severing-ties-255.html",
-    "date": "2026-09-26T06:01:21.099+00:00"
+    "date": "2026-09-26T06:00:00+00:00"
   },
   {
     "uid": "5_67",
@@ -1689,7 +2109,7 @@
     "fullTitle": "الفصل 67: حفل الإنجاز الباهر (1)",
     "chapterTitle": "الفصل 67: حفل الإنجاز الباهر (1)",
     "link": "https://www.novelskyworld.com/2026/09/67-1.html",
-    "date": "2026-09-26T05:57:03.479+00:00"
+    "date": "2026-09-26T05:55:00+00:00"
   },
   {
     "uid": "5_66",
@@ -1699,9 +2119,9 @@
     "novelLink": "https://www.novelskyworld.com/p/the-greatest-estate-developer.html",
     "num": 66,
     "fullTitle": "المهندس الأعظم - الفصل 66: تعزيز الكائنات الخيالية (2)",
-    "chapterTitle": "الفصل 66: تعزيز الكائنات الخيالية (2)",
+    "chapterTitle": "المهندس الأعظم - الفصل 66: تعزيز الكائنات الخيالية (2)",
     "link": "https://www.novelskyworld.com/2026/09/66-2.html",
-    "date": "2026-09-25T18:59:21.35+00:00"
+    "date": "2026-09-25T18:58:00+00:00"
   },
   {
     "uid": "3_152",
@@ -1713,7 +2133,7 @@
     "fullTitle": "الفصل 152: مرشحو جيانغ لي",
     "chapterTitle": "الفصل 152: مرشحو جيانغ لي",
     "link": "https://www.novelskyworld.com/2026/11/152.html",
-    "date": "2026-09-25T18:01:48.857+00:00"
+    "date": "2026-09-25T18:00:00+00:00"
   },
   {
     "uid": "5_65",
@@ -1723,9 +2143,9 @@
     "novelLink": "https://www.novelskyworld.com/p/the-greatest-estate-developer.html",
     "num": 65,
     "fullTitle": "المهندس الأعظم - الفصل 65: تعزيز الكائنات الخيالية (1)",
-    "chapterTitle": "الفصل 65: تعزيز الكائنات الخيالية (1)",
+    "chapterTitle": "المهندس الأعظم - الفصل 65: تعزيز الكائنات الخيالية (1)",
     "link": "https://www.novelskyworld.com/2026/09/65-1.html",
-    "date": "2026-09-25T14:39:08.196+00:00"
+    "date": "2026-09-25T14:38:00+00:00"
   },
   {
     "uid": "3_151",
@@ -1737,7 +2157,7 @@
     "fullTitle": "الفصل 151: الصندوق الذي خلفه أسلاف عائلة جي",
     "chapterTitle": "الفصل 151: الصندوق الذي خلفه أسلاف عائلة جي",
     "link": "https://www.novelskyworld.com/2026/11/151.html",
-    "date": "2026-09-25T14:01:08.453+00:00"
+    "date": "2026-09-25T14:00:00+00:00"
   },
   {
     "uid": "1_254",
@@ -1749,7 +2169,7 @@
     "fullTitle": "الفصل 254: المواجهة!",
     "chapterTitle": "الفصل 254: المواجهة!",
     "link": "https://www.novelskyworld.com/2026/09/after-severing-ties-254.html",
-    "date": "2026-09-25T13:01:30.599+00:00"
+    "date": "2026-09-25T13:00:00+00:00"
   },
   {
     "uid": "5_64",
@@ -1759,9 +2179,9 @@
     "novelLink": "https://www.novelskyworld.com/p/the-greatest-estate-developer.html",
     "num": 64,
     "fullTitle": "المهندس الأعظم - الفصل 64: أشغال مستحيلة ومواد سحرية (2)",
-    "chapterTitle": "الفصل 64: أشغال مستحيلة ومواد سحرية (2)",
+    "chapterTitle": "المهندس الأعظم - الفصل 64: أشغال مستحيلة ومواد سحرية (2)",
     "link": "https://www.novelskyworld.com/2026/09/64-2.html",
-    "date": "2026-09-25T10:20:14.784+00:00"
+    "date": "2026-09-25T10:19:00+00:00"
   },
   {
     "uid": "3_150",
@@ -1773,7 +2193,7 @@
     "fullTitle": "الفصل 150: من هو الأقوى في مرحلة عبور المحنة حقاً؟",
     "chapterTitle": "الفصل 150: من هو الأقوى في مرحلة عبور المحنة حقاً؟",
     "link": "https://www.novelskyworld.com/2026/11/150_0422550822.html",
-    "date": "2026-09-25T10:01:37.958+00:00"
+    "date": "2026-09-25T10:00:00+00:00"
   },
   {
     "uid": "3_149",
@@ -1785,7 +2205,7 @@
     "fullTitle": "الفصل 149: بزوغ سيد السيوف",
     "chapterTitle": "الفصل 149: بزوغ سيد السيوف",
     "link": "https://www.novelskyworld.com/2026/11/149_0253401362.html",
-    "date": "2026-09-25T06:01:32.499+00:00"
+    "date": "2026-09-25T06:00:00+00:00"
   },
   {
     "uid": "1_253",
@@ -1797,7 +2217,7 @@
     "fullTitle": "الفصل 253: أبناء الزنا",
     "chapterTitle": "الفصل 253: أبناء الزنا",
     "link": "https://www.novelskyworld.com/2026/09/after-severing-ties-253.html",
-    "date": "2026-09-25T06:01:32.499+00:00"
+    "date": "2026-09-25T06:00:00+00:00"
   },
   {
     "uid": "5_63",
@@ -1807,7 +2227,7 @@
     "novelLink": "https://www.novelskyworld.com/p/the-greatest-estate-developer.html",
     "num": 63,
     "fullTitle": "المهندس الأعظم - الفصل 63: أشغال مستحيلة ومواد سحرية (1)",
-    "chapterTitle": "الفصل 63: أشغال مستحيلة ومواد سحرية (1)",
+    "chapterTitle": "المهندس الأعظم - الفصل 63: أشغال مستحيلة ومواد سحرية (1)",
     "link": "https://www.novelskyworld.com/2026/09/63-1.html",
     "date": "2026-09-25T05:55:00+00:00"
   },
@@ -1819,9 +2239,9 @@
     "novelLink": "https://www.novelskyworld.com/p/the-greatest-estate-developer.html",
     "num": 62,
     "fullTitle": "المهندس الأعظم - الفصل 62: أسباب إقامة التمثال (2)",
-    "chapterTitle": "الفصل 62: أسباب إقامة التمثال (2)",
+    "chapterTitle": "المهندس الأعظم - الفصل 62: أسباب إقامة التمثال (2)",
     "link": "https://www.novelskyworld.com/2026/09/62-2.html",
-    "date": "2026-09-24T19:00:00.487+00:00"
+    "date": "2026-09-24T18:58:00+00:00"
   },
   {
     "uid": "3_148",
@@ -1833,7 +2253,7 @@
     "fullTitle": "الفصل 148: منشأ شيطان القلب",
     "chapterTitle": "الفصل 148: منشأ شيطان القلب",
     "link": "https://www.novelskyworld.com/2026/11/148.html",
-    "date": "2026-09-24T18:01:13.839+00:00"
+    "date": "2026-09-24T18:00:00+00:00"
   },
   {
     "uid": "5_61",
@@ -1843,9 +2263,9 @@
     "novelLink": "https://www.novelskyworld.com/p/the-greatest-estate-developer.html",
     "num": 61,
     "fullTitle": "المهندس الأعظم - الفصل 61: أسباب إقامة التمثال (1)",
-    "chapterTitle": "الفصل 61: أسباب إقامة التمثال (1)",
+    "chapterTitle": "المهندس الأعظم - الفصل 61: أسباب إقامة التمثال (1)",
     "link": "https://www.novelskyworld.com/2026/09/61-1.html",
-    "date": "2026-09-24T14:39:50.421+00:00"
+    "date": "2026-09-24T14:38:00+00:00"
   },
   {
     "uid": "3_147",
@@ -1857,7 +2277,7 @@
     "fullTitle": "الفصل 147: مأزق سيد السيوف",
     "chapterTitle": "الفصل 147: مأزق سيد السيوف",
     "link": "https://www.novelskyworld.com/2026/11/147_01446329035.html",
-    "date": "2026-09-24T14:01:52.685+00:00"
+    "date": "2026-09-24T14:00:00+00:00"
   },
   {
     "uid": "1_252",
@@ -1869,223 +2289,7 @@
     "fullTitle": "الفصل 252: على شفا حفرة!",
     "chapterTitle": "الفصل 252: على شفا حفرة!",
     "link": "https://www.novelskyworld.com/2026/09/after-severing-ties-252.html",
-    "date": "2026-09-24T13:01:18.508+00:00"
-  },
-  {
-    "uid": "5_60",
-    "novelId": 5,
-    "novelTitle": "المهندس الأعظم",
-    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig9E8Vllh3mqFuvl28YHE6EUOlNHjr89Vdm5ZfPnq99-os5-6yBhjTo-eOmB8t4_PKvv0P7dDKmnQrVG-DWWTn967AMeor6yDXfp5NOiIpXuMzuA5WZwJg-fQv4LB3pJoztrembU8Y_ezji3Y-XDx_nij_AFiOAOXOy3tuZJXDNjLgbpAWQFLizkFKi1LP/s1600/26778.jpg",
-    "novelLink": "https://www.novelskyworld.com/p/the-greatest-estate-developer.html",
-    "num": 60,
-    "fullTitle": "المهندس الأعظم - الفصل 60: عقد الشيطان (5)",
-    "chapterTitle": "الفصل 60: عقد الشيطان (5)",
-    "link": "https://www.novelskyworld.com/2026/09/60-5.html",
-    "date": "2026-09-24T10:19:00+00:00"
-  },
-  {
-    "uid": "3_146",
-    "novelId": 3,
-    "novelTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا",
-    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic5Rz2wdPDDyQzAPqo8FNtkXq2z0eri9l4URgfK1nKYKmBGPutdmmMmFqX8MYd9LZYqHb4oKHYA-5oCxGcx0DmM6ch_PQJkt7Pj4h0AMMYYj4BBCVlPr2Ebeuva1i3qJYLVGKhjLfHU-rXJN0IXXh2mVkn3pL6r3tLngXd_0Es-dsdu31cs_vm3BOVED3w/s1280/1000138946.webp",
-    "novelLink": "https://www.novelskyworld.com/p/blog-page_14.html",
-    "num": 146,
-    "fullTitle": "الفصل 146: عذراً، لقد تحولت بالخطأ",
-    "chapterTitle": "الفصل 146: عذراً، لقد تحولت بالخطأ",
-    "link": "https://www.novelskyworld.com/2026/11/146_01409976324.html",
-    "date": "2026-09-24T10:00:00+00:00"
-  },
-  {
-    "uid": "1_251",
-    "novelId": 1,
-    "novelTitle": "After Severing Ties",
-    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi44S8d8HI6VSRqi3PClNXsCSwy23aHJv4Hmk3Y_HdpekCGzMEhtAnfAOrCSV-aDh3J4vfa2Sgnpe_IRrjlIkfUrIM0-9Vu-t9x1Opsz2ab4P394JnXrYax-y0Af90QY50xvyEb948xN14er5db6c6LEJM-PSi867VfU-T_EYHha-j9oCElXs5Ik0rn0HTf/s0/1000134866.webp",
-    "novelLink": "https://www.novelskyworld.com/p/severing-ties.html",
-    "num": 251,
-    "fullTitle": "الفصل 251: لا شيء ألذ من مياه النبع الجبلية",
-    "chapterTitle": "الفصل 251: لا شيء ألذ من مياه النبع الجبلية",
-    "link": "https://www.novelskyworld.com/2026/09/after-severing-ties-251.html",
-    "date": "2026-09-24T06:00:00+00:00"
-  },
-  {
-    "uid": "3_145",
-    "novelId": 3,
-    "novelTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا",
-    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic5Rz2wdPDDyQzAPqo8FNtkXq2z0eri9l4URgfK1nKYKmBGPutdmmMmFqX8MYd9LZYqHb4oKHYA-5oCxGcx0DmM6ch_PQJkt7Pj4h0AMMYYj4BBCVlPr2Ebeuva1i3qJYLVGKhjLfHU-rXJN0IXXh2mVkn3pL6r3tLngXd_0Es-dsdu31cs_vm3BOVED3w/s1280/1000138946.webp",
-    "novelLink": "https://www.novelskyworld.com/p/blog-page_14.html",
-    "num": 145,
-    "fullTitle": "الفصل 145: تحذير لاذع",
-    "chapterTitle": "الفصل 145: تحذير لاذع",
-    "link": "https://www.novelskyworld.com/2026/11/145_0977180441.html",
-    "date": "2026-09-24T06:00:00+00:00"
-  },
-  {
-    "uid": "5_59",
-    "novelId": 5,
-    "novelTitle": "المهندس الأعظم",
-    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig9E8Vllh3mqFuvl28YHE6EUOlNHjr89Vdm5ZfPnq99-os5-6yBhjTo-eOmB8t4_PKvv0P7dDKmnQrVG-DWWTn967AMeor6yDXfp5NOiIpXuMzuA5WZwJg-fQv4LB3pJoztrembU8Y_ezji3Y-XDx_nij_AFiOAOXOy3tuZJXDNjLgbpAWQFLizkFKi1LP/s1600/26778.jpg",
-    "novelLink": "https://www.novelskyworld.com/p/the-greatest-estate-developer.html",
-    "num": 59,
-    "fullTitle": "المهندس الأعظم - الفصل 59: عقد الشيطان (4)",
-    "chapterTitle": "الفصل 59: عقد الشيطان (4)",
-    "link": "https://www.novelskyworld.com/2026/09/59-4.html",
-    "date": "2026-09-24T05:55:00+00:00"
-  },
-  {
-    "uid": "5_58",
-    "novelId": 5,
-    "novelTitle": "المهندس الأعظم",
-    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig9E8Vllh3mqFuvl28YHE6EUOlNHjr89Vdm5ZfPnq99-os5-6yBhjTo-eOmB8t4_PKvv0P7dDKmnQrVG-DWWTn967AMeor6yDXfp5NOiIpXuMzuA5WZwJg-fQv4LB3pJoztrembU8Y_ezji3Y-XDx_nij_AFiOAOXOy3tuZJXDNjLgbpAWQFLizkFKi1LP/s1600/26778.jpg",
-    "novelLink": "https://www.novelskyworld.com/p/the-greatest-estate-developer.html",
-    "num": 58,
-    "fullTitle": "المهندس الأعظم - الفصل 58: عقد الشيطان (3)",
-    "chapterTitle": "الفصل 58: عقد الشيطان (3)",
-    "link": "https://www.novelskyworld.com/2026/09/58-3.html",
-    "date": "2026-09-23T18:58:00+00:00"
-  },
-  {
-    "uid": "3_144",
-    "novelId": 3,
-    "novelTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا",
-    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic5Rz2wdPDDyQzAPqo8FNtkXq2z0eri9l4URgfK1nKYKmBGPutdmmMmFqX8MYd9LZYqHb4oKHYA-5oCxGcx0DmM6ch_PQJkt7Pj4h0AMMYYj4BBCVlPr2Ebeuva1i3qJYLVGKhjLfHU-rXJN0IXXh2mVkn3pL6r3tLngXd_0Es-dsdu31cs_vm3BOVED3w/s1280/1000138946.webp",
-    "novelLink": "https://www.novelskyworld.com/p/blog-page_14.html",
-    "num": 144,
-    "fullTitle": "الفصل 144: تفقد أحوال الرعية ومشاركتهم المسرة",
-    "chapterTitle": "الفصل 144: تفقد أحوال الرعية ومشاركتهم المسرة",
-    "link": "https://www.novelskyworld.com/2026/09/144.html",
-    "date": "2026-09-23T18:00:00+00:00"
-  },
-  {
-    "uid": "5_57",
-    "novelId": 5,
-    "novelTitle": "المهندس الأعظم",
-    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig9E8Vllh3mqFuvl28YHE6EUOlNHjr89Vdm5ZfPnq99-os5-6yBhjTo-eOmB8t4_PKvv0P7dDKmnQrVG-DWWTn967AMeor6yDXfp5NOiIpXuMzuA5WZwJg-fQv4LB3pJoztrembU8Y_ezji3Y-XDx_nij_AFiOAOXOy3tuZJXDNjLgbpAWQFLizkFKi1LP/s1600/26778.jpg",
-    "novelLink": "https://www.novelskyworld.com/p/the-greatest-estate-developer.html",
-    "num": 57,
-    "fullTitle": "المهندس الأعظم - الفصل 57: عقد الشيطان (2)",
-    "chapterTitle": "الفصل 57: عقد الشيطان (2)",
-    "link": "https://www.novelskyworld.com/2026/09/57-2.html",
-    "date": "2026-09-23T14:38:00+00:00"
-  },
-  {
-    "uid": "3_143",
-    "novelId": 3,
-    "novelTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا",
-    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic5Rz2wdPDDyQzAPqo8FNtkXq2z0eri9l4URgfK1nKYKmBGPutdmmMmFqX8MYd9LZYqHb4oKHYA-5oCxGcx0DmM6ch_PQJkt7Pj4h0AMMYYj4BBCVlPr2Ebeuva1i3qJYLVGKhjLfHU-rXJN0IXXh2mVkn3pL6r3tLngXd_0Es-dsdu31cs_vm3BOVED3w/s1280/1000138946.webp",
-    "novelLink": "https://www.novelskyworld.com/p/blog-page_14.html",
-    "num": 143,
-    "fullTitle": "الفصل 143: الثعلبة البيضاء",
-    "chapterTitle": "الفصل 143: الثعلبة البيضاء",
-    "link": "https://www.novelskyworld.com/2026/09/143.html",
-    "date": "2026-09-23T14:00:00+00:00"
-  },
-  {
-    "uid": "1_250",
-    "novelId": 1,
-    "novelTitle": "After Severing Ties",
-    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi44S8d8HI6VSRqi3PClNXsCSwy23aHJv4Hmk3Y_HdpekCGzMEhtAnfAOrCSV-aDh3J4vfa2Sgnpe_IRrjlIkfUrIM0-9Vu-t9x1Opsz2ab4P394JnXrYax-y0Af90QY50xvyEb948xN14er5db6c6LEJM-PSi867VfU-T_EYHha-j9oCElXs5Ik0rn0HTf/s0/1000134866.webp",
-    "novelLink": "https://www.novelskyworld.com/p/severing-ties.html",
-    "num": 250,
-    "fullTitle": "الفصل 250: رماية الثقة",
-    "chapterTitle": "الفصل 250: رماية الثقة",
-    "link": "https://www.novelskyworld.com/2026/09/after-severing-ties-250.html",
-    "date": "2026-09-23T13:00:00+00:00"
-  },
-  {
-    "uid": "5_56",
-    "novelId": 5,
-    "novelTitle": "المهندس الأعظم",
-    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig9E8Vllh3mqFuvl28YHE6EUOlNHjr89Vdm5ZfPnq99-os5-6yBhjTo-eOmB8t4_PKvv0P7dDKmnQrVG-DWWTn967AMeor6yDXfp5NOiIpXuMzuA5WZwJg-fQv4LB3pJoztrembU8Y_ezji3Y-XDx_nij_AFiOAOXOy3tuZJXDNjLgbpAWQFLizkFKi1LP/s1600/26778.jpg",
-    "novelLink": "https://www.novelskyworld.com/p/the-greatest-estate-developer.html",
-    "num": 56,
-    "fullTitle": "الفصل 56: عقد الشيطان (1)",
-    "chapterTitle": "الفصل 56: عقد الشيطان (1)",
-    "link": "https://www.novelskyworld.com/2026/09/56-1.html",
-    "date": "2026-09-23T10:19:00+00:00"
-  },
-  {
-    "uid": "3_142",
-    "novelId": 3,
-    "novelTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا",
-    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic5Rz2wdPDDyQzAPqo8FNtkXq2z0eri9l4URgfK1nKYKmBGPutdmmMmFqX8MYd9LZYqHb4oKHYA-5oCxGcx0DmM6ch_PQJkt7Pj4h0AMMYYj4BBCVlPr2Ebeuva1i3qJYLVGKhjLfHU-rXJN0IXXh2mVkn3pL6r3tLngXd_0Es-dsdu31cs_vm3BOVED3w/s1280/1000138946.webp",
-    "novelLink": "https://www.novelskyworld.com/p/blog-page_14.html",
-    "num": 142,
-    "fullTitle": "الفصل 142: الإمبراطور البشري جيانغ البارع في داو السيف",
-    "chapterTitle": "الفصل 142: الإمبراطور البشري جيانغ البارع في داو السيف",
-    "link": "https://www.novelskyworld.com/2026/09/142.html",
-    "date": "2026-09-23T10:00:00+00:00"
-  },
-  {
-    "uid": "3_1",
-    "novelId": 3,
-    "novelTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا",
-    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic5Rz2wdPDDyQzAPqo8FNtkXq2z0eri9l4URgfK1nKYKmBGPutdmmMmFqX8MYd9LZYqHb4oKHYA-5oCxGcx0DmM6ch_PQJkt7Pj4h0AMMYYj4BBCVlPr2Ebeuva1i3qJYLVGKhjLfHU-rXJN0IXXh2mVkn3pL6r3tLngXd_0Es-dsdu31cs_vm3BOVED3w/s1280/1000138946.webp",
-    "novelLink": "https://www.novelskyworld.com/p/blog-page_14.html",
-    "num": 1,
-    "fullTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا - الفصل 1: المهمة الجديدة",
-    "chapterTitle": "الفصل 1: المهمة الجديدة",
-    "link": "https://www.novelskyworld.com/2026/11/1.html",
-    "date": "2026-09-23T06:00:00+00:00"
-  },
-  {
-    "uid": "1_249",
-    "novelId": 1,
-    "novelTitle": "After Severing Ties",
-    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi44S8d8HI6VSRqi3PClNXsCSwy23aHJv4Hmk3Y_HdpekCGzMEhtAnfAOrCSV-aDh3J4vfa2Sgnpe_IRrjlIkfUrIM0-9Vu-t9x1Opsz2ab4P394JnXrYax-y0Af90QY50xvyEb948xN14er5db6c6LEJM-PSi867VfU-T_EYHha-j9oCElXs5Ik0rn0HTf/s0/1000134866.webp",
-    "novelLink": "https://www.novelskyworld.com/p/severing-ties.html",
-    "num": 249,
-    "fullTitle": "الفصل 249: التمرد!",
-    "chapterTitle": "الفصل 249: التمرد!",
-    "link": "https://www.novelskyworld.com/2026/09/after-severing-ties-249.html",
-    "date": "2026-09-23T06:00:00+00:00"
-  },
-  {
-    "uid": "3_141",
-    "novelId": 3,
-    "novelTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا",
-    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic5Rz2wdPDDyQzAPqo8FNtkXq2z0eri9l4URgfK1nKYKmBGPutdmmMmFqX8MYd9LZYqHb4oKHYA-5oCxGcx0DmM6ch_PQJkt7Pj4h0AMMYYj4BBCVlPr2Ebeuva1i3qJYLVGKhjLfHU-rXJN0IXXh2mVkn3pL6r3tLngXd_0Es-dsdu31cs_vm3BOVED3w/s1280/1000138946.webp",
-    "novelLink": "https://www.novelskyworld.com/p/blog-page_14.html",
-    "num": 141,
-    "fullTitle": "الفصل 141: مهمة جديدة",
-    "chapterTitle": "الفصل 141: مهمة جديدة",
-    "link": "https://www.novelskyworld.com/2026/11/1.html",
-    "date": "2026-09-23T06:00:00+00:00"
-  },
-  {
-    "uid": "5_55",
-    "novelId": 5,
-    "novelTitle": "المهندس الأعظم",
-    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig9E8Vllh3mqFuvl28YHE6EUOlNHjr89Vdm5ZfPnq99-os5-6yBhjTo-eOmB8t4_PKvv0P7dDKmnQrVG-DWWTn967AMeor6yDXfp5NOiIpXuMzuA5WZwJg-fQv4LB3pJoztrembU8Y_ezji3Y-XDx_nij_AFiOAOXOy3tuZJXDNjLgbpAWQFLizkFKi1LP/s1600/26778.jpg",
-    "novelLink": "https://www.novelskyworld.com/p/the-greatest-estate-developer.html",
-    "num": 55,
-    "fullTitle": "الفصل 55: الإنجاز الأول للقارة (2)",
-    "chapterTitle": "الفصل 55: الإنجاز الأول للقارة (2)",
-    "link": "https://www.novelskyworld.com/2026/09/55-2.html",
-    "date": "2026-09-23T05:55:00+00:00"
-  },
-  {
-    "uid": "5_54",
-    "novelId": 5,
-    "novelTitle": "المهندس الأعظم",
-    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig9E8Vllh3mqFuvl28YHE6EUOlNHjr89Vdm5ZfPnq99-os5-6yBhjTo-eOmB8t4_PKvv0P7dDKmnQrVG-DWWTn967AMeor6yDXfp5NOiIpXuMzuA5WZwJg-fQv4LB3pJoztrembU8Y_ezji3Y-XDx_nij_AFiOAOXOy3tuZJXDNjLgbpAWQFLizkFKi1LP/s1600/26778.jpg",
-    "novelLink": "https://www.novelskyworld.com/p/the-greatest-estate-developer.html",
-    "num": 54,
-    "fullTitle": "الفصل 54: الإنجاز الأول من نوعه على مستوى القارة (1)",
-    "chapterTitle": "الفصل 54: الإنجاز الأول من نوعه على مستوى القارة (1)",
-    "link": "https://www.novelskyworld.com/2026/09/54-1.html",
-    "date": "2026-09-22T18:58:00+00:00"
-  },
-  {
-    "uid": "5_53",
-    "novelId": 5,
-    "novelTitle": "المهندس الأعظم",
-    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig9E8Vllh3mqFuvl28YHE6EUOlNHjr89Vdm5ZfPnq99-os5-6yBhjTo-eOmB8t4_PKvv0P7dDKmnQrVG-DWWTn967AMeor6yDXfp5NOiIpXuMzuA5WZwJg-fQv4LB3pJoztrembU8Y_ezji3Y-XDx_nij_AFiOAOXOy3tuZJXDNjLgbpAWQFLizkFKi1LP/s1600/26778.jpg",
-    "novelLink": "https://www.novelskyworld.com/p/the-greatest-estate-developer.html",
-    "num": 53,
-    "fullTitle": "المهندس الأعظم - الفصل 53: في التكاتف قوة (3)",
-    "chapterTitle": "الفصل 53: في التكاتف قوة (3)",
-    "link": "https://www.novelskyworld.com/2026/09/53-3.html",
-    "date": "2026-09-22T14:38:00+00:00"
+    "date": "2026-09-24T13:00:00+00:00"
   },
   {
     "uid": "3_140",
@@ -2095,33 +2299,9 @@
     "novelLink": "https://www.novelskyworld.com/p/blog-page_14.html",
     "num": 140,
     "fullTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا - الفصل 140: أخبار تيانجي",
-    "chapterTitle": "الفصل 140: أخبار تيانجي",
+    "chapterTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا - الفصل 140: أخبار تيانجي",
     "link": "https://www.novelskyworld.com/2026/09/140.html",
     "date": "2026-09-22T13:00:00+00:00"
-  },
-  {
-    "uid": "1_248",
-    "novelId": 1,
-    "novelTitle": "After Severing Ties",
-    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi44S8d8HI6VSRqi3PClNXsCSwy23aHJv4Hmk3Y_HdpekCGzMEhtAnfAOrCSV-aDh3J4vfa2Sgnpe_IRrjlIkfUrIM0-9Vu-t9x1Opsz2ab4P394JnXrYax-y0Af90QY50xvyEb948xN14er5db6c6LEJM-PSi867VfU-T_EYHha-j9oCElXs5Ik0rn0HTf/s0/1000134866.webp",
-    "novelLink": "https://www.novelskyworld.com/p/severing-ties.html",
-    "num": 248,
-    "fullTitle": "الفصل 248: هل تريدني؟",
-    "chapterTitle": "الفصل 248: هل تريدني؟",
-    "link": "https://www.novelskyworld.com/2026/09/after-severing-ties-248.html",
-    "date": "2026-09-22T13:00:00+00:00"
-  },
-  {
-    "uid": "5_52",
-    "novelId": 5,
-    "novelTitle": "المهندس الأعظم",
-    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig9E8Vllh3mqFuvl28YHE6EUOlNHjr89Vdm5ZfPnq99-os5-6yBhjTo-eOmB8t4_PKvv0P7dDKmnQrVG-DWWTn967AMeor6yDXfp5NOiIpXuMzuA5WZwJg-fQv4LB3pJoztrembU8Y_ezji3Y-XDx_nij_AFiOAOXOy3tuZJXDNjLgbpAWQFLizkFKi1LP/s1600/26778.jpg",
-    "novelLink": "https://www.novelskyworld.com/p/the-greatest-estate-developer.html",
-    "num": 52,
-    "fullTitle": "الفصل 52: قوة الاتحاد (2)",
-    "chapterTitle": "الفصل 52: قوة الاتحاد (2)",
-    "link": "https://www.novelskyworld.com/2026/09/52-2.html",
-    "date": "2026-09-22T10:19:00+00:00"
   },
   {
     "uid": "3_139",
@@ -2131,33 +2311,9 @@
     "novelLink": "https://www.novelskyworld.com/p/blog-page_14.html",
     "num": 139,
     "fullTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا - الفصل 139: شيوخ مشاكسون",
-    "chapterTitle": "الفصل 139: شيوخ مشاكسون",
+    "chapterTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا - الفصل 139: شيوخ مشاكسون",
     "link": "https://www.novelskyworld.com/2026/09/139.html",
     "date": "2026-09-22T06:00:00+00:00"
-  },
-  {
-    "uid": "1_247",
-    "novelId": 1,
-    "novelTitle": "After Severing Ties",
-    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi44S8d8HI6VSRqi3PClNXsCSwy23aHJv4Hmk3Y_HdpekCGzMEhtAnfAOrCSV-aDh3J4vfa2Sgnpe_IRrjlIkfUrIM0-9Vu-t9x1Opsz2ab4P394JnXrYax-y0Af90QY50xvyEb948xN14er5db6c6LEJM-PSi867VfU-T_EYHha-j9oCElXs5Ik0rn0HTf/s0/1000134866.webp",
-    "novelLink": "https://www.novelskyworld.com/p/severing-ties.html",
-    "num": 247,
-    "fullTitle": "الفصل 247: حضور يوي شان!",
-    "chapterTitle": "الفصل 247: حضور يوي شان!",
-    "link": "https://www.novelskyworld.com/2026/09/after-severing-ties-247.html",
-    "date": "2026-09-22T06:00:00+00:00"
-  },
-  {
-    "uid": "5_51",
-    "novelId": 5,
-    "novelTitle": "المهندس الأعظم",
-    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig9E8Vllh3mqFuvl28YHE6EUOlNHjr89Vdm5ZfPnq99-os5-6yBhjTo-eOmB8t4_PKvv0P7dDKmnQrVG-DWWTn967AMeor6yDXfp5NOiIpXuMzuA5WZwJg-fQv4LB3pJoztrembU8Y_ezji3Y-XDx_nij_AFiOAOXOy3tuZJXDNjLgbpAWQFLizkFKi1LP/s1600/26778.jpg",
-    "novelLink": "https://www.novelskyworld.com/p/the-greatest-estate-developer.html",
-    "num": 51,
-    "fullTitle": "الفصل 51: اجتمعوا قبل أن نبيع (1)",
-    "chapterTitle": "الفصل 51: اجتمعوا قبل أن نبيع (1)",
-    "link": "https://www.novelskyworld.com/2026/09/51-1.html",
-    "date": "2026-09-22T05:55:00+00:00"
   },
   {
     "uid": "3_138",
@@ -2167,20 +2323,8 @@
     "novelLink": "https://www.novelskyworld.com/p/blog-page_14.html",
     "num": 138,
     "fullTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا - الفصل 138: الأقاليم التسعة تخطو خطوتها الأولى نحو العالم الخارجي",
-    "chapterTitle": "الفصل 138: الأقاليم التسعة تخطو خطوتها الأولى نحو العالم الخارجي",
+    "chapterTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا - الفصل 138: الأقاليم التسعة تخطو خطوتها الأولى نحو العالم الخارجي",
     "link": "https://www.novelskyworld.com/2026/09/138.html",
-    "date": "2026-09-21T13:00:00+00:00"
-  },
-  {
-    "uid": "1_246",
-    "novelId": 1,
-    "novelTitle": "After Severing Ties",
-    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi44S8d8HI6VSRqi3PClNXsCSwy23aHJv4Hmk3Y_HdpekCGzMEhtAnfAOrCSV-aDh3J4vfa2Sgnpe_IRrjlIkfUrIM0-9Vu-t9x1Opsz2ab4P394JnXrYax-y0Af90QY50xvyEb948xN14er5db6c6LEJM-PSi867VfU-T_EYHha-j9oCElXs5Ik0rn0HTf/s0/1000134866.webp",
-    "novelLink": "https://www.novelskyworld.com/p/severing-ties.html",
-    "num": 246,
-    "fullTitle": "الفصل 246: هكذا يجب أن يكون الجندي",
-    "chapterTitle": "الفصل 246: هكذا يجب أن يكون الجندي",
-    "link": "https://www.novelskyworld.com/2026/09/after-severing-ties-246.html",
     "date": "2026-09-21T13:00:00+00:00"
   },
   {
@@ -2191,20 +2335,8 @@
     "novelLink": "https://www.novelskyworld.com/p/blog-page_14.html",
     "num": 137,
     "fullTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا - الفصل 137: الريح تحرك الراية",
-    "chapterTitle": "الفصل 137: الريح تحرك الراية",
+    "chapterTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا - الفصل 137: الريح تحرك الراية",
     "link": "https://www.novelskyworld.com/2026/09/137.html",
-    "date": "2026-09-21T06:00:00+00:00"
-  },
-  {
-    "uid": "1_245",
-    "novelId": 1,
-    "novelTitle": "After Severing Ties",
-    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi44S8d8HI6VSRqi3PClNXsCSwy23aHJv4Hmk3Y_HdpekCGzMEhtAnfAOrCSV-aDh3J4vfa2Sgnpe_IRrjlIkfUrIM0-9Vu-t9x1Opsz2ab4P394JnXrYax-y0Af90QY50xvyEb948xN14er5db6c6LEJM-PSi867VfU-T_EYHha-j9oCElXs5Ik0rn0HTf/s0/1000134866.webp",
-    "novelLink": "https://www.novelskyworld.com/p/severing-ties.html",
-    "num": 245,
-    "fullTitle": "الفصل 245: مالٌ مُسترد",
-    "chapterTitle": "الفصل 245: مالٌ مُسترد",
-    "link": "https://www.novelskyworld.com/2026/09/after-severing-ties-245.html",
     "date": "2026-09-21T06:00:00+00:00"
   },
   {
@@ -2215,20 +2347,8 @@
     "novelLink": "https://www.novelskyworld.com/p/blog-page_14.html",
     "num": 136,
     "fullTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا - الفصل 136: انجلاء الغبار",
-    "chapterTitle": "الفصل 136: انجلاء الغبار",
+    "chapterTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا - الفصل 136: انجلاء الغبار",
     "link": "https://www.novelskyworld.com/2026/09/136.html",
-    "date": "2026-09-20T13:00:00+00:00"
-  },
-  {
-    "uid": "1_244",
-    "novelId": 1,
-    "novelTitle": "After Severing Ties",
-    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi44S8d8HI6VSRqi3PClNXsCSwy23aHJv4Hmk3Y_HdpekCGzMEhtAnfAOrCSV-aDh3J4vfa2Sgnpe_IRrjlIkfUrIM0-9Vu-t9x1Opsz2ab4P394JnXrYax-y0Af90QY50xvyEb948xN14er5db6c6LEJM-PSi867VfU-T_EYHha-j9oCElXs5Ik0rn0HTf/s0/1000134866.webp",
-    "novelLink": "https://www.novelskyworld.com/p/severing-ties.html",
-    "num": 244,
-    "fullTitle": "الفصل 244: ما الفائدة من العجائز في إخماد النيران؟",
-    "chapterTitle": "الفصل 244: ما الفائدة من العجائز في إخماد النيران؟",
-    "link": "https://www.novelskyworld.com/2026/09/after-severing-ties-244.html",
     "date": "2026-09-20T13:00:00+00:00"
   },
   {
@@ -2239,164 +2359,104 @@
     "novelLink": "https://www.novelskyworld.com/p/blog-page_14.html",
     "num": 135,
     "fullTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا - الفصل 135: ملك الظلال بوذا",
-    "chapterTitle": "الفصل 135: ملك الظلال بوذا",
+    "chapterTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا - الفصل 135: ملك الظلال بوذا",
     "link": "https://www.novelskyworld.com/2026/09/135.html",
     "date": "2026-09-20T06:00:00+00:00"
   },
   {
-    "uid": "1_243",
-    "novelId": 1,
-    "novelTitle": "After Severing Ties",
-    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi44S8d8HI6VSRqi3PClNXsCSwy23aHJv4Hmk3Y_HdpekCGzMEhtAnfAOrCSV-aDh3J4vfa2Sgnpe_IRrjlIkfUrIM0-9Vu-t9x1Opsz2ab4P394JnXrYax-y0Af90QY50xvyEb948xN14er5db6c6LEJM-PSi867VfU-T_EYHha-j9oCElXs5Ik0rn0HTf/s0/1000134866.webp",
-    "novelLink": "https://www.novelskyworld.com/p/severing-ties.html",
-    "num": 243,
-    "fullTitle": "الفصل 243: تناول طعام القدر والغناء",
-    "chapterTitle": "الفصل 243: تناول طعام القدر والغناء",
-    "link": "https://www.novelskyworld.com/2026/09/after-severing-ties-243.html",
-    "date": "2026-09-20T06:00:00+00:00"
+    "uid": "3_134",
+    "novelId": 3,
+    "novelTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic5Rz2wdPDDyQzAPqo8FNtkXq2z0eri9l4URgfK1nKYKmBGPutdmmMmFqX8MYd9LZYqHb4oKHYA-5oCxGcx0DmM6ch_PQJkt7Pj4h0AMMYYj4BBCVlPr2Ebeuva1i3qJYLVGKhjLfHU-rXJN0IXXh2mVkn3pL6r3tLngXd_0Es-dsdu31cs_vm3BOVED3w/s1280/1000138946.webp",
+    "novelLink": "https://www.novelskyworld.com/p/blog-page_14.html",
+    "num": 134,
+    "fullTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا - الفصل 134: حلول اليأس",
+    "chapterTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا - الفصل 134: حلول اليأس",
+    "link": "https://www.novelskyworld.com/2026/09/134.html",
+    "date": "2026-09-19T13:00:00+00:00"
   },
   {
-    "uid": "5_50",
-    "novelId": 5,
-    "novelTitle": "المهندس الأعظم",
-    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig9E8Vllh3mqFuvl28YHE6EUOlNHjr89Vdm5ZfPnq99-os5-6yBhjTo-eOmB8t4_PKvv0P7dDKmnQrVG-DWWTn967AMeor6yDXfp5NOiIpXuMzuA5WZwJg-fQv4LB3pJoztrembU8Y_ezji3Y-XDx_nij_AFiOAOXOy3tuZJXDNjLgbpAWQFLizkFKi1LP/s1600/26778.jpg",
-    "novelLink": "https://www.novelskyworld.com/p/the-greatest-estate-developer.html",
-    "num": 50,
-    "fullTitle": "الفصل 50: حفل الافتتاح المثالي (2)",
-    "chapterTitle": "الفصل 50: حفل الافتتاح المثالي (2)",
-    "link": "https://www.novelskyworld.com/2026/09/50-2.html",
-    "date": "2026-09-20T01:04:50+00:00"
+    "uid": "3_133",
+    "novelId": 3,
+    "novelTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic5Rz2wdPDDyQzAPqo8FNtkXq2z0eri9l4URgfK1nKYKmBGPutdmmMmFqX8MYd9LZYqHb4oKHYA-5oCxGcx0DmM6ch_PQJkt7Pj4h0AMMYYj4BBCVlPr2Ebeuva1i3qJYLVGKhjLfHU-rXJN0IXXh2mVkn3pL6r3tLngXd_0Es-dsdu31cs_vm3BOVED3w/s1280/1000138946.webp",
+    "novelLink": "https://www.novelskyworld.com/p/blog-page_14.html",
+    "num": 133,
+    "fullTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا - الفصل 133: أعظم صيد في تاريخ البشرية",
+    "chapterTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا - الفصل 133: أعظم صيد في تاريخ البشرية",
+    "link": "https://www.novelskyworld.com/2026/09/133.html",
+    "date": "2026-09-19T06:00:00+00:00"
   },
   {
-    "uid": "5_49",
-    "novelId": 5,
-    "novelTitle": "المهندس الأعظم",
-    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig9E8Vllh3mqFuvl28YHE6EUOlNHjr89Vdm5ZfPnq99-os5-6yBhjTo-eOmB8t4_PKvv0P7dDKmnQrVG-DWWTn967AMeor6yDXfp5NOiIpXuMzuA5WZwJg-fQv4LB3pJoztrembU8Y_ezji3Y-XDx_nij_AFiOAOXOy3tuZJXDNjLgbpAWQFLizkFKi1LP/s1600/26778.jpg",
-    "novelLink": "https://www.novelskyworld.com/p/the-greatest-estate-developer.html",
-    "num": 49,
-    "fullTitle": "الفصل 49: حفل الافتتاح المثالي (1)",
-    "chapterTitle": "الفصل 49: حفل الافتتاح المثالي (1)",
-    "link": "https://www.novelskyworld.com/2026/09/49-1.html",
-    "date": "2026-09-20T01:04:40+00:00"
+    "uid": "3_132",
+    "novelId": 3,
+    "novelTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic5Rz2wdPDDyQzAPqo8FNtkXq2z0eri9l4URgfK1nKYKmBGPutdmmMmFqX8MYd9LZYqHb4oKHYA-5oCxGcx0DmM6ch_PQJkt7Pj4h0AMMYYj4BBCVlPr2Ebeuva1i3qJYLVGKhjLfHU-rXJN0IXXh2mVkn3pL6r3tLngXd_0Es-dsdu31cs_vm3BOVED3w/s1280/1000138946.webp",
+    "novelLink": "https://www.novelskyworld.com/p/blog-page_14.html",
+    "num": 132,
+    "fullTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا - الفصل 132: لُو ينغ أغنى رجل",
+    "chapterTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا - الفصل 132: لُو ينغ أغنى رجل",
+    "link": "https://www.novelskyworld.com/2026/09/132.html",
+    "date": "2026-09-18T13:00:00+00:00"
   },
   {
-    "uid": "5_48",
-    "novelId": 5,
-    "novelTitle": "المهندس الأعظم",
-    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig9E8Vllh3mqFuvl28YHE6EUOlNHjr89Vdm5ZfPnq99-os5-6yBhjTo-eOmB8t4_PKvv0P7dDKmnQrVG-DWWTn967AMeor6yDXfp5NOiIpXuMzuA5WZwJg-fQv4LB3pJoztrembU8Y_ezji3Y-XDx_nij_AFiOAOXOy3tuZJXDNjLgbpAWQFLizkFKi1LP/s1600/26778.jpg",
-    "novelLink": "https://www.novelskyworld.com/p/the-greatest-estate-developer.html",
-    "num": 48,
-    "fullTitle": "الفصل 48: طريقة صنع الأرض (3)",
-    "chapterTitle": "الفصل 48: طريقة صنع الأرض (3)",
-    "link": "https://www.novelskyworld.com/2026/09/48-3.html",
-    "date": "2026-09-20T01:04:30+00:00"
+    "uid": "3_131",
+    "novelId": 3,
+    "novelTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic5Rz2wdPDDyQzAPqo8FNtkXq2z0eri9l4URgfK1nKYKmBGPutdmmMmFqX8MYd9LZYqHb4oKHYA-5oCxGcx0DmM6ch_PQJkt7Pj4h0AMMYYj4BBCVlPr2Ebeuva1i3qJYLVGKhjLfHU-rXJN0IXXh2mVkn3pL6r3tLngXd_0Es-dsdu31cs_vm3BOVED3w/s1280/1000138946.webp",
+    "novelLink": "https://www.novelskyworld.com/p/blog-page_14.html",
+    "num": 131,
+    "fullTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا - الفصل 131: نمو الشقيقين",
+    "chapterTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا - الفصل 131: نمو الشقيقين",
+    "link": "https://www.novelskyworld.com/2026/09/131.html",
+    "date": "2026-09-18T06:00:00+00:00"
   },
   {
-    "uid": "5_47",
-    "novelId": 5,
-    "novelTitle": "المهندس الأعظم",
-    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig9E8Vllh3mqFuvl28YHE6EUOlNHjr89Vdm5ZfPnq99-os5-6yBhjTo-eOmB8t4_PKvv0P7dDKmnQrVG-DWWTn967AMeor6yDXfp5NOiIpXuMzuA5WZwJg-fQv4LB3pJoztrembU8Y_ezji3Y-XDx_nij_AFiOAOXOy3tuZJXDNjLgbpAWQFLizkFKi1LP/s1600/26778.jpg",
-    "novelLink": "https://www.novelskyworld.com/p/the-greatest-estate-developer.html",
-    "num": 47,
-    "fullTitle": "الفصل 47: طرق بناء الأرض (2)",
-    "chapterTitle": "الفصل 47: طرق بناء الأرض (2)",
-    "link": "https://www.novelskyworld.com/2026/09/47-2.html",
-    "date": "2026-09-20T01:04:20+00:00"
+    "uid": "3_130",
+    "novelId": 3,
+    "novelTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic5Rz2wdPDDyQzAPqo8FNtkXq2z0eri9l4URgfK1nKYKmBGPutdmmMmFqX8MYd9LZYqHb4oKHYA-5oCxGcx0DmM6ch_PQJkt7Pj4h0AMMYYj4BBCVlPr2Ebeuva1i3qJYLVGKhjLfHU-rXJN0IXXh2mVkn3pL6r3tLngXd_0Es-dsdu31cs_vm3BOVED3w/s1280/1000138946.webp",
+    "novelLink": "https://www.novelskyworld.com/p/blog-page_14.html",
+    "num": 130,
+    "fullTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا - الفصل 130: تشكيل القتل لإبادة الموتى الأحياء",
+    "chapterTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا - الفصل 130: تشكيل القتل لإبادة الموتى الأحياء",
+    "link": "https://www.novelskyworld.com/2026/09/130.html",
+    "date": "2026-09-17T13:00:00+00:00"
   },
   {
-    "uid": "5_46",
-    "novelId": 5,
-    "novelTitle": "المهندس الأعظم",
-    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig9E8Vllh3mqFuvl28YHE6EUOlNHjr89Vdm5ZfPnq99-os5-6yBhjTo-eOmB8t4_PKvv0P7dDKmnQrVG-DWWTn967AMeor6yDXfp5NOiIpXuMzuA5WZwJg-fQv4LB3pJoztrembU8Y_ezji3Y-XDx_nij_AFiOAOXOy3tuZJXDNjLgbpAWQFLizkFKi1LP/s1600/26778.jpg",
-    "novelLink": "https://www.novelskyworld.com/p/the-greatest-estate-developer.html",
-    "num": 46,
-    "fullTitle": "الفصل 46: كيف تُصنع الأرض (1)",
-    "chapterTitle": "الفصل 46: كيف تُصنع الأرض (1)",
-    "link": "https://www.novelskyworld.com/2026/09/46-1.html",
-    "date": "2026-09-20T01:04:10+00:00"
+    "uid": "3_129",
+    "novelId": 3,
+    "novelTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic5Rz2wdPDDyQzAPqo8FNtkXq2z0eri9l4URgfK1nKYKmBGPutdmmMmFqX8MYd9LZYqHb4oKHYA-5oCxGcx0DmM6ch_PQJkt7Pj4h0AMMYYj4BBCVlPr2Ebeuva1i3qJYLVGKhjLfHU-rXJN0IXXh2mVkn3pL6r3tLngXd_0Es-dsdu31cs_vm3BOVED3w/s1280/1000138946.webp",
+    "novelLink": "https://www.novelskyworld.com/p/blog-page_14.html",
+    "num": 129,
+    "fullTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا - الفصل 129: طوفان الجثث",
+    "chapterTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا - الفصل 129: طوفان الجثث",
+    "link": "https://www.novelskyworld.com/2026/09/129_01625356750.html",
+    "date": "2026-09-17T06:00:00+00:00"
   },
   {
-    "uid": "5_45",
-    "novelId": 5,
-    "novelTitle": "المهندس الأعظم",
-    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig9E8Vllh3mqFuvl28YHE6EUOlNHjr89Vdm5ZfPnq99-os5-6yBhjTo-eOmB8t4_PKvv0P7dDKmnQrVG-DWWTn967AMeor6yDXfp5NOiIpXuMzuA5WZwJg-fQv4LB3pJoztrembU8Y_ezji3Y-XDx_nij_AFiOAOXOy3tuZJXDNjLgbpAWQFLizkFKi1LP/s1600/26778.jpg",
-    "novelLink": "https://www.novelskyworld.com/p/the-greatest-estate-developer.html",
-    "num": 45,
-    "fullTitle": "الفصل 45: السحب العشوائي الثالث (الجزء الثاني)",
-    "chapterTitle": "الفصل 45: السحب العشوائي الثالث (الجزء الثاني)",
-    "link": "https://www.novelskyworld.com/2026/09/45.html",
-    "date": "2026-09-20T01:04:00+00:00"
+    "uid": "3_128",
+    "novelId": 3,
+    "novelTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic5Rz2wdPDDyQzAPqo8FNtkXq2z0eri9l4URgfK1nKYKmBGPutdmmMmFqX8MYd9LZYqHb4oKHYA-5oCxGcx0DmM6ch_PQJkt7Pj4h0AMMYYj4BBCVlPr2Ebeuva1i3qJYLVGKhjLfHU-rXJN0IXXh2mVkn3pL6r3tLngXd_0Es-dsdu31cs_vm3BOVED3w/s1280/1000138946.webp",
+    "novelLink": "https://www.novelskyworld.com/p/blog-page_14.html",
+    "num": 128,
+    "fullTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا - الفصل 128: ظهور أسلاف عائلة لُو",
+    "chapterTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا - الفصل 128: ظهور أسلاف عائلة لُو",
+    "link": "https://www.novelskyworld.com/2026/09/128.html",
+    "date": "2026-09-16T13:00:00+00:00"
   },
   {
-    "uid": "5_44",
-    "novelId": 5,
-    "novelTitle": "المهندس الأعظم",
-    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig9E8Vllh3mqFuvl28YHE6EUOlNHjr89Vdm5ZfPnq99-os5-6yBhjTo-eOmB8t4_PKvv0P7dDKmnQrVG-DWWTn967AMeor6yDXfp5NOiIpXuMzuA5WZwJg-fQv4LB3pJoztrembU8Y_ezji3Y-XDx_nij_AFiOAOXOy3tuZJXDNjLgbpAWQFLizkFKi1LP/s1600/26778.jpg",
-    "novelLink": "https://www.novelskyworld.com/p/the-greatest-estate-developer.html",
-    "num": 44,
-    "fullTitle": "الفصل 44: السحب العشوائي الثالث (1)",
-    "chapterTitle": "الفصل 44: السحب العشوائي الثالث (1)",
-    "link": "https://www.novelskyworld.com/2026/09/44-1.html",
-    "date": "2026-09-20T01:03:50+00:00"
-  },
-  {
-    "uid": "5_43",
-    "novelId": 5,
-    "novelTitle": "المهندس الأعظم",
-    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig9E8Vllh3mqFuvl28YHE6EUOlNHjr89Vdm5ZfPnq99-os5-6yBhjTo-eOmB8t4_PKvv0P7dDKmnQrVG-DWWTn967AMeor6yDXfp5NOiIpXuMzuA5WZwJg-fQv4LB3pJoztrembU8Y_ezji3Y-XDx_nij_AFiOAOXOy3tuZJXDNjLgbpAWQFLizkFKi1LP/s1600/26778.jpg",
-    "novelLink": "https://www.novelskyworld.com/p/the-greatest-estate-developer.html",
-    "num": 43,
-    "fullTitle": "الفصل 43: طريقة حل أزمة الغذاء (2)",
-    "chapterTitle": "الفصل 43: طريقة حل أزمة الغذاء (2)",
-    "link": "https://www.novelskyworld.com/2026/09/43-2.html",
-    "date": "2026-09-20T01:03:40+00:00"
-  },
-  {
-    "uid": "5_42",
-    "novelId": 5,
-    "novelTitle": "المهندس الأعظم",
-    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig9E8Vllh3mqFuvl28YHE6EUOlNHjr89Vdm5ZfPnq99-os5-6yBhjTo-eOmB8t4_PKvv0P7dDKmnQrVG-DWWTn967AMeor6yDXfp5NOiIpXuMzuA5WZwJg-fQv4LB3pJoztrembU8Y_ezji3Y-XDx_nij_AFiOAOXOy3tuZJXDNjLgbpAWQFLizkFKi1LP/s1600/26778.jpg",
-    "novelLink": "https://www.novelskyworld.com/p/the-greatest-estate-developer.html",
-    "num": 42,
-    "fullTitle": "الفصل 42: طريقة حل أزمة الغذاء (1)",
-    "chapterTitle": "الفصل 42: طريقة حل أزمة الغذاء (1)",
-    "link": "https://www.novelskyworld.com/2026/09/42-1.html",
-    "date": "2026-09-20T01:03:30+00:00"
-  },
-  {
-    "uid": "5_41",
-    "novelId": 5,
-    "novelTitle": "المهندس الأعظم",
-    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig9E8Vllh3mqFuvl28YHE6EUOlNHjr89Vdm5ZfPnq99-os5-6yBhjTo-eOmB8t4_PKvv0P7dDKmnQrVG-DWWTn967AMeor6yDXfp5NOiIpXuMzuA5WZwJg-fQv4LB3pJoztrembU8Y_ezji3Y-XDx_nij_AFiOAOXOy3tuZJXDNjLgbpAWQFLizkFKi1LP/s1600/26778.jpg",
-    "novelLink": "https://www.novelskyworld.com/p/the-greatest-estate-developer.html",
-    "num": 41,
-    "fullTitle": "الفصل 41: صديق قبيلة الأورك (3)",
-    "chapterTitle": "الفصل 41: صديق قبيلة الأورك (3)",
-    "link": "https://www.novelskyworld.com/2026/09/41-3.html",
-    "date": "2026-09-20T01:03:20+00:00"
-  },
-  {
-    "uid": "5_40",
-    "novelId": 5,
-    "novelTitle": "المهندس الأعظم",
-    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig9E8Vllh3mqFuvl28YHE6EUOlNHjr89Vdm5ZfPnq99-os5-6yBhjTo-eOmB8t4_PKvv0P7dDKmnQrVG-DWWTn967AMeor6yDXfp5NOiIpXuMzuA5WZwJg-fQv4LB3pJoztrembU8Y_ezji3Y-XDx_nij_AFiOAOXOy3tuZJXDNjLgbpAWQFLizkFKi1LP/s1600/26778.jpg",
-    "novelLink": "https://www.novelskyworld.com/p/the-greatest-estate-developer.html",
-    "num": 40,
-    "fullTitle": "الفصل 40: صديق قبيلة الأورك (2)",
-    "chapterTitle": "الفصل 40: صديق قبيلة الأورك (2)",
-    "link": "https://www.novelskyworld.com/2026/09/40-2.html",
-    "date": "2026-09-20T01:03:10+00:00"
-  },
-  {
-    "uid": "5_39",
-    "novelId": 5,
-    "novelTitle": "المهندس الأعظم",
-    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig9E8Vllh3mqFuvl28YHE6EUOlNHjr89Vdm5ZfPnq99-os5-6yBhjTo-eOmB8t4_PKvv0P7dDKmnQrVG-DWWTn967AMeor6yDXfp5NOiIpXuMzuA5WZwJg-fQv4LB3pJoztrembU8Y_ezji3Y-XDx_nij_AFiOAOXOy3tuZJXDNjLgbpAWQFLizkFKi1LP/s1600/26778.jpg",
-    "novelLink": "https://www.novelskyworld.com/p/the-greatest-estate-developer.html",
-    "num": 39,
-    "fullTitle": "الفصل 39: صديق قبيلة الأورك (1)",
-    "chapterTitle": "الفصل 39: صديق قبيلة الأورك (1)",
-    "link": "https://www.novelskyworld.com/2026/09/39-1.html",
-    "date": "2026-09-20T01:03:00+00:00"
+    "uid": "3_127",
+    "novelId": 3,
+    "novelTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic5Rz2wdPDDyQzAPqo8FNtkXq2z0eri9l4URgfK1nKYKmBGPutdmmMmFqX8MYd9LZYqHb4oKHYA-5oCxGcx0DmM6ch_PQJkt7Pj4h0AMMYYj4BBCVlPr2Ebeuva1i3qJYLVGKhjLfHU-rXJN0IXXh2mVkn3pL6r3tLngXd_0Es-dsdu31cs_vm3BOVED3w/s1280/1000138946.webp",
+    "novelLink": "https://www.novelskyworld.com/p/blog-page_14.html",
+    "num": 127,
+    "fullTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا - الفصل 127: تغير العقليات",
+    "chapterTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا - الفصل 127: تغير العقليات",
+    "link": "https://www.novelskyworld.com/2026/09/127.html",
+    "date": "2026-09-16T06:00:00+00:00"
   }
 ]
