@@ -1,0 +1,782 @@
+[
+  {
+    "num": 1,
+    "title": "الفصل 1: فرونديير دي روش",
+    "link": "https://www.novelskyworld.com/2026/10/1.html",
+    "date": "2026-10-08T06:00:00+00:00"
+  },
+  {
+    "num": 2,
+    "title": "الفصل 2: عبقرية الآلهة الخمسة",
+    "link": "https://www.novelskyworld.com/2026/10/2.html",
+    "date": "2026-10-08T06:01:00+00:00"
+  },
+  {
+    "num": 3,
+    "title": "الفصل 3",
+    "link": "https://www.novelskyworld.com/2026/10/3.html",
+    "date": "2026-10-08T06:02:00+00:00"
+  },
+  {
+    "num": 4,
+    "title": "الفصل 4",
+    "link": "https://www.novelskyworld.com/2026/10/4.html",
+    "date": "2026-10-08T06:03:00+00:00"
+  },
+  {
+    "num": 5,
+    "title": "الفصل 5",
+    "link": "https://www.novelskyworld.com/2026/10/5.html",
+    "date": "2026-10-08T06:04:00+00:00"
+  },
+  {
+    "num": 6,
+    "title": "الفصل 6",
+    "link": "https://www.novelskyworld.com/2026/10/6.html",
+    "date": "2026-10-08T07:00:00+00:00"
+  },
+  {
+    "num": 7,
+    "title": "الفصل 7",
+    "link": "https://www.novelskyworld.com/2026/10/7.html",
+    "date": "2026-10-08T07:01:00+00:00"
+  },
+  {
+    "num": 8,
+    "title": "الفصل 8: فرونديير وأستر (1)",
+    "link": "https://www.novelskyworld.com/2026/10/8-1.html",
+    "date": "2026-10-08T07:02:00+00:00"
+  },
+  {
+    "num": 9,
+    "title": "الفصل 9",
+    "link": "https://www.novelskyworld.com/2026/10/9.html",
+    "date": "2026-10-08T07:03:00+00:00"
+  },
+  {
+    "num": 10,
+    "title": "الفصل 10",
+    "link": "https://www.novelskyworld.com/2026/10/10.html",
+    "date": "2026-10-08T07:04:00+00:00"
+  },
+  {
+    "num": 11,
+    "title": "الفصل 11",
+    "link": "https://www.novelskyworld.com/2026/10/11.html",
+    "date": "2026-10-08T08:00:00+00:00"
+  },
+  {
+    "num": 12,
+    "title": "الفصل 12",
+    "link": "https://www.novelskyworld.com/2026/10/12.html",
+    "date": "2026-10-08T08:01:00+00:00"
+  },
+  {
+    "num": 13,
+    "title": "الفصل 13",
+    "link": "https://www.novelskyworld.com/2026/10/13.html",
+    "date": "2026-10-08T08:02:00+00:00"
+  },
+  {
+    "num": 14,
+    "title": "الفصل 14",
+    "link": "https://www.novelskyworld.com/2026/10/14.html",
+    "date": "2026-10-08T08:03:00+00:00"
+  },
+  {
+    "num": 15,
+    "title": "الفصل 15",
+    "link": "https://www.novelskyworld.com/2026/10/15.html",
+    "date": "2026-10-08T08:04:00+00:00"
+  },
+  {
+    "num": 16,
+    "title": "الفصل 16: المتحف واللوحة المزيّفة",
+    "link": "https://www.novelskyworld.com/2026/10/16.html",
+    "date": "2026-10-08T09:00:00+00:00"
+  },
+  {
+    "num": 17,
+    "title": "الفصل 17",
+    "link": "https://www.novelskyworld.com/2026/10/17.html",
+    "date": "2026-10-08T09:01:00+00:00"
+  },
+  {
+    "num": 18,
+    "title": "الفصل 18",
+    "link": "https://www.novelskyworld.com/2026/10/18.html",
+    "date": "2026-10-08T09:02:00+00:00"
+  },
+  {
+    "num": 19,
+    "title": "الفصل 19",
+    "link": "https://www.novelskyworld.com/2026/10/19.html",
+    "date": "2026-10-08T09:03:00+00:00"
+  },
+  {
+    "num": 20,
+    "title": "الفصل 20",
+    "link": "https://www.novelskyworld.com/2026/10/20.html",
+    "date": "2026-10-08T09:04:00+00:00"
+  },
+  {
+    "num": 21,
+    "title": "الفصل 21",
+    "link": "https://www.novelskyworld.com/2026/10/21.html",
+    "date": "2026-10-09T08:00:00+00:00"
+  },
+  {
+    "num": 22,
+    "title": "الفصل 22",
+    "link": "https://www.novelskyworld.com/2026/10/22.html",
+    "date": "2026-10-09T17:00:00+00:00"
+  },
+  {
+    "num": 23,
+    "title": "الفصل 23",
+    "link": "https://www.novelskyworld.com/2026/10/23.html",
+    "date": "2026-10-10T08:00:00+00:00"
+  },
+  {
+    "num": 24,
+    "title": "الفصل 24",
+    "link": "https://www.novelskyworld.com/2026/10/24.html",
+    "date": "2026-10-10T17:00:00+00:00"
+  },
+  {
+    "num": 25,
+    "title": "الفصل 25",
+    "link": "https://www.novelskyworld.com/2026/10/25.html",
+    "date": "2026-10-11T08:00:00+00:00"
+  },
+  {
+    "num": 26,
+    "title": "الفصل 26",
+    "link": "https://www.novelskyworld.com/2026/10/26.html",
+    "date": "2026-10-11T17:00:00+00:00"
+  },
+  {
+    "num": 27,
+    "title": "الفصل 27",
+    "link": "https://www.novelskyworld.com/2026/10/27.html",
+    "date": "2026-10-12T08:00:00+00:00"
+  },
+  {
+    "num": 28,
+    "title": "الفصل 28",
+    "link": "https://www.novelskyworld.com/2026/10/28.html",
+    "date": "2026-10-12T17:00:00+00:00"
+  },
+  {
+    "num": 29,
+    "title": "الفصل 29: حرم الحقيقة",
+    "link": "https://www.novelskyworld.com/2026/10/29.html",
+    "date": "2026-10-13T08:00:00+00:00"
+  },
+  {
+    "num": 30,
+    "title": "الفصل 30",
+    "link": "https://www.novelskyworld.com/2026/10/30.html",
+    "date": "2026-10-13T17:00:00+00:00"
+  },
+  {
+    "num": 31,
+    "title": "الفصل 31",
+    "link": "https://www.novelskyworld.com/2026/10/31.html",
+    "date": "2026-10-14T08:00:00+00:00"
+  },
+  {
+    "num": 32,
+    "title": "الفصل 32",
+    "link": "https://www.novelskyworld.com/2026/10/32.html",
+    "date": "2026-10-14T17:00:00+00:00"
+  },
+  {
+    "num": 33,
+    "title": "الفصل 33",
+    "link": "https://www.novelskyworld.com/2026/10/33.html",
+    "date": "2026-10-15T08:00:00+00:00"
+  },
+  {
+    "num": 34,
+    "title": "الفصل 34",
+    "link": "https://www.novelskyworld.com/2026/10/34.html",
+    "date": "2026-10-15T17:00:00+00:00"
+  },
+  {
+    "num": 35,
+    "title": "الفصل 35",
+    "link": "https://www.novelskyworld.com/2026/10/35.html",
+    "date": "2026-10-16T08:00:00+00:00"
+  },
+  {
+    "num": 36,
+    "title": "الفصل 36",
+    "link": "https://www.novelskyworld.com/2026/10/36.html",
+    "date": "2026-10-16T17:00:00+00:00"
+  },
+  {
+    "num": 37,
+    "title": "الفصل 37",
+    "link": "https://www.novelskyworld.com/2026/10/37.html",
+    "date": "2026-10-17T08:00:00+00:00"
+  },
+  {
+    "num": 38,
+    "title": "الفصل 38",
+    "link": "https://www.novelskyworld.com/2026/10/38.html",
+    "date": "2026-10-17T17:00:00+00:00"
+  },
+  {
+    "num": 39,
+    "title": "الفصل 39",
+    "link": "https://www.novelskyworld.com/2026/10/39.html",
+    "date": "2026-10-18T08:00:00+00:00"
+  },
+  {
+    "num": 40,
+    "title": "الفصل 40",
+    "link": "https://www.novelskyworld.com/2026/10/40.html",
+    "date": "2026-10-18T17:00:00+00:00"
+  },
+  {
+    "num": 41,
+    "title": "الفصل 41",
+    "link": "https://www.novelskyworld.com/2026/10/41.html",
+    "date": "2026-10-19T08:00:00+00:00"
+  },
+  {
+    "num": 42,
+    "title": "الفصل 42",
+    "link": "https://www.novelskyworld.com/2026/10/42.html",
+    "date": "2026-10-19T17:00:00+00:00"
+  },
+  {
+    "num": 43,
+    "title": "الفصل 43",
+    "link": "https://www.novelskyworld.com/2026/10/43.html",
+    "date": "2026-10-20T08:00:00+00:00"
+  },
+  {
+    "num": 44,
+    "title": "الفصل 44",
+    "link": "https://www.novelskyworld.com/2026/10/44.html",
+    "date": "2026-10-20T17:00:00+00:00"
+  },
+  {
+    "num": 45,
+    "title": "الفصل 45",
+    "link": "https://www.novelskyworld.com/2026/10/45.html",
+    "date": "2026-10-21T08:00:00+00:00"
+  },
+  {
+    "num": 46,
+    "title": "الفصل 46",
+    "link": "https://www.novelskyworld.com/2026/10/46.html",
+    "date": "2026-10-21T17:00:00+00:00"
+  },
+  {
+    "num": 47,
+    "title": "الفصل 47",
+    "link": "https://www.novelskyworld.com/2026/10/47.html",
+    "date": "2026-10-22T08:00:00+00:00"
+  },
+  {
+    "num": 48,
+    "title": "الفصل 48",
+    "link": "https://www.novelskyworld.com/2026/10/48.html",
+    "date": "2026-10-22T17:00:00+00:00"
+  },
+  {
+    "num": 49,
+    "title": "الفصل 49",
+    "link": "https://www.novelskyworld.com/2026/10/49.html",
+    "date": "2026-10-23T08:00:00+00:00"
+  },
+  {
+    "num": 50,
+    "title": "الفصل 50",
+    "link": "https://www.novelskyworld.com/2026/10/50.html",
+    "date": "2026-10-23T17:00:00+00:00"
+  },
+  {
+    "num": 51,
+    "title": "الفصل 51",
+    "link": "https://www.novelskyworld.com/2026/10/51.html",
+    "date": "2026-10-24T08:00:00+00:00"
+  },
+  {
+    "num": 52,
+    "title": "الفصل 52",
+    "link": "https://www.novelskyworld.com/2026/10/52.html",
+    "date": "2026-10-24T17:00:00+00:00"
+  },
+  {
+    "num": 53,
+    "title": "الفصل 53",
+    "link": "https://www.novelskyworld.com/2026/10/53.html",
+    "date": "2026-10-25T08:00:00+00:00"
+  },
+  {
+    "num": 54,
+    "title": "الفصل 54",
+    "link": "https://www.novelskyworld.com/2026/10/54.html",
+    "date": "2026-10-25T17:00:00+00:00"
+  },
+  {
+    "num": 55,
+    "title": "الفصل 55",
+    "link": "https://www.novelskyworld.com/2026/10/55.html",
+    "date": "2026-10-26T08:00:00+00:00"
+  },
+  {
+    "num": 56,
+    "title": "الفصل 56",
+    "link": "https://www.novelskyworld.com/2026/10/56.html",
+    "date": "2026-10-26T17:00:00+00:00"
+  },
+  {
+    "num": 57,
+    "title": "الفصل 57",
+    "link": "https://www.novelskyworld.com/2026/10/57.html",
+    "date": "2026-10-27T08:00:00+00:00"
+  },
+  {
+    "num": 58,
+    "title": "الفصل 58",
+    "link": "https://www.novelskyworld.com/2026/10/58.html",
+    "date": "2026-10-27T17:00:00+00:00"
+  },
+  {
+    "num": 59,
+    "title": "الفصل 59",
+    "link": "https://www.novelskyworld.com/2026/10/59.html",
+    "date": "2026-10-28T08:00:00+00:00"
+  },
+  {
+    "num": 60,
+    "title": "الفصل 60",
+    "link": "https://www.novelskyworld.com/2026/10/60.html",
+    "date": "2026-10-28T17:00:00+00:00"
+  },
+  {
+    "num": 61,
+    "title": "الفصل 61",
+    "link": "https://www.novelskyworld.com/2026/10/61.html",
+    "date": "2026-10-29T08:00:00+00:00"
+  },
+  {
+    "num": 62,
+    "title": "الفصل 62",
+    "link": "https://www.novelskyworld.com/2026/10/62.html",
+    "date": "2026-10-29T17:00:00+00:00"
+  },
+  {
+    "num": 63,
+    "title": "الفصل 63",
+    "link": "https://www.novelskyworld.com/2026/10/63.html",
+    "date": "2026-10-30T08:00:00+00:00"
+  },
+  {
+    "num": 64,
+    "title": "الفصل 64",
+    "link": "https://www.novelskyworld.com/2026/10/64.html",
+    "date": "2026-10-30T17:00:00+00:00"
+  },
+  {
+    "num": 65,
+    "title": "الفصل 65",
+    "link": "https://www.novelskyworld.com/2026/10/65.html",
+    "date": "2026-10-31T08:00:00+00:00"
+  },
+  {
+    "num": 66,
+    "title": "الفصل 66: وميض الرون",
+    "link": "https://www.novelskyworld.com/2026/10/66.html",
+    "date": "2026-10-31T17:00:00+00:00"
+  },
+  {
+    "num": 67,
+    "title": "الفصل 67: سهم القدر الحتمي",
+    "link": "https://www.novelskyworld.com/2026/11/67.html",
+    "date": "2026-11-01T08:00:00+00:00"
+  },
+  {
+    "num": 68,
+    "title": "الفصل 68: نضوب المانا والتعافي الغامض",
+    "link": "https://www.novelskyworld.com/2026/11/68.html",
+    "date": "2026-11-01T17:00:00+00:00"
+  },
+  {
+    "num": 69,
+    "title": "الفصل 69: سر المائة مرة",
+    "link": "https://www.novelskyworld.com/2026/11/69.html",
+    "date": "2026-11-02T08:00:00+00:00"
+  },
+  {
+    "num": 70,
+    "title": "الفصل 70",
+    "link": "https://www.novelskyworld.com/2026/11/70.html",
+    "date": "2026-11-02T17:00:00+00:00"
+  },
+  {
+    "num": 71,
+    "title": "الفصل 71: رسائل غامضة",
+    "link": "https://www.novelskyworld.com/2026/11/71.html",
+    "date": "2026-11-03T08:00:00+00:00"
+  },
+  {
+    "num": 72,
+    "title": "الفصل 72: الأميرة الجليدية والامتحانات الوشيكة",
+    "link": "https://www.novelskyworld.com/2026/11/72.html",
+    "date": "2026-11-03T17:00:00+00:00"
+  },
+  {
+    "num": 73,
+    "title": "الفصل 73: الطالبة الجديدة والأميرة الثالثة",
+    "link": "https://www.novelskyworld.com/2026/11/73.html",
+    "date": "2026-11-04T08:00:00+00:00"
+  },
+  {
+    "num": 74,
+    "title": "الفصل 74: رفيقة غير متوقعة",
+    "link": "https://www.novelskyworld.com/2026/11/74.html",
+    "date": "2026-11-04T17:00:00+00:00"
+  },
+  {
+    "num": 75,
+    "title": "الفصل 75: تحذير إلهي ونظرات باردة",
+    "link": "https://www.novelskyworld.com/2026/11/75.html",
+    "date": "2026-11-05T08:00:00+00:00"
+  },
+  {
+    "num": 76,
+    "title": "الفصل 76: الموهبة الحقيقية",
+    "link": "https://www.novelskyworld.com/2026/11/76.html",
+    "date": "2026-11-05T17:00:00+00:00"
+  },
+  {
+    "num": 77,
+    "title": "الفصل 77: دروس خصوصية غير متوقعة",
+    "link": "https://www.novelskyworld.com/2026/11/77.html",
+    "date": "2026-11-06T08:00:00+00:00"
+  },
+  {
+    "num": 78,
+    "title": "الفصل 78: زوار غير متوقعين",
+    "link": "https://www.novelskyworld.com/2026/11/78.html",
+    "date": "2026-11-06T17:00:00+00:00"
+  },
+  {
+    "num": 79,
+    "title": "الفصل 79: الإمبراطورة والصفقة",
+    "link": "https://www.novelskyworld.com/2026/11/79.html",
+    "date": "2026-11-07T08:00:00+00:00"
+  },
+  {
+    "num": 80,
+    "title": "الفصل 80: ميولنير",
+    "link": "https://www.novelskyworld.com/2026/11/80.html",
+    "date": "2026-11-07T17:00:00+00:00"
+  },
+  {
+    "num": 81,
+    "title": "الفصل 81: بصيرة المستقبل",
+    "link": "https://www.novelskyworld.com/2026/11/81.html",
+    "date": "2026-11-08T08:00:00+00:00"
+  },
+  {
+    "num": 82,
+    "title": "الفصل 82: البصيرة الاستباقية وقلب التنين",
+    "link": "https://www.novelskyworld.com/2026/11/82.html",
+    "date": "2026-11-08T17:00:00+00:00"
+  },
+  {
+    "num": 83,
+    "title": "الفصل 83: الاختبار العملي",
+    "link": "https://www.novelskyworld.com/2026/11/83.html",
+    "date": "2026-11-09T08:00:00+00:00"
+  },
+  {
+    "num": 84,
+    "title": "الفصل 84: قواعد البقاء في الميدان",
+    "link": "https://www.novelskyworld.com/2026/11/84.html",
+    "date": "2026-11-09T17:00:00+00:00"
+  },
+  {
+    "num": 85,
+    "title": "الفصل 85: صيد الموارد وسحر التمطي الكسول",
+    "link": "https://www.novelskyworld.com/2026/11/85.html",
+    "date": "2026-11-10T08:00:00+00:00"
+  },
+  {
+    "num": 86,
+    "title": "الفصل 86: الشره للفوضى، رينزو",
+    "link": "https://www.novelskyworld.com/2026/11/86.html",
+    "date": "2026-11-10T17:00:00+00:00"
+  },
+  {
+    "num": 87,
+    "title": "الفصل 87: رينزو",
+    "link": "https://www.novelskyworld.com/2026/11/87.html",
+    "date": "2026-11-11T08:00:00+00:00"
+  },
+  {
+    "num": 88,
+    "title": "الفصل 88: الصمود الأخير",
+    "link": "https://www.novelskyworld.com/2026/11/88.html",
+    "date": "2026-11-11T17:00:00+00:00"
+  },
+  {
+    "num": 89,
+    "title": "الفصل 89: قرار مصيري",
+    "link": "https://www.novelskyworld.com/2026/11/89.html",
+    "date": "2026-11-12T08:00:00+00:00"
+  },
+  {
+    "num": 90,
+    "title": "الفصل 90: اعتراف ميولنير",
+    "link": "https://www.novelskyworld.com/2026/11/90.html",
+    "date": "2026-11-12T17:00:00+00:00"
+  },
+  {
+    "num": 91,
+    "title": "الفصل 91",
+    "link": "https://www.novelskyworld.com/2026/11/91.html",
+    "date": "2026-11-13T08:00:00+00:00"
+  },
+  {
+    "num": 92,
+    "title": "الفصل 92: محاولة الاستعادة",
+    "link": "https://www.novelskyworld.com/2026/11/92.html",
+    "date": "2026-11-13T17:00:00+00:00"
+  },
+  {
+    "num": 93,
+    "title": "الفصل 93: قوة الاستعادة",
+    "link": "https://www.novelskyworld.com/2026/11/93.html",
+    "date": "2026-11-14T08:00:00+00:00"
+  },
+  {
+    "num": 94,
+    "title": "الفصل 94: زائرة غير متوقعة",
+    "link": "https://www.novelskyworld.com/2026/11/94.html",
+    "date": "2026-11-14T17:00:00+00:00"
+  },
+  {
+    "num": 95,
+    "title": "الفصل 95: حقيقة الفارس الملكي",
+    "link": "https://www.novelskyworld.com/2026/11/95.html",
+    "date": "2026-11-15T08:00:00+00:00"
+  },
+  {
+    "num": 96,
+    "title": "الفصل 96: الإمبراطورة والمأجور",
+    "link": "https://www.novelskyworld.com/2026/11/96.html",
+    "date": "2026-11-15T17:00:00+00:00"
+  },
+  {
+    "num": 97,
+    "title": "الفصل 97: الإمبراطورية ستنقلب",
+    "link": "https://www.novelskyworld.com/2026/11/97.html",
+    "date": "2026-11-16T08:00:00+00:00"
+  },
+  {
+    "num": 98,
+    "title": "الفصل 98: جولة التسوق الملكية",
+    "link": "https://www.novelskyworld.com/2026/11/98.html",
+    "date": "2026-11-16T17:00:00+00:00"
+  },
+  {
+    "num": 99,
+    "title": "الفصل 99: عرض الإمبراطورة وموقف فرونديير",
+    "link": "https://www.novelskyworld.com/2026/11/99.html",
+    "date": "2026-11-17T08:00:00+00:00"
+  },
+  {
+    "num": 100,
+    "title": "الفصل 100: خيوط المؤامرة الخفية",
+    "link": "https://www.novelskyworld.com/2026/11/100.html",
+    "date": "2026-11-17T17:00:00+00:00"
+  },
+  {
+    "num": 101,
+    "title": "الفصل 101: شكوك وتحذيرات",
+    "link": "https://www.novelskyworld.com/2026/11/101.html",
+    "date": "2026-11-18T08:00:00+00:00"
+  },
+  {
+    "num": 102,
+    "title": "الفصل 102: تعديل السلاح الأسطوري",
+    "link": "https://www.novelskyworld.com/2026/11/102.html",
+    "date": "2026-11-18T17:00:00+00:00"
+  },
+  {
+    "num": 103,
+    "title": "الفصل 103: رقم قياسي جديد",
+    "link": "https://www.novelskyworld.com/2026/11/103.html",
+    "date": "2026-11-19T08:00:00+00:00"
+  },
+  {
+    "num": 104,
+    "title": "الفصل 104: الرقم القياسي المستحيل",
+    "link": "https://www.novelskyworld.com/2026/11/104.html",
+    "date": "2026-11-19T17:00:00+00:00"
+  },
+  {
+    "num": 105,
+    "title": "الفصل 105: الطعم والجرذ",
+    "link": "https://www.novelskyworld.com/2026/11/105.html",
+    "date": "2026-11-20T08:00:00+00:00"
+  },
+  {
+    "num": 106,
+    "title": "الفصل 106: مهمة مفاجئة",
+    "link": "https://www.novelskyworld.com/2026/11/106.html",
+    "date": "2026-11-20T17:00:00+00:00"
+  },
+  {
+    "num": 107,
+    "title": "الفصل 107: نجاح المهمة",
+    "link": "https://www.novelskyworld.com/2026/11/107.html",
+    "date": "2026-11-21T08:00:00+00:00"
+  },
+  {
+    "num": 108,
+    "title": "الفصل 108: هوية الخائن",
+    "link": "https://www.novelskyworld.com/2026/11/108.html",
+    "date": "2026-11-21T17:00:00+00:00"
+  },
+  {
+    "num": 109,
+    "title": "الفصل 109: الغزو المفاجئ",
+    "link": "https://www.novelskyworld.com/2026/11/109.html",
+    "date": "2026-11-22T08:00:00+00:00"
+  },
+  {
+    "num": 110,
+    "title": "الفصل 110: خيار الطليعة",
+    "link": "https://www.novelskyworld.com/2026/11/110.html",
+    "date": "2026-11-22T17:00:00+00:00"
+  },
+  {
+    "num": 111,
+    "title": "الفصل 111: الحقيقة الصادمة",
+    "link": "https://www.novelskyworld.com/2026/11/111.html",
+    "date": "2026-11-23T08:00:00+00:00"
+  },
+  {
+    "num": 112,
+    "title": "الفصل 112: رقصة في قصر ريشا",
+    "link": "https://www.novelskyworld.com/2026/11/112.html",
+    "date": "2026-11-23T17:00:00+00:00"
+  },
+  {
+    "num": 113,
+    "title": "الفصل 113: المشاطرة الحسية",
+    "link": "https://www.novelskyworld.com/2026/11/113.html",
+    "date": "2026-11-24T08:00:00+00:00"
+  },
+  {
+    "num": 114,
+    "title": "الفصل 114: مواجهة صامتة في البرج",
+    "link": "https://www.novelskyworld.com/2026/11/114.html",
+    "date": "2026-11-24T17:00:00+00:00"
+  },
+  {
+    "num": 115,
+    "title": "الفصل 115",
+    "link": "https://www.novelskyworld.com/2026/11/115.html",
+    "date": "2026-11-25T11:00:00+03:00"
+  },
+  {
+    "num": 116,
+    "title": "الفصل 116",
+    "link": "https://www.novelskyworld.com/2026/11/116.html",
+    "date": "2026-11-25T20:00:00+03:00"
+  },
+  {
+    "num": 117,
+    "title": "الفصل 117: غارة على كونستيل",
+    "link": "https://www.novelskyworld.com/2026/11/117.html",
+    "date": "2026-11-26T11:00:00+03:00"
+  },
+  {
+    "num": 118,
+    "title": "الفصل 118: أصداء التحذير وحصار الكيميرا",
+    "link": "https://www.novelskyworld.com/2026/11/118.html",
+    "date": "2026-11-26T20:00:00+03:00"
+  },
+  {
+    "num": 119,
+    "title": "الفصل 119: طموح الأميرة ومواجهة الكيميرا",
+    "link": "https://www.novelskyworld.com/2026/11/119.html",
+    "date": "2026-11-27T11:00:00+03:00"
+  },
+  {
+    "num": 120,
+    "title": "الفصل 120: رحمة أخيرة",
+    "link": "https://www.novelskyworld.com/2026/11/120.html",
+    "date": "2026-11-27T20:00:00+03:00"
+  },
+  {
+    "num": 121,
+    "title": "الفصل 121: صمام الأمان",
+    "link": "https://www.novelskyworld.com/2026/11/121.html",
+    "date": "2026-11-28T11:00:00+03:00"
+  },
+  {
+    "num": 122,
+    "title": "الفصل 122",
+    "link": "https://www.novelskyworld.com/2026/11/122.html",
+    "date": "2026-11-28T20:00:00+03:00"
+  },
+  {
+    "num": 123,
+    "title": "الفصل 123: انهمار من السماء",
+    "link": "https://www.novelskyworld.com/2026/11/123.html",
+    "date": "2026-11-29T11:00:00+03:00"
+  },
+  {
+    "num": 124,
+    "title": "الفصل 124: زوال اللقب",
+    "link": "https://www.novelskyworld.com/2026/11/124.html",
+    "date": "2026-11-29T20:00:00+03:00"
+  },
+  {
+    "num": 125,
+    "title": "الفصل 125: مهارة التحليل",
+    "link": "https://www.novelskyworld.com/2026/11/125.html",
+    "date": "2026-11-30T11:00:00+03:00"
+  },
+  {
+    "num": 126,
+    "title": "الفصل 126: بداية التدريب الصارم",
+    "link": "https://www.novelskyworld.com/2026/11/126.html",
+    "date": "2026-11-30T20:00:00+03:00"
+  },
+  {
+    "num": 127,
+    "title": "الفصل 127: جوهر القتال الحقيقي",
+    "link": "https://www.novelskyworld.com/2026/12/127.html",
+    "date": "2026-12-01T11:00:00+03:00"
+  },
+  {
+    "num": 128,
+    "title": "الفصل 128: صدى النزالات وسيف جديد",
+    "link": "https://www.novelskyworld.com/2026/12/128.html",
+    "date": "2026-12-01T20:00:00+03:00"
+  },
+  {
+    "num": 129,
+    "title": "الفصل 129: نيل جاك",
+    "link": "https://www.novelskyworld.com/2026/12/129.html",
+    "date": "2026-12-02T11:00:00+03:00"
+  },
+  {
+    "num": 130,
+    "title": "الفصل 130: إنفير",
+    "link": "https://www.novelskyworld.com/2026/12/130.html",
+    "date": "2026-12-02T20:00:00+03:00"
+  }
+]
