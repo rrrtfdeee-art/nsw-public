@@ -1582,5 +1582,41 @@
     "title": "الفصل 274: 第274章 温泉酒",
     "link": "https://www.novelskyworld.com/2027/01/274-274.html",
     "date": "2027-01-14T09:00:00+03:00"
+  },
+  {
+    "num": 275,
+    "title": "الفصل 275: 第275章 情不自禁",
+    "link": "https://www.novelskyworld.com/2027/01/275-275.html",
+    "date": "2027-01-14T18:00:00+03:00"
+  },
+  {
+    "num": 276,
+    "title": "الفصل 276: 第276章 未来的计划",
+    "link": "https://www.novelskyworld.com/2027/01/276-276.html",
+    "date": "2027-01-15T09:00:00+03:00"
+  },
+  {
+    "num": 286,
+    "title": "الفصل 286: الصغيرات الثلاث",
+    "link": "https://www.novelskyworld.com/2027/01/286.html",
+    "date": "2027-01-20T09:00:00+03:00"
+  },
+  {
+    "num": 287,
+    "title": "الفصل 287: جينغ شي الغاضبة",
+    "link": "https://www.novelskyworld.com/2027/01/287.html",
+    "date": "2027-01-20T18:00:00+03:00"
+  },
+  {
+    "num": 288,
+    "title": "الفصل 288: نحن need to translate the Chinese raw الفصل into Arabic, following the instructions: Title format \"الفصل [الرقم]: [عنوان الفصل]\". The Chinese title is 第288章 做客, التي means \"الفصل 288: Visiting\" or \"Doing a visit\". So translated title: \"الفصل 288: زيارة\". Or \"الفصل 288:做客\" but نحن need Arabic. Probably \"الفصل 288: زيارة\". نحن'll output JSON with translated_title and translated_content.",
+    "link": "https://www.novelskyworld.com/2027/01/288-need-to-translate-chinese-raw-into.html",
+    "date": "2027-01-21T09:00:00+03:00"
+  },
+  {
+    "num": 289,
+    "title": "الفصل 289: نحن need to translate the Chinese raw الفصل 289 into Arabic, following the same instructions: Title format \"الفصل [الرقم]: [عنوان الفصل]\". Chinese title: 第289章 新御三家各自的想法. Means \"الفصل 289: أفكار الثلاثة الكبار كل على حدة\" or similar. \"新御三家\" likely \"الثلاثة الكبار الجدد\" but dictionary says 御三家 -> الثلاثة الكبار. So \"新御三家\" = \"الثلاثة الكبار الجدد\". Then \"各自的想法\" = \"أفكار كل منهم\". So title: \"الفصل 289: أفكار الثلاثة الكبار الجدد كل على حدة\". نحن'll produce something like that.",
+    "link": "https://www.novelskyworld.com/2027/01/289-need-to-translate-chinese-raw-289.html",
+    "date": "2027-01-21T18:00:00+03:00"
   }
 ]
