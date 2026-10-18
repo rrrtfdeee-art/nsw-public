@@ -1110,6 +1110,18 @@
     "date": "2026-11-30T18:00:00+03:00"
   },
   {
+    "num": 186,
+    "title": "الفصل 186: ارتقاء متتابع بخمس درجات",
+    "link": "https://www.novelskyworld.com/2026/12/186_0504639297.html",
+    "date": "2026-12-01T09:00:00+03:00"
+  },
+  {
+    "num": 187,
+    "title": "الفصل 187: مأدبة الطائفة",
+    "link": "https://www.novelskyworld.com/2026/12/187_01859589278.html",
+    "date": "2026-12-01T18:00:00+03:00"
+  },
+  {
     "num": 188,
     "title": "الفصل 188: نبض قلب الآنسة الثانية",
     "link": "https://www.novelskyworld.com/2026/12/188_0781349496.html",
@@ -1506,6 +1518,18 @@
     "date": "2027-01-03T18:00:00+03:00"
   },
   {
+    "num": 254,
+    "title": "الفصل 254: تأملات ليلي",
+    "link": "https://www.novelskyworld.com/2027/01/254.html",
+    "date": "2027-01-04T09:00:00+03:00"
+  },
+  {
+    "num": 255,
+    "title": "الفصل 255: الصغيرات الثلاث تحت الأضواء",
+    "link": "https://www.novelskyworld.com/2027/01/255.html",
+    "date": "2027-01-04T18:00:00+03:00"
+  },
+  {
     "num": 256,
     "title": "الفصل 256: مواجهة الحقيقة",
     "link": "https://www.novelskyworld.com/2027/01/256.html",
@@ -1542,6 +1566,24 @@
     "date": "2027-01-07T18:00:00+03:00"
   },
   {
+    "num": 262,
+    "title": "الفصل 262: ليلي المتقلبة المزاج",
+    "link": "https://www.novelskyworld.com/2027/01/262.html",
+    "date": "2027-01-08T09:00:00+03:00"
+  },
+  {
+    "num": 263,
+    "title": "الفصل 263: ثلاث نساء في مسرحية واحدة",
+    "link": "https://www.novelskyworld.com/2027/01/263.html",
+    "date": "2027-01-08T18:00:00+03:00"
+  },
+  {
+    "num": 264,
+    "title": "الفصل 264: خطة اتحاد الصديقات",
+    "link": "https://www.novelskyworld.com/2027/01/264.html",
+    "date": "2027-01-09T09:00:00+03:00"
+  },
+  {
     "num": 265,
     "title": "الفصل 265: اعتراف كامل",
     "link": "https://www.novelskyworld.com/2027/01/265.html",
@@ -1560,6 +1602,24 @@
     "date": "2027-01-10T18:00:00+03:00"
   },
   {
+    "num": 268,
+    "title": "الفصل 268: الغيرة",
+    "link": "https://www.novelskyworld.com/2027/01/268.html",
+    "date": "2027-01-11T09:00:00+03:00"
+  },
+  {
+    "num": 269,
+    "title": "الفصل 269: الدواء العجيب",
+    "link": "https://www.novelskyworld.com/2027/01/269.html",
+    "date": "2027-01-11T18:00:00+03:00"
+  },
+  {
+    "num": 270,
+    "title": "الفصل 270: انتصار اتحاد الصديقات",
+    "link": "https://www.novelskyworld.com/2027/01/270.html",
+    "date": "2027-01-12T09:00:00+03:00"
+  },
+  {
     "num": 271,
     "title": "الفصل 271: الأمنية",
     "link": "https://www.novelskyworld.com/2027/01/271.html",
@@ -1573,25 +1633,25 @@
   },
   {
     "num": 273,
-    "title": "الفصل 273: نحن need to output JSON with translated_title and translated_content. The title: 第273章 不需避讳 => \"الفصل 273: لا حاجة للتجنب\" maybe \"لا حاجة للتجنب\" or \"لا حاجة للتحفظ\". Chinese \"不需避讳\" means \"no need to avoid\" i.e., no need to be shy/avoid. So translation: \"الفصل 273: لا حاجة للتجنب\". نحن'll translate content fully into Arabic, preserving dialogue in quotes. Must keep the content as is but translated. Ensure no extra text outside JSON. Provide pure JSON.",
+    "title": "الفصل 273: لا داعي للحرج",
     "link": "https://www.novelskyworld.com/2027/01/273-need-to-output-json-with.html",
     "date": "2027-01-13T18:00:00+03:00"
   },
   {
     "num": 274,
-    "title": "الفصل 274: 第274章 温泉酒",
+    "title": "الفصل 274: نبيذ الينبوع الحار",
     "link": "https://www.novelskyworld.com/2027/01/274-274.html",
     "date": "2027-01-14T09:00:00+03:00"
   },
   {
     "num": 275,
-    "title": "الفصل 275: 第275章 情不自禁",
+    "title": "الفصل 275: عجز عن المقاومة",
     "link": "https://www.novelskyworld.com/2027/01/275-275.html",
     "date": "2027-01-14T18:00:00+03:00"
   },
   {
     "num": 276,
-    "title": "الفصل 276: 第276章 未来的计划",
+    "title": "الفصل 276: خطط المستقبل",
     "link": "https://www.novelskyworld.com/2027/01/276-276.html",
     "date": "2027-01-15T09:00:00+03:00"
   },
@@ -1609,61 +1669,61 @@
   },
   {
     "num": 288,
-    "title": "الفصل 288: نحن need to translate the Chinese raw الفصل into Arabic, following the instructions: Title format \"الفصل [الرقم]: [عنوان الفصل]\". The Chinese title is 第288章 做客, التي means \"الفصل 288: Visiting\" or \"Doing a visit\". So translated title: \"الفصل 288: زيارة\". Or \"الفصل 288:做客\" but نحن need Arabic. Probably \"الفصل 288: زيارة\". نحن'll output JSON with translated_title and translated_content.",
+    "title": "الفصل 288: ضيف في المنزل",
     "link": "https://www.novelskyworld.com/2027/01/288-need-to-translate-chinese-raw-into.html",
     "date": "2027-01-21T09:00:00+03:00"
   },
   {
     "num": 289,
-    "title": "الفصل 289: نحن need to translate the Chinese raw الفصل 289 into Arabic, following the same instructions: Title format \"الفصل [الرقم]: [عنوان الفصل]\". Chinese title: 第289章 新御三家各自的想法. Means \"الفصل 289: أفكار الثلاثة الكبار كل على حدة\" or similar. \"新御三家\" likely \"الثلاثة الكبار الجدد\" but dictionary says 御三家 -> الثلاثة الكبار. So \"新御三家\" = \"الثلاثة الكبار الجدد\". Then \"各自的想法\" = \"أفكار كل منهم\". So title: \"الفصل 289: أفكار الثلاثة الكبار الجدد كل على حدة\". نحن'll produce something like that.",
+    "title": "الفصل 289: أفكار الثلاثي الجديد",
     "link": "https://www.novelskyworld.com/2027/01/289-need-to-translate-chinese-raw-289.html",
     "date": "2027-01-21T18:00:00+03:00"
   },
   {
     "num": 290,
-    "title": "الفصل 290: نحن need to translate the Chinese raw الفصل 290 into Arabic, following same instructions: Title format \"الفصل [الرقم]: [عنوان الفصل]\". Chinese title: 第290章 姐妹俩的别墅. Means \"الفصل 290: فيلا الأختين\" or similar. نحن'll produce something like \"الفصل 290: فيلا الأختين\". Must keep terms from dictionary exactly as given. The dictionary includes many terms: 二小姐 -> الآنسة الثانية, 小梦 -> شياو مينغ, 方梦 -> فانغ منغ, 林总 -> الرئيس لين, 林正然 -> لين تشنغران, 正正 -> تشنغ تشنغ, 潘琳 -> بان لين, 爷爷 -> جد جيانغ, 白发少女 -> الفتاة ذات الشعر الأبيض, 蒋倩 -> جيانغ تشيان, 蒋家 -> عائلة جيانغ, 蒋总 -> جيانغ زونغ, 蒋氏集团 -> مجموعة جيانغ, 蒋静诗 -> جيانغ جينغ شي.",
+    "title": "الفصل 290: فيلا الأختين",
     "link": "https://www.novelskyworld.com/2027/01/290-need-to-translate-chinese-raw-290.html",
     "date": "2027-01-22T09:00:00+03:00"
   },
   {
     "num": 291,
-    "title": "الفصل 291: نحن need to translate the Chinese raw الفصل 291 into Arabic, following the same instructions: Title format \"الفصل [الرقم]: [عنوان الفصل]\". Chinese title: 第291章 姐夫妹夫. Means \"الفصل 291: صهر الأخت وصهر الأخت؟ Actually \"姐夫妹夫\" means \"姐夫\" (husband of older sister) and \"妹夫\" (husband of younger sister). So title could be \"صهر الأخت وصهر الأخت\" but maybe better: \"صهر الأخت وصهر الأخت\" redundant. Actually \"姐夫\" is husband of older sister (i.e., brother-in-law from wife's older sister). \"妹夫\" is husband of younger sister (brother-in-law from wife's younger sister). So combined maybe \"صهر الأخت الكبرى وصهر الأخت الصغرى\". نحن'll translate as \"صهر الأخت الكبرى وصهر الأخت الصغرى\". نحن'll keep dictionary terms: نحن have terms for 小梦, 方梦, 林正然, 爷爷, 蒋倩, 蒋静诗, 娃娃亲, 正诗公司, 收藏房. Also نحن have term \"娃娃亲\" -> خطوبة الأطفال. \"正诗公司\" -> شركة تشنغ شي. \"收藏房\" -> غرفة المقتنيات.",
+    "title": "الفصل 291: صهر الأخت الكبرى أم الصغرى",
     "link": "https://www.novelskyworld.com/2027/01/291-need-to-translate-chinese-raw-291.html",
     "date": "2027-01-22T18:00:00+03:00"
   },
   {
     "num": 292,
-    "title": "الفصل 292: نحن need to translate the Chinese raw الفصل 292 into Arabic, following the same instructions: Title format \"الفصل [الرقم]: [عنوان الفصل]\". Chinese title: 第292章 可恶的姐姐. Means \"الفصل 292: الأخت المزعجة\" or \"الأخت الكريهة\". نحن'll translate as \"الأخت المزعجة\". Use dictionary terms exactly.",
+    "title": "الفصل 292: الأخت الكبرى البغيضة",
     "link": "https://www.novelskyworld.com/2027/01/292-need-to-translate-chinese-raw-292.html",
     "date": "2027-01-23T09:00:00+03:00"
   },
   {
     "num": 293,
-    "title": "الفصل 293: نحن need to translate this Chinese raw الفصل 293 into Arabic, following same instructions: Title format \"الفصل [الرقم]: [عنوان الفصل]\". Chinese title: 第293章 发丝. Means \"الفصل 293: خصلات الشعر\" or \"شعر\". نحن'll translate as \"خصلات الشعر\". Use dictionary terms exactly.",
+    "title": "الفصل 293: خصلة شعر بيضاء",
     "link": "https://www.novelskyworld.com/2027/01/293-need-to-translate-this-chinese-raw.html",
     "date": "2027-01-23T18:00:00+03:00"
   },
   {
     "num": 294,
-    "title": "الفصل 294: نحن need to translate the given Chinese raw الفصل 294 into Arabic, following same instructions: Title format \"الفصل [الرقم]: [عنوان الفصل]\". Chinese title: 第294章 杀出重围. Means \"الفصل 294: قتل الخروج من الحصار\" or \"الفصل 294:突围\". Usually \"杀出重围\" means \"break through the encirclement\" or \"fight way out\". نحن'll translate as \"الفصل 294:突围\" or \"الفصل 294: كسر الحصار\". Use dictionary terms exactly.",
+    "title": "الفصل 294: اختراق الحصار",
     "link": "https://www.novelskyworld.com/2027/01/294-need-to-translate-given-chinese-raw.html",
     "date": "2027-01-24T09:00:00+03:00"
   },
   {
     "num": 295,
-    "title": "الفصل 295: 第295章 二小姐的宣战",
+    "title": "الفصل 295: إعلان حرب الآنسة الصغرى",
     "link": "https://www.novelskyworld.com/2027/01/295-295.html",
     "date": "2027-01-24T18:00:00+03:00"
   },
   {
     "num": 296,
-    "title": "الفصل 296: 第296章 战场",
+    "title": "الفصل 296: ساحة المعركة",
     "link": "https://www.novelskyworld.com/2027/01/296-296.html",
     "date": "2027-01-25T09:00:00+03:00"
   },
   {
     "num": 297,
-    "title": "الفصل 297: 第297章 必胜",
+    "title": "الفصل 297: نصر محتوم",
     "link": "https://www.novelskyworld.com/2027/01/297-297.html",
     "date": "2027-01-25T18:00:00+03:00"
   },
@@ -1675,61 +1735,61 @@
   },
   {
     "num": 299,
-    "title": "الفصل 299: 第299章 争风吃醋",
+    "title": "الفصل 299: غيرة مستعرة",
     "link": "https://www.novelskyworld.com/2027/01/299-299.html",
     "date": "2027-01-26T18:00:00+03:00"
   },
   {
     "num": 300,
-    "title": "الفصل 300: 第300章 抢手",
+    "title": "الفصل 300: مرغوب ومطلوب",
     "link": "https://www.novelskyworld.com/2027/01/300-300.html",
     "date": "2027-01-27T09:00:00+03:00"
   },
   {
     "num": 301,
-    "title": "الفصل 301: 第301章 面试",
+    "title": "الفصل 301: مقابلة التوظيف",
     "link": "https://www.novelskyworld.com/2027/01/301-301.html",
     "date": "2027-01-27T18:00:00+03:00"
   },
   {
     "num": 302,
-    "title": "الفصل 302: 第302章 紧张的面试队伍",
+    "title": "الفصل 302: طابور المقابلة المتوتر",
     "link": "https://www.novelskyworld.com/2027/01/302-302.html",
     "date": "2027-01-28T09:00:00+03:00"
   },
   {
     "num": 303,
-    "title": "الفصل 303: 第303章 特殊的对待",
+    "title": "الفصل 303: معاملة استثنائية",
     "link": "https://www.novelskyworld.com/2027/01/303-303.html",
     "date": "2027-01-28T18:00:00+03:00"
   },
   {
     "num": 304,
-    "title": "الفصل 304: 第304章 然然？你怎么在这？",
+    "title": "الفصل 304: ران ران؟ ما الذي تفعله هنا؟!",
     "link": "https://www.novelskyworld.com/2027/01/304-304.html",
     "date": "2027-01-29T09:00:00+03:00"
   },
   {
     "num": 305,
-    "title": "الفصل 305: 第305章 我儿子是总经理？！",
+    "title": "الفصل 305: ابني هو المدير العام؟!",
     "link": "https://www.novelskyworld.com/2027/01/305-305.html",
     "date": "2027-01-29T18:00:00+03:00"
   },
   {
     "num": 306,
-    "title": "الفصل 306: 第306章 经历",
+    "title": "الفصل 306: مسيرة الكفاح",
     "link": "https://www.novelskyworld.com/2027/01/306-306.html",
     "date": "2027-01-30T09:00:00+03:00"
   },
   {
     "num": 307,
-    "title": "الفصل 307: 第307章 老公，跟你说个巨大新闻！",
+    "title": "الفصل 307: يا زوجي، لديّ خبر مدوٍّ!",
     "link": "https://www.novelskyworld.com/2027/01/307-307.html",
     "date": "2027-01-30T18:00:00+03:00"
   },
   {
     "num": 308,
-    "title": "الفصل 308: رانران، أنت فخر والدينا!",
+    "title": "الفصل 308: ران ران، أنت فخر والدينا!",
     "link": "https://www.novelskyworld.com/2027/01/308.html",
     "date": "2027-01-31T09:00:00+03:00"
   },
@@ -1741,19 +1801,19 @@
   },
   {
     "num": 310,
-    "title": "الفصل 310: 第310章 莉莉的疑惑",
+    "title": "الفصل 310: حيرة ليلي",
     "link": "https://www.novelskyworld.com/2027/02/310-310.html",
     "date": "2027-02-01T09:00:00+03:00"
   },
   {
     "num": 311,
-    "title": "الفصل 311: القبول في الجامعة",
+    "title": "الفصل 311: الالتحاق بالجامعة",
     "link": "https://www.novelskyworld.com/2027/02/311.html",
     "date": "2027-02-01T18:00:00+03:00"
   },
   {
     "num": 312,
-    "title": "الفصل 312: المرشدة الجميلة",
+    "title": "الفصل 312: المرشدة الأكاديمية الفاتنة",
     "link": "https://www.novelskyworld.com/2027/02/312.html",
     "date": "2027-02-02T09:00:00+03:00"
   }
