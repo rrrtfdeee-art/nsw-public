@@ -1,394 +1,34 @@
 [
   {
-    "novelId": 1,
-    "novelTitle": "After Severing Ties",
-    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi44S8d8HI6VSRqi3PClNXsCSwy23aHJv4Hmk3Y_HdpekCGzMEhtAnfAOrCSV-aDh3J4vfa2Sgnpe_IRrjlIkfUrIM0-9Vu-t9x1Opsz2ab4P394JnXrYax-y0Af90QY50xvyEb948xN14er5db6c6LEJM-PSi867VfU-T_EYHha-j9oCElXs5Ik0rn0HTf/s0/1000134866.webp",
-    "novelLink": "https://www.novelskyworld.com/p/severing-ties.html",
-    "chapters": [
-      {
-        "num": 331,
-        "title": "الفصل 331: روث فئران الحقول!",
-        "chapterTitle": "الفصل 331: روث فئران الحقول!",
-        "fullTitle": "After Severing Ties - الفصل 331: روث فئران الحقول!",
-        "link": "https://www.novelskyworld.com/2026/11/after-severing-ties-331.html",
-        "date": "2026-11-03T06:00:00+00:00"
-      },
-      {
-        "num": 330,
-        "title": "الفصل 330: أحضروا خيطاً قطنياً",
-        "chapterTitle": "الفصل 330: أحضروا خيطاً قطنياً",
-        "fullTitle": "After Severing Ties - الفصل 330: أحضروا خيطاً قطنياً",
-        "link": "https://www.novelskyworld.com/2026/11/after-severing-ties-330.html",
-        "date": "2026-11-02T13:00:00+00:00"
-      },
-      {
-        "num": 329,
-        "title": "الفصل 329: هل بلغت سن الرشد؟",
-        "chapterTitle": "الفصل 329: هل بلغت سن الرشد؟",
-        "fullTitle": "After Severing Ties - الفصل 329: هل بلغت سن الرشد؟",
-        "link": "https://www.novelskyworld.com/2026/11/after-severing-ties-329.html",
-        "date": "2026-11-02T06:00:00+00:00"
-      },
-      {
-        "num": 328,
-        "title": "الفصل 328: غضارة الشباب",
-        "chapterTitle": "الفصل 328: غضارة الشباب",
-        "fullTitle": "After Severing Ties - الفصل 328: غضارة الشباب",
-        "link": "https://www.novelskyworld.com/2026/11/after-severing-ties-328.html",
-        "date": "2026-11-01T13:00:00+00:00"
-      },
-      {
-        "num": 327,
-        "title": "الفصل 327: أيها الحمو، لا يمكنك الموت",
-        "chapterTitle": "الفصل 327: أيها الحمو، لا يمكنك الموت",
-        "fullTitle": "After Severing Ties - الفصل 327: أيها الحمو، لا يمكنك الموت",
-        "link": "https://www.novelskyworld.com/2026/10/after-severing-ties-327.html",
-        "date": "2026-11-01T06:00:00+00:00"
-      },
-      {
-        "num": 326,
-        "title": "الفصل 326: مصاحبة الملك كمصاحبة النمر",
-        "chapterTitle": "الفصل 326: مصاحبة الملك كمصاحبة النمر",
-        "fullTitle": "After Severing Ties - الفصل 326: مصاحبة الملك كمصاحبة النمر",
-        "link": "https://www.novelskyworld.com/2026/10/after-severing-ties-326.html",
-        "date": "2026-10-31T13:00:00+00:00"
-      },
-      {
-        "num": 325,
-        "title": "الفصل 325: أليس هذا غير لائق؟",
-        "chapterTitle": "الفصل 325: أليس هذا غير لائق؟",
-        "fullTitle": "After Severing Ties - الفصل 325: أليس هذا غير لائق؟",
-        "link": "https://www.novelskyworld.com/2026/10/after-severing-ties-325.html",
-        "date": "2026-10-31T06:00:00+00:00"
-      },
-      {
-        "num": 324,
-        "title": "الفصل 324: جولة تفقدية",
-        "chapterTitle": "الفصل 324: جولة تفقدية",
-        "fullTitle": "After Severing Ties - الفصل 324: جولة تفقدية",
-        "link": "https://www.novelskyworld.com/2026/10/after-severing-ties-324.html",
-        "date": "2026-10-30T13:00:00+00:00"
-      },
-      {
-        "num": 323,
-        "title": "الفصل 323: إلى المعسكر العسكري!",
-        "chapterTitle": "الفصل 323: إلى المعسكر العسكري!",
-        "fullTitle": "After Severing Ties - الفصل 323: إلى المعسكر العسكري!",
-        "link": "https://www.novelskyworld.com/2026/10/after-severing-ties-323.html",
-        "date": "2026-10-30T06:00:00+00:00"
-      },
-      {
-        "num": 322,
-        "title": "الفصل 322: إذا جاء الأصدقاء، فلديهم نبيذ جيد",
-        "chapterTitle": "الفصل 322: إذا جاء الأصدقاء، فلديهم نبيذ جيد",
-        "fullTitle": "After Severing Ties - الفصل 322: إذا جاء الأصدقاء، فلديهم نبيذ جيد",
-        "link": "https://www.novelskyworld.com/2026/10/after-severing-ties-322.html",
-        "date": "2026-10-29T13:00:00+00:00"
-      },
-      {
-        "num": 321,
-        "title": "الفصل 321: ألا تخشى الموت؟",
-        "chapterTitle": "الفصل 321: ألا تخشى الموت؟",
-        "fullTitle": "After Severing Ties - الفصل 321: ألا تخشى الموت؟",
-        "link": "https://www.novelskyworld.com/2026/10/after-severing-ties-321.html",
-        "date": "2026-10-29T06:00:00+00:00"
-      },
-      {
-        "num": 320,
-        "title": "الفصل 320: كارثة وشيكة",
-        "chapterTitle": "الفصل 320: كارثة وشيكة",
-        "fullTitle": "After Severing Ties - الفصل 320: كارثة وشيكة",
-        "link": "https://www.novelskyworld.com/2026/10/after-severing-ties-320.html",
-        "date": "2026-10-28T13:00:00+00:00"
-      },
-      {
-        "num": 319,
-        "title": "الفصل 319: العلاقات بين الدولتين",
-        "chapterTitle": "الفصل 319: العلاقات بين الدولتين",
-        "fullTitle": "After Severing Ties - الفصل 319: العلاقات بين الدولتين",
-        "link": "https://www.novelskyworld.com/2026/10/after-severing-ties-319.html",
-        "date": "2026-10-28T06:00:00+00:00"
-      },
-      {
-        "num": 318,
-        "title": "الفصل 318: إنه بالتأكيد الكلب تشين!",
-        "chapterTitle": "الفصل 318: إنه بالتأكيد الكلب تشين!",
-        "fullTitle": "After Severing Ties - الفصل 318: إنه بالتأكيد الكلب تشين!",
-        "link": "https://www.novelskyworld.com/2026/10/after-severing-ties-318.html",
-        "date": "2026-10-27T13:00:00+00:00"
-      },
-      {
-        "num": 317,
-        "title": "الفصل 317: هذا هو القدر",
-        "chapterTitle": "الفصل 317: هذا هو القدر",
-        "fullTitle": "After Severing Ties - الفصل 317: هذا هو القدر",
-        "link": "https://www.novelskyworld.com/2026/10/after-severing-ties-317.html",
-        "date": "2026-10-27T06:00:00+00:00"
-      },
-      {
-        "num": 316,
-        "title": "الفصل 316: امرأة قاسية ولعينة حقاً",
-        "chapterTitle": "الفصل 316: امرأة قاسية ولعينة حقاً",
-        "fullTitle": "After Severing Ties - الفصل 316: امرأة قاسية ولعينة حقاً",
-        "link": "https://www.novelskyworld.com/2026/10/after-severing-ties-316.html",
-        "date": "2026-10-26T13:00:00+00:00"
-      },
-      {
-        "num": 315,
-        "title": "الفصل 315: الاستعداد لاقتحام التشكيلة!",
-        "chapterTitle": "الفصل 315: الاستعداد لاقتحام التشكيلة!",
-        "fullTitle": "After Severing Ties - الفصل 315: الاستعداد لاقتحام التشكيلة!",
-        "link": "https://www.novelskyworld.com/2026/10/after-severing-ties-315.html",
-        "date": "2026-10-26T06:00:00+00:00"
-      },
-      {
-        "num": 314,
-        "title": "الفصل 314: تواطؤ المسؤولين!",
-        "chapterTitle": "الفصل 314: تواطؤ المسؤولين!",
-        "fullTitle": "After Severing Ties - الفصل 314: تواطؤ المسؤولين!",
-        "link": "https://www.novelskyworld.com/2026/10/after-severing-ties-314.html",
-        "date": "2026-10-25T13:00:00+00:00"
-      },
-      {
-        "num": 313,
-        "title": "الفصل 313: جمعية قارب النجاة",
-        "chapterTitle": "الفصل 313: جمعية قارب النجاة",
-        "fullTitle": "After Severing Ties - الفصل 313: جمعية قارب النجاة",
-        "link": "https://www.novelskyworld.com/2026/10/after-severing-ties-313.html",
-        "date": "2026-10-25T06:00:00+00:00"
-      },
-      {
-        "num": 312,
-        "title": "الفصل 312: تشين تشان، قل كلمتك!",
-        "chapterTitle": "الفصل 312: تشين تشان، قل كلمتك!",
-        "fullTitle": "After Severing Ties - الفصل 312: تشين تشان، قل كلمتك!",
-        "link": "https://www.novelskyworld.com/2026/10/after-severing-ties-312.html",
-        "date": "2026-10-24T13:00:00+00:00"
-      },
-      {
-        "num": 310,
-        "title": "الفصل 310: هو 'مُو'!",
-        "chapterTitle": "الفصل 310: هو 'مُو'!",
-        "fullTitle": "After Severing Ties - الفصل 310: هو 'مُو'!",
-        "link": "https://www.novelskyworld.com/2026/10/after-severing-ties-310.html",
-        "date": "2026-10-23T13:00:00+00:00"
-      },
-      {
-        "num": 309,
-        "title": "الفصل 309: لا أريد البقاء لحظة واحدة",
-        "chapterTitle": "الفصل 309: لا أريد البقاء لحظة واحدة",
-        "fullTitle": "After Severing Ties - الفصل 309: لا أريد البقاء لحظة واحدة",
-        "link": "https://www.novelskyworld.com/2026/10/after-severing-ties-309.html",
-        "date": "2026-10-23T06:00:00+00:00"
-      },
-      {
-        "num": 308,
-        "title": "الفصل 308: التحدث شخصياً مع تشو يانران",
-        "chapterTitle": "الفصل 308: التحدث شخصياً مع تشو يانران",
-        "fullTitle": "After Severing Ties - الفصل 308: التحدث شخصياً مع تشو يانران",
-        "link": "https://www.novelskyworld.com/2026/10/after-severing-ties-308.html",
-        "date": "2026-10-22T13:00:00+00:00"
-      }
-    ]
-  },
-  {
-    "novelId": 2,
-    "novelTitle": "المزارع الخبير في المدرسة الابتدائية",
-    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGt_-PkeSfBI3Ss9fJHYxD8Pfvh6r6C2bweu3mZ9qWLZvCprxO1dYX08AE31Of5yIXFbQsXgiB1IqskOfRO9e62GbdJtdgyUGt6lV0jaQ3EJOVXlFUYpWDiuTvD8ABMBH0twMkU-v7tUh1gsVP-9H2gxQwRkshFZDYhMrKGQC7AObEg34_D99mRUcemJxM/s1600/1000140976.webp",
-    "novelLink": "https://www.novelskyworld.com/p/the-expert-cultivator-in-elementary.html",
-    "chapters": [
-      {
-        "num": 130,
-        "title": "الفصل 130: أنا ملكك وحدك",
-        "chapterTitle": "الفصل 130: أنا ملكك وحدك",
-        "fullTitle": "المزارع الخبير في المدرسة الابتدائية - الفصل 130: أنا ملكك وحدك",
-        "link": "https://www.novelskyworld.com/2026/11/130.html",
-        "date": "2026-11-03T06:00:00+00:00"
-      },
-      {
-        "num": 129,
-        "title": "الفصل 129: الثعلبة القادمة من عالم آخر",
-        "chapterTitle": "الفصل 129: الثعلبة القادمة من عالم آخر",
-        "fullTitle": "المزارع الخبير في المدرسة الابتدائية - الفصل 129: الثعلبة القادمة من عالم آخر",
-        "link": "https://www.novelskyworld.com/2026/11/129.html",
-        "date": "2026-11-02T15:00:00+00:00"
-      },
-      {
-        "num": 128,
-        "title": "الفصل 128: نهاية مسابقة الموسيقى وخفقان القلب",
-        "chapterTitle": "الفصل 128: نهاية مسابقة الموسيقى وخفقان القلب",
-        "fullTitle": "المزارع الخبير في المدرسة الابتدائية - الفصل 128: نهاية مسابقة الموسيقى وخفقان القلب",
-        "link": "https://www.novelskyworld.com/2026/11/128.html",
-        "date": "2026-11-02T06:00:00+00:00"
-      },
-      {
-        "num": 127,
-        "title": "الفصل 127: ساحة الصراع العاطفي بين الأختين",
-        "chapterTitle": "الفصل 127: ساحة الصراع العاطفي بين الأختين",
-        "fullTitle": "المزارع الخبير في المدرسة الابتدائية - الفصل 127: ساحة الصراع العاطفي بين الأختين",
-        "link": "https://www.novelskyworld.com/2026/11/127.html",
-        "date": "2026-11-01T15:00:00+00:00"
-      },
-      {
-        "num": 126,
-        "title": "الفصل 126: همسات في قلب جيانغ جينغ شي",
-        "chapterTitle": "الفصل 126: همسات في قلب جيانغ جينغ شي",
-        "fullTitle": "المزارع الخبير في المدرسة الابتدائية - الفصل 126: همسات في قلب جيانغ جينغ شي",
-        "link": "https://www.novelskyworld.com/2026/11/126_01871466861.html",
-        "date": "2026-11-01T06:00:00+00:00"
-      },
-      {
-        "num": 125,
-        "title": "الفصل 125: موعد مع جيانغ جينغ شي (فصل ضخم للغاية)",
-        "chapterTitle": "الفصل 125: موعد مع جيانغ جينغ شي (فصل ضخم للغاية)",
-        "fullTitle": "المزارع الخبير في المدرسة الابتدائية - الفصل 125: موعد مع جيانغ جينغ شي (فصل ضخم للغاية)",
-        "link": "https://www.novelskyworld.com/2026/10/125.html",
-        "date": "2026-10-31T15:00:00+00:00"
-      },
-      {
-        "num": 124,
-        "title": "الفصل 124: نتائج المسابقة واللقاء الليلي",
-        "chapterTitle": "الفصل 124: نتائج المسابقة واللقاء الليلي",
-        "fullTitle": "المزارع الخبير في المدرسة الابتدائية - الفصل 124: نتائج المسابقة واللقاء الليلي",
-        "link": "https://www.novelskyworld.com/2026/10/124.html",
-        "date": "2026-10-31T06:00:00+00:00"
-      },
-      {
-        "num": 123,
-        "title": "الفصل 123: الأخ تشنغران، نلتقي مجدداً",
-        "chapterTitle": "الفصل 123: الأخ تشنغران، نلتقي مجدداً",
-        "fullTitle": "المزارع الخبير في المدرسة الابتدائية - الفصل 123: الأخ تشنغران، نلتقي مجدداً",
-        "link": "https://www.novelskyworld.com/2026/10/123.html",
-        "date": "2026-10-30T15:00:00+00:00"
-      },
-      {
-        "num": 122,
-        "title": "الفصل 122: الكبرياء المتغطرس لم يتبقَّ منه سوى التواضع",
-        "chapterTitle": "الفصل 122: الكبرياء المتغطرس لم يتبقَّ منه سوى التواضع",
-        "fullTitle": "المزارع الخبير في المدرسة الابتدائية - الفصل 122: الكبرياء المتغطرس لم يتبقَّ منه سوى التواضع",
-        "link": "https://www.novelskyworld.com/2026/10/122.html",
-        "date": "2026-10-30T06:00:00+00:00"
-      },
-      {
-        "num": 121,
-        "title": "الفصل 121: وثيقة خطوبة",
-        "chapterTitle": "الفصل 121: وثيقة خطوبة",
-        "fullTitle": "المزارع الخبير في المدرسة الابتدائية - الفصل 121: وثيقة خطوبة",
-        "link": "https://www.novelskyworld.com/2026/10/121.html",
-        "date": "2026-10-29T15:00:00+00:00"
-      },
-      {
-        "num": 120,
-        "title": "الفصل 120: لين تشنغران الصادق",
-        "chapterTitle": "الفصل 120: لين تشنغران الصادق",
-        "fullTitle": "المزارع الخبير في المدرسة الابتدائية - الفصل 120: لين تشنغران الصادق",
-        "link": "https://www.novelskyworld.com/2026/10/120.html",
-        "date": "2026-10-29T06:00:00+00:00"
-      },
-      {
-        "num": 119,
-        "title": "الفصل 119: جيانغ شيويه لي تُبوح بصدق قلبها (فصل ضخم)",
-        "chapterTitle": "الفصل 119: جيانغ شيويه لي تُبوح بصدق قلبها (فصل ضخم)",
-        "fullTitle": "المزارع الخبير في المدرسة الابتدائية - الفصل 119: جيانغ شيويه لي تُبوح بصدق قلبها (فصل ضخم)",
-        "link": "https://www.novelskyworld.com/2026/10/119.html",
-        "date": "2026-10-28T15:00:00+00:00"
-      },
-      {
-        "num": 118,
-        "title": "الفصل 118: نيران الغيرة",
-        "chapterTitle": "الفصل 118: نيران الغيرة",
-        "fullTitle": "المزارع الخبير في المدرسة الابتدائية - الفصل 118: نيران الغيرة",
-        "link": "https://www.novelskyworld.com/2026/10/118.html",
-        "date": "2026-10-28T06:00:00+00:00"
-      },
-      {
-        "num": 117,
-        "title": "الفصل 117: إنه موسم أبيض مرة أخرى",
-        "chapterTitle": "الفصل 117: إنه موسم أبيض مرة أخرى",
-        "fullTitle": "المزارع الخبير في المدرسة الابتدائية - الفصل 117: إنه موسم أبيض مرة أخرى",
-        "link": "https://www.novelskyworld.com/2026/10/117.html",
-        "date": "2026-10-27T15:00:00+00:00"
-      },
-      {
-        "num": 116,
-        "title": "الفصل 116: يا أختي الصغيرة، هل تذهب الأخت الكبرى بدلاً عنك؟",
-        "chapterTitle": "الفصل 116: يا أختي الصغيرة، هل تذهب الأخت الكبرى بدلاً عنك؟",
-        "fullTitle": "المزارع الخبير في المدرسة الابتدائية - الفصل 116: يا أختي الصغيرة، هل تذهب الأخت الكبرى بدلاً عنك؟",
-        "link": "https://www.novelskyworld.com/2026/10/116.html",
-        "date": "2026-10-27T06:00:00+00:00"
-      },
-      {
-        "num": 115,
-        "title": "الفصل 115: ملف شريك الخطوبة",
-        "chapterTitle": "الفصل 115: ملف شريك الخطوبة",
-        "fullTitle": "المزارع الخبير في المدرسة الابتدائية - الفصل 115: ملف شريك الخطوبة",
-        "link": "https://www.novelskyworld.com/2026/10/115.html",
-        "date": "2026-10-26T15:00:00+00:00"
-      },
-      {
-        "num": 114,
-        "title": "الفصل 114: قدرة جديدة للطاقة الحيوية",
-        "chapterTitle": "الفصل 114: قدرة جديدة للطاقة الحيوية",
-        "fullTitle": "المزارع الخبير في المدرسة الابتدائية - الفصل 114: قدرة جديدة للطاقة الحيوية",
-        "link": "https://www.novelskyworld.com/2026/10/114.html",
-        "date": "2026-10-26T06:00:00+00:00"
-      },
-      {
-        "num": 113,
-        "title": "الفصل 113: ألستُ ملكك؟",
-        "chapterTitle": "الفصل 113: ألستُ ملكك؟",
-        "fullTitle": "المزارع الخبير في المدرسة الابتدائية - الفصل 113: ألستُ ملكك؟",
-        "link": "https://www.novelskyworld.com/2026/10/113.html",
-        "date": "2026-10-25T15:00:00+00:00"
-      },
-      {
-        "num": 112,
-        "title": "الفصل 112: رائعة.. رائعة حقاً",
-        "chapterTitle": "الفصل 112: رائعة.. رائعة حقاً",
-        "fullTitle": "المزارع الخبير في المدرسة الابتدائية - الفصل 112: رائعة.. رائعة حقاً",
-        "link": "https://www.novelskyworld.com/2026/10/112.html",
-        "date": "2026-10-25T15:00:00+00:00"
-      },
-      {
-        "num": 111,
-        "title": "الفصل 111: هذا الثأر ستحفظه الأخت",
-        "chapterTitle": "الفصل 111: هذا الثأر ستحفظه الأخت",
-        "fullTitle": "المزارع الخبير في المدرسة الابتدائية - الفصل 111: هذا الثأر ستحفظه الأخت",
-        "link": "https://www.novelskyworld.com/2026/10/111.html",
-        "date": "2026-10-24T15:00:00+00:00"
-      },
-      {
-        "num": 109,
-        "title": "الفصل 109: الحلم الجميل ليس حلماً",
-        "chapterTitle": "الفصل 109: الحلم الجميل ليس حلماً",
-        "fullTitle": "المزارع الخبير في المدرسة الابتدائية - الفصل 109: الحلم الجميل ليس حلماً",
-        "link": "https://www.novelskyworld.com/2026/10/109.html",
-        "date": "2026-10-23T15:00:00+00:00"
-      },
-      {
-        "num": 108,
-        "title": "الفصل 108: الأمنية",
-        "chapterTitle": "الفصل 108: الأمنية",
-        "fullTitle": "المزارع الخبير في المدرسة الابتدائية - الفصل 108: الأمنية",
-        "link": "https://www.novelskyworld.com/2026/10/108.html",
-        "date": "2026-10-23T06:00:00+00:00"
-      },
-      {
-        "num": 107,
-        "title": "الفصل 107: التسلل الليلي للبحث عنه",
-        "chapterTitle": "الفصل 107: التسلل الليلي للبحث عنه",
-        "fullTitle": "المزارع الخبير في المدرسة الابتدائية - الفصل 107: التسلل الليلي للبحث عنه",
-        "link": "https://www.novelskyworld.com/2026/10/107.html",
-        "date": "2026-10-22T15:00:00+00:00"
-      }
-    ]
-  },
-  {
     "novelId": 5,
     "novelTitle": "المهندس الأعظم",
     "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig9E8Vllh3mqFuvl28YHE6EUOlNHjr89Vdm5ZfPnq99-os5-6yBhjTo-eOmB8t4_PKvv0P7dDKmnQrVG-DWWTn967AMeor6yDXfp5NOiIpXuMzuA5WZwJg-fQv4LB3pJoztrembU8Y_ezji3Y-XDx_nij_AFiOAOXOy3tuZJXDNjLgbpAWQFLizkFKi1LP/s1600/26778.jpg",
     "novelLink": "https://www.novelskyworld.com/p/the-greatest-estate-developer.html",
     "chapters": [
+      {
+        "num": 198,
+        "title": "الفصل 198: أساليب النجاة للمخادع (1)",
+        "chapterTitle": "الفصل 198: أساليب النجاة للمخادع (1)",
+        "fullTitle": "المهندس الأعظم - الفصل 198: أساليب النجاة للمخادع (1)",
+        "link": "https://www.novelskyworld.com/2026/11/198-1.html",
+        "date": "2026-11-03T18:00:00+00:00"
+      },
+      {
+        "num": 197,
+        "title": "الفصل 197: الدون المحنك (2)",
+        "chapterTitle": "الفصل 197: الدون المحنك (2)",
+        "fullTitle": "المهندس الأعظم - الفصل 197: الدون المحنك (2)",
+        "link": "https://www.novelskyworld.com/2026/11/197-2.html",
+        "date": "2026-11-03T14:00:00+00:00"
+      },
+      {
+        "num": 196,
+        "title": "الفصل 196: الدون المحنك (1)",
+        "chapterTitle": "الفصل 196: الدون المحنك (1)",
+        "fullTitle": "المهندس الأعظم - الفصل 196: الدون المحنك (1)",
+        "link": "https://www.novelskyworld.com/2026/11/196-1.html",
+        "date": "2026-11-03T10:00:00+00:00"
+      },
       {
         "num": 195,
         "title": "الفصل 195: صانعو الثقوب (2)",
@@ -686,14 +326,6 @@
         "date": "2026-10-25T06:00:00+00:00"
       },
       {
-        "num": 158,
-        "title": "الفصل 158: قصف رياح الزهور (1)",
-        "chapterTitle": "الفصل 158: قصف رياح الزهور (1)",
-        "fullTitle": "المهندس الأعظم - الفصل 158: قصف رياح الزهور (1)",
-        "link": "https://www.novelskyworld.com/2026/10/158-1.html",
-        "date": "2026-10-24T18:00:00+00:00"
-      },
-      {
         "num": 157,
         "title": "الفصل 157: الشخص المسؤول (3)",
         "chapterTitle": "الفصل 157: الشخص المسؤول (3)",
@@ -710,28 +342,12 @@
         "date": "2026-10-24T10:00:00+00:00"
       },
       {
-        "num": 154,
-        "title": "الفصل 154: مفترس المانا (2)",
-        "chapterTitle": "الفصل 154: مفترس المانا (2)",
-        "fullTitle": "المهندس الأعظم - الفصل 154: مفترس المانا (2)",
-        "link": "https://www.novelskyworld.com/2026/10/154-2.html",
-        "date": "2026-10-23T18:00:00+00:00"
-      },
-      {
-        "num": 153,
-        "title": "الفصل 153: مفترس المانا (1)",
-        "chapterTitle": "الفصل 153: مفترس المانا (1)",
-        "fullTitle": "المهندس الأعظم - الفصل 153: مفترس المانا (1)",
-        "link": "https://www.novelskyworld.com/2026/10/153-1.html",
-        "date": "2026-10-23T14:00:00+00:00"
-      },
-      {
-        "num": 152,
-        "title": "الفصل 152: الهارب (2)",
-        "chapterTitle": "الفصل 152: الهارب (2)",
-        "fullTitle": "المهندس الأعظم - الفصل 152: الهارب (2)",
-        "link": "https://www.novelskyworld.com/2026/10/152-2.html",
-        "date": "2026-10-23T10:00:00+00:00"
+        "num": 155,
+        "title": "الفصل 155: الشخص المسؤول (1)",
+        "chapterTitle": "الفصل 155: الشخص المسؤول (1)",
+        "fullTitle": "المهندس الأعظم - الفصل 155: الشخص المسؤول (1)",
+        "link": "https://www.novelskyworld.com/2026/10/155-1.html",
+        "date": "2026-10-24T06:00:00+00:00"
       }
     ]
   },
@@ -741,6 +357,22 @@
     "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXtc09UR_fMbbbTQ2EbFMwqaxnxqznzG3200IQv-SShVJRIESDo14W5EjEtCOS0ppCEOUowVhTFNtclbLjcuA0x4ekHkftjkfHQ8sRQFOT-KTI1dwqMs9jc04YnfoAQhn-w6vpfxDMh4D0Ha6ROwpASU-MFtSeftp_2i247MRymLSe8FUI758apyalQbf5/s320/the-academys-weapon-replicator%20(1).webp",
     "novelLink": "https://www.novelskyworld.com/p/the-academys-weapon-replicator.html",
     "chapters": [
+      {
+        "num": 72,
+        "title": "الفصل 72: الأميرة الجليدية والامتحانات الوشيكة",
+        "chapterTitle": "الفصل 72: الأميرة الجليدية والامتحانات الوشيكة",
+        "fullTitle": "The Academy's Weapon Replicator - الفصل 72: الأميرة الجليدية والامتحانات الوشيكة",
+        "link": "https://www.novelskyworld.com/2026/11/72.html",
+        "date": "2026-11-03T17:00:00+00:00"
+      },
+      {
+        "num": 71,
+        "title": "الفصل 71: رسائل غامضة",
+        "chapterTitle": "الفصل 71: رسائل غامضة",
+        "fullTitle": "The Academy's Weapon Replicator - الفصل 71: رسائل غامضة",
+        "link": "https://www.novelskyworld.com/2026/11/71.html",
+        "date": "2026-11-03T08:00:00+00:00"
+      },
       {
         "num": 70,
         "title": "الفصل 70",
@@ -886,14 +518,6 @@
         "date": "2026-10-25T08:00:00+00:00"
       },
       {
-        "num": 52,
-        "title": "الفصل 52",
-        "chapterTitle": "الفصل 52",
-        "fullTitle": "The Academy's Weapon Replicator - الفصل 52",
-        "link": "https://www.novelskyworld.com/2026/10/52.html",
-        "date": "2026-10-24T17:00:00+00:00"
-      },
-      {
         "num": 51,
         "title": "الفصل 51",
         "chapterTitle": "الفصل 51",
@@ -916,14 +540,6 @@
         "fullTitle": "The Academy's Weapon Replicator - الفصل 49",
         "link": "https://www.novelskyworld.com/2026/10/49.html",
         "date": "2026-10-23T08:00:00+00:00"
-      },
-      {
-        "num": 48,
-        "title": "الفصل 48",
-        "chapterTitle": "الفصل 48",
-        "fullTitle": "The Academy's Weapon Replicator - الفصل 48",
-        "link": "https://www.novelskyworld.com/2026/10/48.html",
-        "date": "2026-10-22T17:00:00+00:00"
       }
     ]
   },
@@ -933,6 +549,22 @@
     "novelCover": "https://cdn.novelskyworld.com/gh/rrrtfdeee-art/nsw-public@main/covers/when-the-entire-sect-read-my-thoughts-the-plot-went-off-the-rails.webp",
     "novelLink": "https://www.novelskyworld.com/p/when-entire-sect-read-my-thoughts-plot.html",
     "chapters": [
+      {
+        "num": 22,
+        "title": "الفصل 22: إشهار السيف لإرعاب المزارعين — لقد نجحتَ في جذب انتباهي",
+        "chapterTitle": "الفصل 22: إشهار السيف لإرعاب المزارعين — لقد نجحتَ في جذب انتباهي",
+        "fullTitle": "عندما قرأت الطائفة بأكملها أفكاري، انهارت الحبكة حقاً - الفصل 22: إشهار السيف لإرعاب المزارعين — لقد نجحتَ في جذب انتباهي",
+        "link": "https://www.novelskyworld.com/2026/11/22.html",
+        "date": "2026-11-03T16:00:00+00:00"
+      },
+      {
+        "num": 21,
+        "title": "الفصل 21: الحبكة تنهار تماماً بعد أن قرأت الطائفة أفكاري!",
+        "chapterTitle": "الفصل 21: الحبكة تنهار تماماً بعد أن قرأت الطائفة أفكاري!",
+        "fullTitle": "عندما قرأت الطائفة بأكملها أفكاري، انهارت الحبكة حقاً - الفصل 21: الحبكة تنهار تماماً بعد أن قرأت الطائفة أفكاري!",
+        "link": "https://www.novelskyworld.com/2026/11/21.html",
+        "date": "2026-11-03T09:00:00+00:00"
+      },
       {
         "num": 20,
         "title": "الفصل 20: مآثر خفية.. الأخت الكبرى تشو تقتنص المواهب ببراعة",
@@ -1078,20 +710,396 @@
         "date": "2026-10-25T09:00:00+00:00"
       },
       {
-        "num": 2,
-        "title": "الفصل 2: رفض التخصص المنحوس — البداية من رفض مسار مزارعي السيف",
-        "chapterTitle": "الفصل 2: رفض التخصص المنحوس — البداية من رفض مسار مزارعي السيف",
-        "fullTitle": "عندما قرأت الطائفة بأكملها أفكاري، انهارت الحبكة حقاً - الفصل 2: رفض التخصص المنحوس — البداية من رفض مسار مزارعي السيف",
-        "link": "https://www.novelskyworld.com/2026/10/2_02059834639.html",
-        "date": "2026-10-24T16:00:00+00:00"
-      },
-      {
         "num": 1,
         "title": "الفصل 1: الأخت المظلومة تقرأ أفكاري.. الحبكة تنهار فعلاً!",
         "chapterTitle": "الفصل 1: الأخت المظلومة تقرأ أفكاري.. الحبكة تنهار فعلاً!",
         "fullTitle": "عندما قرأت الطائفة بأكملها أفكاري، انهارت الحبكة حقاً - الفصل 1: الأخت المظلومة تقرأ أفكاري.. الحبكة تنهار فعلاً!",
         "link": "https://www.novelskyworld.com/2026/10/1_0749779442.html",
         "date": "2026-10-24T09:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "novelId": 2,
+    "novelTitle": "المزارع الخبير في المدرسة الابتدائية",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGt_-PkeSfBI3Ss9fJHYxD8Pfvh6r6C2bweu3mZ9qWLZvCprxO1dYX08AE31Of5yIXFbQsXgiB1IqskOfRO9e62GbdJtdgyUGt6lV0jaQ3EJOVXlFUYpWDiuTvD8ABMBH0twMkU-v7tUh1gsVP-9H2gxQwRkshFZDYhMrKGQC7AObEg34_D99mRUcemJxM/s1600/1000140976.webp",
+    "novelLink": "https://www.novelskyworld.com/p/the-expert-cultivator-in-elementary.html",
+    "chapters": [
+      {
+        "num": 131,
+        "title": "الفصل 131: اللعب بالنار",
+        "chapterTitle": "الفصل 131: اللعب بالنار",
+        "fullTitle": "المزارع الخبير في المدرسة الابتدائية - الفصل 131: اللعب بالنار",
+        "link": "https://www.novelskyworld.com/2026/11/131.html",
+        "date": "2026-11-03T15:00:00+00:00"
+      },
+      {
+        "num": 130,
+        "title": "الفصل 130: أنا ملكك وحدك",
+        "chapterTitle": "الفصل 130: أنا ملكك وحدك",
+        "fullTitle": "المزارع الخبير في المدرسة الابتدائية - الفصل 130: أنا ملكك وحدك",
+        "link": "https://www.novelskyworld.com/2026/11/130.html",
+        "date": "2026-11-03T06:00:00+00:00"
+      },
+      {
+        "num": 129,
+        "title": "الفصل 129: الثعلبة القادمة من عالم آخر",
+        "chapterTitle": "الفصل 129: الثعلبة القادمة من عالم آخر",
+        "fullTitle": "المزارع الخبير في المدرسة الابتدائية - الفصل 129: الثعلبة القادمة من عالم آخر",
+        "link": "https://www.novelskyworld.com/2026/11/129.html",
+        "date": "2026-11-02T15:00:00+00:00"
+      },
+      {
+        "num": 128,
+        "title": "الفصل 128: نهاية مسابقة الموسيقى وخفقان القلب",
+        "chapterTitle": "الفصل 128: نهاية مسابقة الموسيقى وخفقان القلب",
+        "fullTitle": "المزارع الخبير في المدرسة الابتدائية - الفصل 128: نهاية مسابقة الموسيقى وخفقان القلب",
+        "link": "https://www.novelskyworld.com/2026/11/128.html",
+        "date": "2026-11-02T06:00:00+00:00"
+      },
+      {
+        "num": 127,
+        "title": "الفصل 127: ساحة الصراع العاطفي بين الأختين",
+        "chapterTitle": "الفصل 127: ساحة الصراع العاطفي بين الأختين",
+        "fullTitle": "المزارع الخبير في المدرسة الابتدائية - الفصل 127: ساحة الصراع العاطفي بين الأختين",
+        "link": "https://www.novelskyworld.com/2026/11/127.html",
+        "date": "2026-11-01T15:00:00+00:00"
+      },
+      {
+        "num": 126,
+        "title": "الفصل 126: همسات في قلب جيانغ جينغ شي",
+        "chapterTitle": "الفصل 126: همسات في قلب جيانغ جينغ شي",
+        "fullTitle": "المزارع الخبير في المدرسة الابتدائية - الفصل 126: همسات في قلب جيانغ جينغ شي",
+        "link": "https://www.novelskyworld.com/2026/11/126_01871466861.html",
+        "date": "2026-11-01T06:00:00+00:00"
+      },
+      {
+        "num": 125,
+        "title": "الفصل 125: موعد مع جيانغ جينغ شي (فصل ضخم للغاية)",
+        "chapterTitle": "الفصل 125: موعد مع جيانغ جينغ شي (فصل ضخم للغاية)",
+        "fullTitle": "المزارع الخبير في المدرسة الابتدائية - الفصل 125: موعد مع جيانغ جينغ شي (فصل ضخم للغاية)",
+        "link": "https://www.novelskyworld.com/2026/10/125.html",
+        "date": "2026-10-31T15:00:00+00:00"
+      },
+      {
+        "num": 124,
+        "title": "الفصل 124: نتائج المسابقة واللقاء الليلي",
+        "chapterTitle": "الفصل 124: نتائج المسابقة واللقاء الليلي",
+        "fullTitle": "المزارع الخبير في المدرسة الابتدائية - الفصل 124: نتائج المسابقة واللقاء الليلي",
+        "link": "https://www.novelskyworld.com/2026/10/124.html",
+        "date": "2026-10-31T06:00:00+00:00"
+      },
+      {
+        "num": 123,
+        "title": "الفصل 123: الأخ تشنغران، نلتقي مجدداً",
+        "chapterTitle": "الفصل 123: الأخ تشنغران، نلتقي مجدداً",
+        "fullTitle": "المزارع الخبير في المدرسة الابتدائية - الفصل 123: الأخ تشنغران، نلتقي مجدداً",
+        "link": "https://www.novelskyworld.com/2026/10/123.html",
+        "date": "2026-10-30T15:00:00+00:00"
+      },
+      {
+        "num": 122,
+        "title": "الفصل 122: الكبرياء المتغطرس لم يتبقَّ منه سوى التواضع",
+        "chapterTitle": "الفصل 122: الكبرياء المتغطرس لم يتبقَّ منه سوى التواضع",
+        "fullTitle": "المزارع الخبير في المدرسة الابتدائية - الفصل 122: الكبرياء المتغطرس لم يتبقَّ منه سوى التواضع",
+        "link": "https://www.novelskyworld.com/2026/10/122.html",
+        "date": "2026-10-30T06:00:00+00:00"
+      },
+      {
+        "num": 121,
+        "title": "الفصل 121: وثيقة خطوبة",
+        "chapterTitle": "الفصل 121: وثيقة خطوبة",
+        "fullTitle": "المزارع الخبير في المدرسة الابتدائية - الفصل 121: وثيقة خطوبة",
+        "link": "https://www.novelskyworld.com/2026/10/121.html",
+        "date": "2026-10-29T15:00:00+00:00"
+      },
+      {
+        "num": 120,
+        "title": "الفصل 120: لين تشنغران الصادق",
+        "chapterTitle": "الفصل 120: لين تشنغران الصادق",
+        "fullTitle": "المزارع الخبير في المدرسة الابتدائية - الفصل 120: لين تشنغران الصادق",
+        "link": "https://www.novelskyworld.com/2026/10/120.html",
+        "date": "2026-10-29T06:00:00+00:00"
+      },
+      {
+        "num": 119,
+        "title": "الفصل 119: جيانغ شيويه لي تُبوح بصدق قلبها (فصل ضخم)",
+        "chapterTitle": "الفصل 119: جيانغ شيويه لي تُبوح بصدق قلبها (فصل ضخم)",
+        "fullTitle": "المزارع الخبير في المدرسة الابتدائية - الفصل 119: جيانغ شيويه لي تُبوح بصدق قلبها (فصل ضخم)",
+        "link": "https://www.novelskyworld.com/2026/10/119.html",
+        "date": "2026-10-28T15:00:00+00:00"
+      },
+      {
+        "num": 118,
+        "title": "الفصل 118: نيران الغيرة",
+        "chapterTitle": "الفصل 118: نيران الغيرة",
+        "fullTitle": "المزارع الخبير في المدرسة الابتدائية - الفصل 118: نيران الغيرة",
+        "link": "https://www.novelskyworld.com/2026/10/118.html",
+        "date": "2026-10-28T06:00:00+00:00"
+      },
+      {
+        "num": 117,
+        "title": "الفصل 117: إنه موسم أبيض مرة أخرى",
+        "chapterTitle": "الفصل 117: إنه موسم أبيض مرة أخرى",
+        "fullTitle": "المزارع الخبير في المدرسة الابتدائية - الفصل 117: إنه موسم أبيض مرة أخرى",
+        "link": "https://www.novelskyworld.com/2026/10/117.html",
+        "date": "2026-10-27T15:00:00+00:00"
+      },
+      {
+        "num": 116,
+        "title": "الفصل 116: يا أختي الصغيرة، هل تذهب الأخت الكبرى بدلاً عنك؟",
+        "chapterTitle": "الفصل 116: يا أختي الصغيرة، هل تذهب الأخت الكبرى بدلاً عنك؟",
+        "fullTitle": "المزارع الخبير في المدرسة الابتدائية - الفصل 116: يا أختي الصغيرة، هل تذهب الأخت الكبرى بدلاً عنك؟",
+        "link": "https://www.novelskyworld.com/2026/10/116.html",
+        "date": "2026-10-27T06:00:00+00:00"
+      },
+      {
+        "num": 115,
+        "title": "الفصل 115: ملف شريك الخطوبة",
+        "chapterTitle": "الفصل 115: ملف شريك الخطوبة",
+        "fullTitle": "المزارع الخبير في المدرسة الابتدائية - الفصل 115: ملف شريك الخطوبة",
+        "link": "https://www.novelskyworld.com/2026/10/115.html",
+        "date": "2026-10-26T15:00:00+00:00"
+      },
+      {
+        "num": 114,
+        "title": "الفصل 114: قدرة جديدة للطاقة الحيوية",
+        "chapterTitle": "الفصل 114: قدرة جديدة للطاقة الحيوية",
+        "fullTitle": "المزارع الخبير في المدرسة الابتدائية - الفصل 114: قدرة جديدة للطاقة الحيوية",
+        "link": "https://www.novelskyworld.com/2026/10/114.html",
+        "date": "2026-10-26T06:00:00+00:00"
+      },
+      {
+        "num": 112,
+        "title": "الفصل 112: رائعة.. رائعة حقاً",
+        "chapterTitle": "الفصل 112: رائعة.. رائعة حقاً",
+        "fullTitle": "المزارع الخبير في المدرسة الابتدائية - الفصل 112: رائعة.. رائعة حقاً",
+        "link": "https://www.novelskyworld.com/2026/10/112.html",
+        "date": "2026-10-25T15:00:00+00:00"
+      },
+      {
+        "num": 113,
+        "title": "الفصل 113: ألستُ ملكك؟",
+        "chapterTitle": "الفصل 113: ألستُ ملكك؟",
+        "fullTitle": "المزارع الخبير في المدرسة الابتدائية - الفصل 113: ألستُ ملكك؟",
+        "link": "https://www.novelskyworld.com/2026/10/113.html",
+        "date": "2026-10-25T15:00:00+00:00"
+      },
+      {
+        "num": 111,
+        "title": "الفصل 111: هذا الثأر ستحفظه الأخت",
+        "chapterTitle": "الفصل 111: هذا الثأر ستحفظه الأخت",
+        "fullTitle": "المزارع الخبير في المدرسة الابتدائية - الفصل 111: هذا الثأر ستحفظه الأخت",
+        "link": "https://www.novelskyworld.com/2026/10/111.html",
+        "date": "2026-10-24T15:00:00+00:00"
+      },
+      {
+        "num": 110,
+        "title": "الفصل 110: هي تشينغ الصغيرة بحالة مثالية",
+        "chapterTitle": "الفصل 110: هي تشينغ الصغيرة بحالة مثالية",
+        "fullTitle": "المزارع الخبير في المدرسة الابتدائية - الفصل 110: هي تشينغ الصغيرة بحالة مثالية",
+        "link": "https://www.novelskyworld.com/2026/10/110.html",
+        "date": "2026-10-24T06:00:00+00:00"
+      },
+      {
+        "num": 109,
+        "title": "الفصل 109: الحلم الجميل ليس حلماً",
+        "chapterTitle": "الفصل 109: الحلم الجميل ليس حلماً",
+        "fullTitle": "المزارع الخبير في المدرسة الابتدائية - الفصل 109: الحلم الجميل ليس حلماً",
+        "link": "https://www.novelskyworld.com/2026/10/109.html",
+        "date": "2026-10-23T15:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "novelId": 1,
+    "novelTitle": "After Severing Ties",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi44S8d8HI6VSRqi3PClNXsCSwy23aHJv4Hmk3Y_HdpekCGzMEhtAnfAOrCSV-aDh3J4vfa2Sgnpe_IRrjlIkfUrIM0-9Vu-t9x1Opsz2ab4P394JnXrYax-y0Af90QY50xvyEb948xN14er5db6c6LEJM-PSi867VfU-T_EYHha-j9oCElXs5Ik0rn0HTf/s0/1000134866.webp",
+    "novelLink": "https://www.novelskyworld.com/p/severing-ties.html",
+    "chapters": [
+      {
+        "num": 332,
+        "title": "الفصل 332: سأضمن لكِ المجد والرخاء",
+        "chapterTitle": "الفصل 332: سأضمن لكِ المجد والرخاء",
+        "fullTitle": "After Severing Ties - الفصل 332: سأضمن لكِ المجد والرخاء",
+        "link": "https://www.novelskyworld.com/2026/11/after-severing-ties-332.html",
+        "date": "2026-11-03T13:00:00+00:00"
+      },
+      {
+        "num": 331,
+        "title": "الفصل 331: روث فئران الحقول!",
+        "chapterTitle": "الفصل 331: روث فئران الحقول!",
+        "fullTitle": "After Severing Ties - الفصل 331: روث فئران الحقول!",
+        "link": "https://www.novelskyworld.com/2026/11/after-severing-ties-331.html",
+        "date": "2026-11-03T06:00:00+00:00"
+      },
+      {
+        "num": 330,
+        "title": "الفصل 330: أحضروا خيطاً قطنياً",
+        "chapterTitle": "الفصل 330: أحضروا خيطاً قطنياً",
+        "fullTitle": "After Severing Ties - الفصل 330: أحضروا خيطاً قطنياً",
+        "link": "https://www.novelskyworld.com/2026/11/after-severing-ties-330.html",
+        "date": "2026-11-02T13:00:00+00:00"
+      },
+      {
+        "num": 329,
+        "title": "الفصل 329: هل بلغت سن الرشد؟",
+        "chapterTitle": "الفصل 329: هل بلغت سن الرشد؟",
+        "fullTitle": "After Severing Ties - الفصل 329: هل بلغت سن الرشد؟",
+        "link": "https://www.novelskyworld.com/2026/11/after-severing-ties-329.html",
+        "date": "2026-11-02T06:00:00+00:00"
+      },
+      {
+        "num": 328,
+        "title": "الفصل 328: غضارة الشباب",
+        "chapterTitle": "الفصل 328: غضارة الشباب",
+        "fullTitle": "After Severing Ties - الفصل 328: غضارة الشباب",
+        "link": "https://www.novelskyworld.com/2026/11/after-severing-ties-328.html",
+        "date": "2026-11-01T13:00:00+00:00"
+      },
+      {
+        "num": 327,
+        "title": "الفصل 327: أيها الحمو، لا يمكنك الموت",
+        "chapterTitle": "الفصل 327: أيها الحمو، لا يمكنك الموت",
+        "fullTitle": "After Severing Ties - الفصل 327: أيها الحمو، لا يمكنك الموت",
+        "link": "https://www.novelskyworld.com/2026/10/after-severing-ties-327.html",
+        "date": "2026-11-01T06:00:00+00:00"
+      },
+      {
+        "num": 326,
+        "title": "الفصل 326: مصاحبة الملك كمصاحبة النمر",
+        "chapterTitle": "الفصل 326: مصاحبة الملك كمصاحبة النمر",
+        "fullTitle": "After Severing Ties - الفصل 326: مصاحبة الملك كمصاحبة النمر",
+        "link": "https://www.novelskyworld.com/2026/10/after-severing-ties-326.html",
+        "date": "2026-10-31T13:00:00+00:00"
+      },
+      {
+        "num": 325,
+        "title": "الفصل 325: أليس هذا غير لائق؟",
+        "chapterTitle": "الفصل 325: أليس هذا غير لائق؟",
+        "fullTitle": "After Severing Ties - الفصل 325: أليس هذا غير لائق؟",
+        "link": "https://www.novelskyworld.com/2026/10/after-severing-ties-325.html",
+        "date": "2026-10-31T06:00:00+00:00"
+      },
+      {
+        "num": 324,
+        "title": "الفصل 324: جولة تفقدية",
+        "chapterTitle": "الفصل 324: جولة تفقدية",
+        "fullTitle": "After Severing Ties - الفصل 324: جولة تفقدية",
+        "link": "https://www.novelskyworld.com/2026/10/after-severing-ties-324.html",
+        "date": "2026-10-30T13:00:00+00:00"
+      },
+      {
+        "num": 323,
+        "title": "الفصل 323: إلى المعسكر العسكري!",
+        "chapterTitle": "الفصل 323: إلى المعسكر العسكري!",
+        "fullTitle": "After Severing Ties - الفصل 323: إلى المعسكر العسكري!",
+        "link": "https://www.novelskyworld.com/2026/10/after-severing-ties-323.html",
+        "date": "2026-10-30T06:00:00+00:00"
+      },
+      {
+        "num": 322,
+        "title": "الفصل 322: إذا جاء الأصدقاء، فلديهم نبيذ جيد",
+        "chapterTitle": "الفصل 322: إذا جاء الأصدقاء، فلديهم نبيذ جيد",
+        "fullTitle": "After Severing Ties - الفصل 322: إذا جاء الأصدقاء، فلديهم نبيذ جيد",
+        "link": "https://www.novelskyworld.com/2026/10/after-severing-ties-322.html",
+        "date": "2026-10-29T13:00:00+00:00"
+      },
+      {
+        "num": 321,
+        "title": "الفصل 321: ألا تخشى الموت؟",
+        "chapterTitle": "الفصل 321: ألا تخشى الموت؟",
+        "fullTitle": "After Severing Ties - الفصل 321: ألا تخشى الموت؟",
+        "link": "https://www.novelskyworld.com/2026/10/after-severing-ties-321.html",
+        "date": "2026-10-29T06:00:00+00:00"
+      },
+      {
+        "num": 320,
+        "title": "الفصل 320: كارثة وشيكة",
+        "chapterTitle": "الفصل 320: كارثة وشيكة",
+        "fullTitle": "After Severing Ties - الفصل 320: كارثة وشيكة",
+        "link": "https://www.novelskyworld.com/2026/10/after-severing-ties-320.html",
+        "date": "2026-10-28T13:00:00+00:00"
+      },
+      {
+        "num": 319,
+        "title": "الفصل 319: العلاقات بين الدولتين",
+        "chapterTitle": "الفصل 319: العلاقات بين الدولتين",
+        "fullTitle": "After Severing Ties - الفصل 319: العلاقات بين الدولتين",
+        "link": "https://www.novelskyworld.com/2026/10/after-severing-ties-319.html",
+        "date": "2026-10-28T06:00:00+00:00"
+      },
+      {
+        "num": 318,
+        "title": "الفصل 318: إنه بالتأكيد الكلب تشين!",
+        "chapterTitle": "الفصل 318: إنه بالتأكيد الكلب تشين!",
+        "fullTitle": "After Severing Ties - الفصل 318: إنه بالتأكيد الكلب تشين!",
+        "link": "https://www.novelskyworld.com/2026/10/after-severing-ties-318.html",
+        "date": "2026-10-27T13:00:00+00:00"
+      },
+      {
+        "num": 317,
+        "title": "الفصل 317: هذا هو القدر",
+        "chapterTitle": "الفصل 317: هذا هو القدر",
+        "fullTitle": "After Severing Ties - الفصل 317: هذا هو القدر",
+        "link": "https://www.novelskyworld.com/2026/10/after-severing-ties-317.html",
+        "date": "2026-10-27T06:00:00+00:00"
+      },
+      {
+        "num": 316,
+        "title": "الفصل 316: امرأة قاسية ولعينة حقاً",
+        "chapterTitle": "الفصل 316: امرأة قاسية ولعينة حقاً",
+        "fullTitle": "After Severing Ties - الفصل 316: امرأة قاسية ولعينة حقاً",
+        "link": "https://www.novelskyworld.com/2026/10/after-severing-ties-316.html",
+        "date": "2026-10-26T13:00:00+00:00"
+      },
+      {
+        "num": 315,
+        "title": "الفصل 315: الاستعداد لاقتحام التشكيلة!",
+        "chapterTitle": "الفصل 315: الاستعداد لاقتحام التشكيلة!",
+        "fullTitle": "After Severing Ties - الفصل 315: الاستعداد لاقتحام التشكيلة!",
+        "link": "https://www.novelskyworld.com/2026/10/after-severing-ties-315.html",
+        "date": "2026-10-26T06:00:00+00:00"
+      },
+      {
+        "num": 314,
+        "title": "الفصل 314: تواطؤ المسؤولين!",
+        "chapterTitle": "الفصل 314: تواطؤ المسؤولين!",
+        "fullTitle": "After Severing Ties - الفصل 314: تواطؤ المسؤولين!",
+        "link": "https://www.novelskyworld.com/2026/10/after-severing-ties-314.html",
+        "date": "2026-10-25T13:00:00+00:00"
+      },
+      {
+        "num": 313,
+        "title": "الفصل 313: جمعية قارب النجاة",
+        "chapterTitle": "الفصل 313: جمعية قارب النجاة",
+        "fullTitle": "After Severing Ties - الفصل 313: جمعية قارب النجاة",
+        "link": "https://www.novelskyworld.com/2026/10/after-severing-ties-313.html",
+        "date": "2026-10-25T06:00:00+00:00"
+      },
+      {
+        "num": 312,
+        "title": "الفصل 312: تشين تشان، قل كلمتك!",
+        "chapterTitle": "الفصل 312: تشين تشان، قل كلمتك!",
+        "fullTitle": "After Severing Ties - الفصل 312: تشين تشان، قل كلمتك!",
+        "link": "https://www.novelskyworld.com/2026/10/after-severing-ties-312.html",
+        "date": "2026-10-24T13:00:00+00:00"
+      },
+      {
+        "num": 311,
+        "title": "الفصل 311: ألا تملك أدنى إدراك؟",
+        "chapterTitle": "الفصل 311: ألا تملك أدنى إدراك؟",
+        "fullTitle": "After Severing Ties - الفصل 311: ألا تملك أدنى إدراك؟",
+        "link": "https://www.novelskyworld.com/2026/10/after-severing-ties-311.html",
+        "date": "2026-10-24T06:00:00+00:00"
+      },
+      {
+        "num": 310,
+        "title": "الفصل 310: هو 'مُو'!",
+        "chapterTitle": "الفصل 310: هو 'مُو'!",
+        "fullTitle": "After Severing Ties - الفصل 310: هو 'مُو'!",
+        "link": "https://www.novelskyworld.com/2026/10/after-severing-ties-310.html",
+        "date": "2026-10-23T13:00:00+00:00"
       }
     ]
   },
@@ -1134,14 +1142,6 @@
         "date": "2026-10-25T06:00:00+00:00"
       },
       {
-        "num": 268,
-        "title": "الفصل 268: مراهم إذابة العظام وتبديد الروح",
-        "chapterTitle": "الفصل 268: مراهم إذابة العظام وتبديد الروح",
-        "fullTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا - الفصل 268: مراهم إذابة العظام وتبديد الروح",
-        "link": "https://www.novelskyworld.com/2026/10/268.html",
-        "date": "2026-10-24T18:00:00+00:00"
-      },
-      {
         "num": 267,
         "title": "الفصل 267: أرواح البشر أرخص من حشائش الأرض",
         "chapterTitle": "الفصل 267: أرواح البشر أرخص من حشائش الأرض",
@@ -1158,28 +1158,12 @@
         "date": "2026-10-24T10:00:00+00:00"
       },
       {
-        "num": 264,
-        "title": "الفصل 264: البداية المتغيرة",
-        "chapterTitle": "الفصل 264: البداية المتغيرة",
-        "fullTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا - الفصل 264: البداية المتغيرة",
-        "link": "https://www.novelskyworld.com/2026/10/264.html",
-        "date": "2026-10-23T18:00:00+00:00"
-      },
-      {
-        "num": 263,
-        "title": "الفصل 263: أنا أقول، وأنت تفعل",
-        "chapterTitle": "الفصل 263: أنا أقول، وأنت تفعل",
-        "fullTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا - الفصل 263: أنا أقول، وأنت تفعل",
-        "link": "https://www.novelskyworld.com/2026/10/263.html",
-        "date": "2026-10-23T14:00:00+00:00"
-      },
-      {
-        "num": 262,
-        "title": "الفصل 262: خطوات مليئة بالخطورة والموت",
-        "chapterTitle": "الفصل 262: خطوات مليئة بالخطورة والموت",
-        "fullTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا - الفصل 262: خطوات مليئة بالخطورة والموت",
-        "link": "https://www.novelskyworld.com/2026/10/262.html",
-        "date": "2026-10-23T10:00:00+00:00"
+        "num": 265,
+        "title": "الفصل 265: التوجيه عن بُعد",
+        "chapterTitle": "الفصل 265: التوجيه عن بُعد",
+        "fullTitle": "نظام الانعكاس لا يظهر إلا بعد بلوغ مرحلة الماهايانا - الفصل 265: التوجيه عن بُعد",
+        "link": "https://www.novelskyworld.com/2026/10/265.html",
+        "date": "2026-10-24T06:00:00+00:00"
       }
     ]
   },
